@@ -1,0 +1,2 @@
+# Preserve exact source/asset bytes on every platform, including Windows clones.
+* -text
