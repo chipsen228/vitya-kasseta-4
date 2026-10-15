@@ -1,0 +1,535 @@
+{
+	"assets": [
+		{
+			"key": "scatter/nat-grass",
+			"lod_triangles": 15.0,
+			"params": {},
+			"path": "res://assets/generated/scatter-nat-grass-fccbea5d1e8a7ffcf91f.res",
+			"previous_triangles": 155.0,
+			"triangles": 30.0
+		},
+		{
+			"key": "scatter/nat-grass-tall",
+			"lod_triangles": 15.0,
+			"params": {},
+			"path": "res://assets/generated/scatter-nat-grass-tall-3b598b093948ef0fb772.res",
+			"previous_triangles": 326.0,
+			"triangles": 30.0
+		},
+		{
+			"key": "scatter/nat-fern",
+			"lod_triangles": 30.0,
+			"params": {},
+			"path": "res://assets/generated/scatter-nat-fern-a999b9fc2232ca623de9.res",
+			"previous_triangles": 288.0,
+			"triangles": 100.0
+		},
+		{
+			"key": "scatter/nat-plant-big",
+			"lod_triangles": 10.0,
+			"params": {},
+			"path": "res://assets/generated/scatter-nat-plant-big-3102544f4decac0258c7.res",
+			"previous_triangles": 112.0,
+			"triangles": 20.0
+		},
+		{
+			"key": "scatter/nat-bush",
+			"lod_triangles": 12.0,
+			"params": {},
+			"path": "res://assets/generated/scatter-nat-bush-54b7d761f5660c29371b.res",
+			"previous_triangles": 900.0,
+			"triangles": 36.0
+		},
+		{
+			"key": "scatter/nat-pebble",
+			"lod_triangles": 36.0,
+			"params": {},
+			"path": "res://assets/generated/scatter-nat-pebble-e56303a8eba8e225e9c0.res",
+			"previous_triangles": 136.0,
+			"triangles": 48.0
+		},
+		{
+			"key": "scatter/nat-rock-a",
+			"lod_triangles": 36.0,
+			"params": {},
+			"path": "res://assets/generated/scatter-nat-rock-a-9cb2506eaa99734cf2ac.res",
+			"previous_triangles": 244.0,
+			"triangles": 48.0
+		},
+		{
+			"key": "scatter/nat-tree-a",
+			"lod_triangles": 130.0,
+			"params": {},
+			"path": "res://assets/generated/scatter-nat-tree-a-a8e084d8657fda72acc2.res",
+			"previous_triangles": 3505.0,
+			"triangles": 306.0
+		},
+		{
+			"key": "scatter/nat-pine-a",
+			"lod_triangles": 82.0,
+			"params": {},
+			"path": "res://assets/generated/scatter-nat-pine-a-422103898b6ae06c46ef.res",
+			"previous_triangles": 3947.0,
+			"triangles": 172.0
+		},
+		{
+			"key": "scatter/nat-deadtree-a",
+			"lod_triangles": 92.0,
+			"params": {},
+			"path": "res://assets/generated/scatter-nat-deadtree-a-6def72a1c8fe8cd0dfa8.res",
+			"previous_triangles": 5702.0,
+			"triangles": 136.0
+		},
+		{
+			"key": "scatter/ok-stump",
+			"lod_triangles": 32.0,
+			"params": {},
+			"path": "res://assets/generated/scatter-ok-stump-4f8916a73319ddce7a4b.res",
+			"previous_triangles": 56.0,
+			"triangles": 48.0
+		},
+		{
+			"key": "scatter/ok-haybale",
+			"lod_triangles": 12.0,
+			"params": {},
+			"path": "res://assets/generated/scatter-ok-haybale-9dd931fc1df7fae79bb1.res",
+			"previous_triangles": 180.0,
+			"triangles": 36.0
+		},
+		{
+			"key": "scatter/ok-barrel-rust",
+			"lod_triangles": 32.0,
+			"params": {},
+			"path": "res://assets/generated/scatter-ok-barrel-rust-d13d09c11f846b73a8e3.res",
+			"previous_triangles": 412.0,
+			"triangles": 96.0
+		},
+		{
+			"key": "scatter/ok-can",
+			"lod_triangles": 32.0,
+			"params": {},
+			"path": "res://assets/generated/scatter-ok-can-2d1c05f958e9ae020013.res",
+			"previous_triangles": 156.0,
+			"triangles": 96.0
+		},
+		{
+			"key": "scatter/ok-logstack",
+			"lod_triangles": 64.0,
+			"params": {},
+			"path": "res://assets/generated/scatter-ok-logstack-39d8ef4a51a35bb26ce6.res",
+			"previous_triangles": 184.0,
+			"triangles": 160.0
+		},
+		{
+			"key": "scatter/ok-fence-broken",
+			"lod_triangles": 48.0,
+			"params": {},
+			"path": "res://assets/generated/scatter-ok-fence-broken-c799a79598fb4ce201e0.res",
+			"previous_triangles": 320.0,
+			"triangles": 48.0
+		},
+		{
+			"key": "scatter/ok-fence-simple",
+			"lod_triangles": 48.0,
+			"params": {},
+			"path": "res://assets/generated/scatter-ok-fence-simple-c431eb28b93f27ccc1dc.res",
+			"previous_triangles": 64.0,
+			"triangles": 48.0
+		},
+		{
+			"key": "scatter/ok-lily",
+			"lod_triangles": 4.0,
+			"params": {},
+			"path": "res://assets/generated/scatter-ok-lily-9e7e717563dc24f13752.res",
+			"previous_triangles": 52.0,
+			"triangles": 8.0
+		},
+		{
+			"key": "scatter/ok-rocks",
+			"lod_triangles": 36.0,
+			"params": {},
+			"path": "res://assets/generated/scatter-ok-rocks-940d9cd741f36d4cc2b3.res",
+			"previous_triangles": 364.0,
+			"triangles": 144.0
+		},
+		{
+			"key": "scatter/ok-pumpkin",
+			"lod_triangles": 56.0,
+			"params": {},
+			"path": "res://assets/generated/scatter-ok-pumpkin-73d9744b147bf61a19cf.res",
+			"previous_triangles": 120.0,
+			"triangles": 56.0
+		},
+		{
+			"key": "scatter/nat-twisted",
+			"lod_triangles": 92.0,
+			"params": {},
+			"path": "res://assets/generated/scatter-nat-twisted-c0c54aaa8cf59fa10e09.res",
+			"previous_triangles": 9564.0,
+			"triangles": 136.0
+		},
+		{
+			"key": "forest/tree",
+			"lod_triangles": 82.0,
+			"params": {
+				"variant": 0.0
+			},
+			"path": "res://assets/generated/forest-tree-22b768ef0310ac776eee.res",
+			"previous_triangles": null,
+			"triangles": 118.0
+		},
+		{
+			"key": "forest/tree",
+			"lod_triangles": 82.0,
+			"params": {
+				"variant": 1.0
+			},
+			"path": "res://assets/generated/forest-tree-db7351114a007c5eabb0.res",
+			"previous_triangles": null,
+			"triangles": 118.0
+		},
+		{
+			"key": "forest/tree",
+			"lod_triangles": 130.0,
+			"params": {
+				"variant": 2.0
+			},
+			"path": "res://assets/generated/forest-tree-f31a976f69794bdc6980.res",
+			"previous_triangles": null,
+			"triangles": 228.0
+		},
+		{
+			"key": "forest/tree",
+			"lod_triangles": 130.0,
+			"params": {
+				"variant": 3.0
+			},
+			"path": "res://assets/generated/forest-tree-3416c664c148df156573.res",
+			"previous_triangles": null,
+			"triangles": 228.0
+		},
+		{
+			"key": "forest/tree",
+			"lod_triangles": 130.0,
+			"params": {
+				"variant": 4.0
+			},
+			"path": "res://assets/generated/forest-tree-aa255addbdd19c04264a.res",
+			"previous_triangles": null,
+			"triangles": 228.0
+		},
+		{
+			"key": "forest/tree",
+			"lod_triangles": 92.0,
+			"params": {
+				"variant": 5.0
+			},
+			"path": "res://assets/generated/forest-tree-308ff5070e33075804a4.res",
+			"previous_triangles": null,
+			"triangles": 136.0
+		},
+		{
+			"key": "forest/tree",
+			"lod_triangles": 92.0,
+			"params": {
+				"variant": 6.0
+			},
+			"path": "res://assets/generated/forest-tree-c514a61587a52f2f036e.res",
+			"previous_triangles": null,
+			"triangles": 136.0
+		},
+		{
+			"key": "forest/orchard",
+			"lod_triangles": 130.0,
+			"params": {
+				"variant": 0.0
+			},
+			"path": "res://assets/generated/forest-orchard-e6f34679b31bcec83099.res",
+			"previous_triangles": null,
+			"triangles": 228.0
+		},
+		{
+			"key": "forest/orchard",
+			"lod_triangles": 130.0,
+			"params": {
+				"variant": 1.0
+			},
+			"path": "res://assets/generated/forest-orchard-57c2aa28d1ee2c2d85fc.res",
+			"previous_triangles": null,
+			"triangles": 228.0
+		},
+		{
+			"key": "forest/orchard",
+			"lod_triangles": 130.0,
+			"params": {
+				"variant": 2.0
+			},
+			"path": "res://assets/generated/forest-orchard-4fc31a0a53a12d6337ab.res",
+			"previous_triangles": null,
+			"triangles": 228.0
+		},
+		{
+			"key": "object/hand",
+			"lod_triangles": 0,
+			"params": {},
+			"path": "res://assets/generated/object-hand-5ec2d0a26039b5969065.res",
+			"previous_triangles": null,
+			"triangles": 62
+		},
+		{
+			"key": "object/torso",
+			"lod_triangles": 0,
+			"params": {},
+			"path": "res://assets/generated/object-torso-06895c1d8dbedba45534.res",
+			"previous_triangles": null,
+			"triangles": 76
+		},
+		{
+			"key": "object/boot",
+			"lod_triangles": 0,
+			"params": {},
+			"path": "res://assets/generated/object-boot-d0ef120e9c2b0c9a3a32.res",
+			"previous_triangles": null,
+			"triangles": 32
+		},
+		{
+			"key": "object/bevel_box",
+			"lod_triangles": 0,
+			"params": {},
+			"path": "res://assets/generated/object-bevel_box-ac6732476e2290667f87.res",
+			"previous_triangles": null,
+			"triangles": 28
+		},
+		{
+			"key": "object/head",
+			"lod_triangles": 0,
+			"params": {},
+			"path": "res://assets/generated/object-head-2a5526c8fb78061c1f36.res",
+			"previous_triangles": null,
+			"triangles": 146
+		},
+		{
+			"key": "object/neck",
+			"lod_triangles": 0,
+			"params": {},
+			"path": "res://assets/generated/object-neck-e10ad6944088254b390e.res",
+			"previous_triangles": null,
+			"triangles": 32
+		},
+		{
+			"key": "object/grip",
+			"lod_triangles": 0,
+			"params": {},
+			"path": "res://assets/generated/object-grip-8bd72483e8872231744c.res",
+			"previous_triangles": null,
+			"triangles": 216
+		},
+		{
+			"key": "vehicle/sedan",
+			"lod_triangles": 228,
+			"params": {},
+			"path": "res://assets/generated/vehicle-sedan-09ffb5a3f9f4bd2dc649.res",
+			"previous_triangles": null,
+			"triangles": 1068
+		},
+		{
+			"key": "vehicle/wagon",
+			"lod_triangles": 228,
+			"params": {},
+			"path": "res://assets/generated/vehicle-wagon-a90a80675d71705e999b.res",
+			"previous_triangles": null,
+			"triangles": 1144
+		},
+		{
+			"key": "vehicle/uaz",
+			"lod_triangles": 228,
+			"params": {},
+			"path": "res://assets/generated/vehicle-uaz-aaa3a201fa976b331122.res",
+			"previous_triangles": null,
+			"triangles": 1144
+		},
+		{
+			"key": "prop/tvHorizon",
+			"lod_triangles": 0,
+			"params": {},
+			"path": "res://assets/generated/prop-tvHorizon-fcdf9510c086ec3fd44e.res",
+			"previous_triangles": null,
+			"triangles": 388
+		},
+		{
+			"key": "prop/tvYunost",
+			"lod_triangles": 0,
+			"params": {},
+			"path": "res://assets/generated/prop-tvYunost-363177e37342f13ef326.res",
+			"previous_triangles": null,
+			"triangles": 360
+		},
+		{
+			"key": "prop/rotaryPhone",
+			"lod_triangles": 0,
+			"params": {},
+			"path": "res://assets/generated/prop-rotaryPhone-f3554fa5046f6e69eded.res",
+			"previous_triangles": null,
+			"triangles": 656
+		},
+		{
+			"key": "prop/jarShelf",
+			"lod_triangles": 492,
+			"params": {
+				"per": 9,
+				"rows": 3
+			},
+			"path": "res://assets/generated/prop-jarShelf-324d3ce1690f25d22afc.res",
+			"previous_triangles": null,
+			"triangles": 2598
+		},
+		{
+			"key": "prop/workbench",
+			"lod_triangles": 0,
+			"params": {},
+			"path": "res://assets/generated/prop-workbench-44553fcc452dd0842d6f.res",
+			"previous_triangles": null,
+			"triangles": 324
+		},
+		{
+			"key": "prop/waterBarrel",
+			"lod_triangles": 0,
+			"params": {},
+			"path": "res://assets/generated/prop-waterBarrel-e3cb4b3bdd6c0c3fa1ad.res",
+			"previous_triangles": null,
+			"triangles": 130
+		},
+		{
+			"key": "prop/woodpile",
+			"lod_triangles": 768,
+			"params": {
+				"len": 3.0
+			},
+			"path": "res://assets/generated/prop-woodpile-4a6db5130a860467e513.res",
+			"previous_triangles": null,
+			"triangles": 3648
+		},
+		{
+			"key": "prop/chair",
+			"lod_triangles": 0,
+			"params": {},
+			"path": "res://assets/generated/prop-chair-069279fc63977bae0c42.res",
+			"previous_triangles": null,
+			"triangles": 180
+		},
+		{
+			"key": "prop/cup",
+			"lod_triangles": 0,
+			"params": {},
+			"path": "res://assets/generated/prop-cup-c9edb4228c543ea4e642.res",
+			"previous_triangles": null,
+			"triangles": 200
+		},
+		{
+			"key": "prop/jar",
+			"lod_triangles": 0,
+			"params": {},
+			"path": "res://assets/generated/prop-jar-51ecb75fe307ca1a1186.res",
+			"previous_triangles": null,
+			"triangles": 94
+		},
+		{
+			"key": "prop/radio",
+			"lod_triangles": 0,
+			"params": {},
+			"path": "res://assets/generated/prop-radio-70d86fac2971080ab148.res",
+			"previous_triangles": null,
+			"triangles": 204
+		},
+		{
+			"key": "prop/bench",
+			"lod_triangles": 0,
+			"params": {},
+			"path": "res://assets/generated/prop-bench-689cfd7124bc5375c05c.res",
+			"previous_triangles": null,
+			"triangles": 180
+		},
+		{
+			"key": "prop/shovel",
+			"lod_triangles": 0,
+			"params": {},
+			"path": "res://assets/generated/prop-shovel-e57c5b58a60a9c3b8a62.res",
+			"previous_triangles": null,
+			"triangles": 112
+		},
+		{
+			"key": "prop/woodpile",
+			"lod_triangles": 1152,
+			"params": {
+				"len": 4.2
+			},
+			"path": "res://assets/generated/prop-woodpile-4f3f2fe8946e799442c2.res",
+			"previous_triangles": null,
+			"triangles": 5328
+		},
+		{
+			"key": "prop/jarShelf",
+			"lod_triangles": 300,
+			"params": {
+				"per": 5,
+				"rows": 3
+			},
+			"path": "res://assets/generated/prop-jarShelf-196d7b4bc5cd575509e5.res",
+			"previous_triangles": null,
+			"triangles": 1470
+		},
+		{
+			"key": "prop/jarShelf",
+			"lod_triangles": 132,
+			"params": {
+				"per": 6,
+				"rows": 1
+			},
+			"path": "res://assets/generated/prop-jarShelf-9064762dc325467573ba.res",
+			"previous_triangles": null,
+			"triangles": 600
+		},
+		{
+			"key": "prop/jarShelf",
+			"lod_triangles": 444,
+			"params": {
+				"per": 8,
+				"rows": 3
+			},
+			"path": "res://assets/generated/prop-jarShelf-fa6f0a6b3ac764e1578c.res",
+			"previous_triangles": null,
+			"triangles": 2316
+		}
+	],
+	"normal_textures": [
+		"wood",
+		"boards",
+		"brick",
+		"roof",
+		"concrete"
+	],
+	"seed": 1988,
+	"source": "GDScript / Godot only",
+	"textures": [
+		"wood",
+		"boards",
+		"brick",
+		"concrete",
+		"whitewash",
+		"roof",
+		"wallpaper",
+		"linoleum",
+		"bark",
+		"birch",
+		"leaf",
+		"pine",
+		"soil",
+		"grass",
+		"gravel",
+		"rusted_metal",
+		"hay",
+		"flashlight-cookie",
+		"fabric"
+	],
+	"version": 1
+}

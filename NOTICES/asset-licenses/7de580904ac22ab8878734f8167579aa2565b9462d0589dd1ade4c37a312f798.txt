@@ -1,0 +1,9 @@
+Fishing Net
+Author: _dark_alice_ (dark_alice)
+URL: https://sketchfab.com/3d-models/none-0d6b1bac6f7d4ad2b80e60537e2a90b5
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:57:03.977667
+SHA256: 367e968b9068f0aa0ee61cad3cbfb1be090825af9e75cb0812c827a54b19b8ef
+Source archive unchanged.

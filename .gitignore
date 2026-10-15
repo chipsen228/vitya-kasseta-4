@@ -1,0 +1,5 @@
+godot/.godot/
+**/__pycache__/
+**/.ruff_cache/
+*.log
+*.tmp

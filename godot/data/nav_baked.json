@@ -1,0 +1,1574 @@
+{
+ "layers": [
+  "attic",
+  "cellar",
+  "floor1",
+  "plot",
+  "roof"
+ ],
+ "nodes": [
+  {
+   "id": "attic:balcony#0",
+   "layer": "attic",
+   "kind": "room",
+   "x": -4.05,
+   "y": 3.3,
+   "z": 8.15,
+   "room": "balcony",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "attic:balcony#1",
+     "len": 0.0,
+     "door": false
+    },
+    {
+     "to": "attic:door:w-n2@-3.9",
+     "len": 1.45774,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "attic:balcony#1",
+   "layer": "attic",
+   "kind": "room",
+   "x": -4.05,
+   "y": 3.3,
+   "z": 8.15,
+   "room": "balcony",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "attic:balcony#0",
+     "len": 0.0,
+     "door": false
+    },
+    {
+     "to": "attic:door:w-n2@-3.9",
+     "len": 1.45774,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "attic:door:w-n2@-3.9",
+   "layer": "attic",
+   "kind": "door",
+   "x": -3.9,
+   "y": 3.3,
+   "z": 9.6,
+   "room": null,
+   "wallId": "w-n2",
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "attic:landing#0",
+     "len": 1.66208,
+     "door": true
+    },
+    {
+     "to": "attic:balcony#0",
+     "len": 1.45774,
+     "door": true
+    },
+    {
+     "to": "attic:balcony#1",
+     "len": 1.45774,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "attic:door:w-storage-n@-2.6",
+   "layer": "attic",
+   "kind": "door",
+   "x": -2.6,
+   "y": 3.3,
+   "z": 14.0,
+   "room": null,
+   "wallId": "w-storage-n",
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "attic:storage#0",
+     "len": 1.06301,
+     "door": true
+    },
+    {
+     "to": "attic:landing^w-storage-n@2",
+     "len": 0.46098,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "attic:door:w-vitya-w@12.9",
+   "layer": "attic",
+   "kind": "door",
+   "x": -1.8,
+   "y": 3.3,
+   "z": 12.9,
+   "room": null,
+   "wallId": "w-vitya-w",
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "attic:vitya#0",
+     "len": 1.62865,
+     "door": true
+    },
+    {
+     "to": "attic:landing^w-vitya-w@2",
+     "len": 0.5,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "attic:landing#0",
+   "layer": "attic",
+   "kind": "room",
+   "x": -3.3,
+   "y": 3.3,
+   "z": 11.15,
+   "room": "landing",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "attic:door:w-n2@-3.9",
+     "len": 1.66208,
+     "door": true
+    },
+    {
+     "to": "attic:landing^w-vitya-w@1",
+     "len": 1.25,
+     "door": false
+    },
+    {
+     "to": "attic:landing^w-storage-n@1",
+     "len": 1.25,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "attic:landing^w-storage-n@1",
+   "layer": "attic",
+   "kind": "room",
+   "x": -2.3,
+   "y": 3.3,
+   "z": 11.9,
+   "room": "landing",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "attic:landing#0",
+     "len": 1.25,
+     "door": false
+    },
+    {
+     "to": "attic:landing^w-storage-n@2",
+     "len": 1.75,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "attic:landing^w-storage-n@2",
+   "layer": "attic",
+   "kind": "room",
+   "x": -2.3,
+   "y": 3.3,
+   "z": 13.65,
+   "room": "landing",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "attic:landing^w-storage-n@1",
+     "len": 1.75,
+     "door": false
+    },
+    {
+     "to": "attic:door:w-storage-n@-2.6",
+     "len": 0.46098,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "attic:landing^w-vitya-w@1",
+   "layer": "attic",
+   "kind": "room",
+   "x": -2.3,
+   "y": 3.3,
+   "z": 11.9,
+   "room": "landing",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "attic:landing#0",
+     "len": 1.25,
+     "door": false
+    },
+    {
+     "to": "attic:landing^w-vitya-w@2",
+     "len": 1.0,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "attic:landing^w-vitya-w@2",
+   "layer": "attic",
+   "kind": "room",
+   "x": -2.3,
+   "y": 3.3,
+   "z": 12.9,
+   "room": "landing",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "attic:landing^w-vitya-w@1",
+     "len": 1.0,
+     "door": false
+    },
+    {
+     "to": "attic:door:w-vitya-w@12.9",
+     "len": 0.5,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "attic:storage#0",
+   "layer": "attic",
+   "kind": "room",
+   "x": -3.3,
+   "y": 3.3,
+   "z": 14.8,
+   "room": "storage",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "attic:door:w-storage-n@-2.6",
+     "len": 1.06301,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "attic:vitya#0",
+   "layer": "attic",
+   "kind": "room",
+   "x": -0.25,
+   "y": 3.3,
+   "z": 12.4,
+   "room": "vitya",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "attic:door:w-vitya-w@12.9",
+     "len": 1.62865,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "cellar:cellar#0",
+   "layer": "cellar",
+   "kind": "room",
+   "x": -3.1,
+   "y": -1.55,
+   "z": 9.85,
+   "room": "cellar",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "cellar:cellar#1",
+     "len": 3.75832,
+     "door": false
+    },
+    {
+     "to": "cellar:cellar#2",
+     "len": 4.0078,
+     "door": false
+    },
+    {
+     "to": "cellar:cellar#3",
+     "len": 5.15388,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "cellar:cellar#1",
+   "layer": "cellar",
+   "kind": "room",
+   "x": 0.65,
+   "y": -1.55,
+   "z": 10.1,
+   "room": "cellar",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "cellar:cellar#0",
+     "len": 3.75832,
+     "door": false
+    },
+    {
+     "to": "cellar:cellar#3",
+     "len": 2.01556,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "cellar:cellar#2",
+   "layer": "cellar",
+   "kind": "room",
+   "x": -2.85,
+   "y": -1.55,
+   "z": 13.85,
+   "room": "cellar",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "cellar:cellar#0",
+     "len": 4.0078,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "cellar:cellar#3",
+   "layer": "cellar",
+   "kind": "room",
+   "x": 1.65,
+   "y": -1.55,
+   "z": 11.85,
+   "room": "cellar",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "cellar:cellar#0",
+     "len": 5.15388,
+     "door": false
+    },
+    {
+     "to": "cellar:cellar#1",
+     "len": 2.01556,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "floor1:aunt#0",
+   "layer": "floor1",
+   "kind": "room",
+   "x": 2.8,
+   "y": 0.45,
+   "z": 10.9,
+   "room": "aunt",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "floor1:aunt#1",
+     "len": 0.35355,
+     "door": false
+    },
+    {
+     "to": "floor1:door:w-aunt-w@11.3",
+     "len": 1.84391,
+     "door": true
+    },
+    {
+     "to": "floor1:door:w-living-n@2.6",
+     "len": 1.51327,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "floor1:aunt#1",
+   "layer": "floor1",
+   "kind": "room",
+   "x": 2.55,
+   "y": 0.45,
+   "z": 11.15,
+   "room": "aunt",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "floor1:aunt#0",
+     "len": 0.35355,
+     "door": false
+    },
+    {
+     "to": "floor1:door:w-aunt-w@11.3",
+     "len": 1.55724,
+     "door": true
+    },
+    {
+     "to": "floor1:door:w-living-n@2.6",
+     "len": 1.251,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "floor1:door:w-aunt-w@11.3",
+   "layer": "floor1",
+   "kind": "door",
+   "x": 1.0,
+   "y": 0.45,
+   "z": 11.3,
+   "room": null,
+   "wallId": "w-aunt-w",
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "floor1:kitchen#0",
+     "len": 1.50748,
+     "door": true
+    },
+    {
+     "to": "floor1:aunt#0",
+     "len": 1.84391,
+     "door": true
+    },
+    {
+     "to": "floor1:aunt#1",
+     "len": 1.55724,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "floor1:door:w-hall-e@11.0",
+   "layer": "floor1",
+   "kind": "door",
+   "x": -1.8,
+   "y": 0.45,
+   "z": 11.0,
+   "room": null,
+   "wallId": "w-hall-e",
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "floor1:kitchen#0",
+     "len": 1.30863,
+     "door": true
+    },
+    {
+     "to": "floor1:hall#0",
+     "len": 1.50748,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "floor1:door:w-hall-e@13.6",
+   "layer": "floor1",
+   "kind": "door",
+   "x": -1.8,
+   "y": 0.45,
+   "z": 13.6,
+   "room": null,
+   "wallId": "w-hall-e",
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "floor1:hall#1",
+     "len": 1.251,
+     "door": true
+    },
+    {
+     "to": "floor1:living^w-hall-e@1",
+     "len": 0.31623,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "floor1:door:w-hall-e@15.6",
+   "layer": "floor1",
+   "kind": "door",
+   "x": -1.8,
+   "y": 0.45,
+   "z": 15.6,
+   "room": null,
+   "wallId": "w-hall-e",
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "floor1:wash#0",
+     "len": 0.75166,
+     "door": true
+    },
+    {
+     "to": "floor1:living#0",
+     "len": 1.23491,
+     "door": true
+    },
+    {
+     "to": "floor1:living#1",
+     "len": 0.33541,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "floor1:door:w-living-n@-0.6",
+   "layer": "floor1",
+   "kind": "door",
+   "x": -0.6,
+   "y": 0.45,
+   "z": 12.4,
+   "room": null,
+   "wallId": "w-living-n",
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "floor1:kitchen#0",
+     "len": 1.25399,
+     "door": true
+    },
+    {
+     "to": "floor1:living#0",
+     "len": 2.55441,
+     "door": true
+    },
+    {
+     "to": "floor1:living#1",
+     "len": 3.18002,
+     "door": true
+    },
+    {
+     "to": "floor1:living^w-hall-e@1",
+     "len": 1.58114,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "floor1:door:w-living-n@2.6",
+   "layer": "floor1",
+   "kind": "door",
+   "x": 2.6,
+   "y": 0.45,
+   "z": 12.4,
+   "room": null,
+   "wallId": "w-living-n",
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "floor1:aunt#0",
+     "len": 1.51327,
+     "door": true
+    },
+    {
+     "to": "floor1:aunt#1",
+     "len": 1.251,
+     "door": true
+    },
+    {
+     "to": "floor1:living#2",
+     "len": 0.57009,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "floor1:door:w-veranda-s@-0.4",
+   "layer": "floor1",
+   "kind": "door",
+   "x": -0.4,
+   "y": 0.45,
+   "z": 9.6,
+   "room": null,
+   "wallId": "w-veranda-s",
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "floor1:kitchen#0",
+     "len": 1.55322,
+     "door": true
+    },
+    {
+     "to": "floor1:veranda^w-veranda-s@1",
+     "len": 0.71589,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "floor1:door:w-veranda-s@-3.6",
+   "layer": "floor1",
+   "kind": "door",
+   "x": -3.6,
+   "y": 0.45,
+   "z": 9.6,
+   "room": null,
+   "wallId": "w-veranda-s",
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "floor1:veranda#0",
+     "len": 1.78676,
+     "door": true
+    },
+    {
+     "to": "floor1:veranda#1",
+     "len": 1.79025,
+     "door": true
+    },
+    {
+     "to": "floor1:hall#0",
+     "len": 1.57877,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "floor1:door:w-wash-n@-2.6",
+   "layer": "floor1",
+   "kind": "door",
+   "x": -2.6,
+   "y": 0.45,
+   "z": 15.0,
+   "room": null,
+   "wallId": "w-wash-n",
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "floor1:hall#1",
+     "len": 1.42302,
+     "door": true
+    },
+    {
+     "to": "floor1:wash#0",
+     "len": 0.55227,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "floor1:hall#0",
+   "layer": "floor1",
+   "kind": "room",
+   "x": -3.3,
+   "y": 0.45,
+   "z": 11.15,
+   "room": "hall",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "floor1:door:w-veranda-s@-3.6",
+     "len": 1.57877,
+     "door": true
+    },
+    {
+     "to": "floor1:door:w-hall-e@11.0",
+     "len": 1.50748,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "floor1:hall#1",
+   "layer": "floor1",
+   "kind": "room",
+   "x": -3.05,
+   "y": 0.45,
+   "z": 13.65,
+   "room": "hall",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "floor1:door:w-hall-e@13.6",
+     "len": 1.251,
+     "door": true
+    },
+    {
+     "to": "floor1:door:w-wash-n@-2.6",
+     "len": 1.42302,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "floor1:kitchen#0",
+   "layer": "floor1",
+   "kind": "room",
+   "x": -0.5,
+   "y": 0.45,
+   "z": 11.15,
+   "room": "kitchen",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "floor1:door:w-veranda-s@-0.4",
+     "len": 1.55322,
+     "door": true
+    },
+    {
+     "to": "floor1:door:w-aunt-w@11.3",
+     "len": 1.50748,
+     "door": true
+    },
+    {
+     "to": "floor1:door:w-hall-e@11.0",
+     "len": 1.30863,
+     "door": true
+    },
+    {
+     "to": "floor1:door:w-living-n@-0.6",
+     "len": 1.25399,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "floor1:living#0",
+   "layer": "floor1",
+   "kind": "room",
+   "x": -0.75,
+   "y": 0.45,
+   "z": 14.95,
+   "room": "living",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "floor1:living#1",
+     "len": 0.90139,
+     "door": false
+    },
+    {
+     "to": "floor1:living^w-hall-e@1",
+     "len": 1.45774,
+     "door": false
+    },
+    {
+     "to": "floor1:door:w-hall-e@15.6",
+     "len": 1.23491,
+     "door": true
+    },
+    {
+     "to": "floor1:door:w-living-n@-0.6",
+     "len": 2.55441,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "floor1:living#1",
+   "layer": "floor1",
+   "kind": "room",
+   "x": -1.5,
+   "y": 0.45,
+   "z": 15.45,
+   "room": "living",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "floor1:living#0",
+     "len": 0.90139,
+     "door": false
+    },
+    {
+     "to": "floor1:door:w-hall-e@15.6",
+     "len": 0.33541,
+     "door": true
+    },
+    {
+     "to": "floor1:door:w-living-n@-0.6",
+     "len": 3.18002,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "floor1:living#2",
+   "layer": "floor1",
+   "kind": "room",
+   "x": 2.75,
+   "y": 0.45,
+   "z": 12.95,
+   "room": "living",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "floor1:door:w-living-n@2.6",
+     "len": 0.57009,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "floor1:living^w-hall-e@1",
+   "layer": "floor1",
+   "kind": "room",
+   "x": -1.5,
+   "y": 0.45,
+   "z": 13.7,
+   "room": "living",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "floor1:living#0",
+     "len": 1.45774,
+     "door": false
+    },
+    {
+     "to": "floor1:door:w-hall-e@13.6",
+     "len": 0.31623,
+     "door": true
+    },
+    {
+     "to": "floor1:door:w-living-n@-0.6",
+     "len": 1.58114,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "floor1:veranda#0",
+   "layer": "floor1",
+   "kind": "room",
+   "x": -3.05,
+   "y": 0.45,
+   "z": 7.9,
+   "room": "veranda",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "floor1:veranda#1",
+     "len": 0.55902,
+     "door": false
+    },
+    {
+     "to": "floor1:door:w-veranda-s@-3.6",
+     "len": 1.78676,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "floor1:veranda#1",
+   "layer": "floor1",
+   "kind": "room",
+   "x": -2.55,
+   "y": 0.45,
+   "z": 8.15,
+   "room": "veranda",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "floor1:veranda#0",
+     "len": 0.55902,
+     "door": false
+    },
+    {
+     "to": "floor1:door:w-veranda-s@-3.6",
+     "len": 1.79025,
+     "door": true
+    },
+    {
+     "to": "floor1:veranda^w-veranda-s@1",
+     "len": 2.136,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "floor1:veranda^w-veranda-s@1",
+   "layer": "floor1",
+   "kind": "room",
+   "x": -0.55,
+   "y": 0.45,
+   "z": 8.9,
+   "room": "veranda",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "floor1:veranda#1",
+     "len": 2.136,
+     "door": false
+    },
+    {
+     "to": "floor1:door:w-veranda-s@-0.4",
+     "len": 0.71589,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "floor1:wash#0",
+   "layer": "floor1",
+   "kind": "room",
+   "x": -2.55,
+   "y": 0.45,
+   "z": 15.55,
+   "room": "wash",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "floor1:door:w-hall-e@15.6",
+     "len": 0.75166,
+     "door": true
+    },
+    {
+     "to": "floor1:door:w-wash-n@-2.6",
+     "len": 0.55227,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "plot:back#0",
+   "layer": "plot",
+   "kind": "room",
+   "x": 0.5,
+   "y": 0.0,
+   "z": 26.4,
+   "room": null,
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "plot:beds#0",
+     "len": 5.90339,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "plot:beds#0",
+   "layer": "plot",
+   "kind": "room",
+   "x": -0.6,
+   "y": 0.0,
+   "z": 20.6,
+   "room": null,
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "plot:row-w#0",
+     "len": 3.4,
+     "door": false
+    },
+    {
+     "to": "plot:back#0",
+     "len": 5.90339,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "plot:door:shed-n@6.8",
+   "layer": "plot",
+   "kind": "door",
+   "x": 6.8,
+   "y": 0.0,
+   "z": 10.0,
+   "room": null,
+   "wallId": "shed-n",
+   "blockerId": "door-shed",
+   "edges": [
+    {
+     "to": "plot:east-ne#0",
+     "len": 5.34883,
+     "door": true
+    },
+    {
+     "to": "plot:shed-approach#0",
+     "len": 1.6,
+     "door": true
+    },
+    {
+     "to": "plot:shed#0",
+     "len": 1.60078,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "plot:drive#0",
+   "layer": "plot",
+   "kind": "room",
+   "x": -1.2,
+   "y": 0.0,
+   "z": 2.8,
+   "room": null,
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "plot:gate#0",
+     "len": 4.33244,
+     "door": false
+    },
+    {
+     "to": "plot:porch#0",
+     "len": 1.86011,
+     "door": false
+    },
+    {
+     "to": "plot:east-n#0",
+     "len": 6.59697,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "plot:east-n#0",
+   "layer": "plot",
+   "kind": "room",
+   "x": 5.2,
+   "y": 0.0,
+   "z": 4.4,
+   "room": null,
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "plot:gate#0",
+     "len": 3.78021,
+     "door": false
+    },
+    {
+     "to": "plot:drive#0",
+     "len": 6.59697,
+     "door": false
+    },
+    {
+     "to": "plot:porch#0",
+     "len": 7.50067,
+     "door": false
+    },
+    {
+     "to": "plot:east-ne#0",
+     "len": 3.55106,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "plot:east-n2#0",
+   "layer": "plot",
+   "kind": "room",
+   "x": 9.5,
+   "y": 0.0,
+   "z": 9.4,
+   "room": null,
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "plot:east-ne#0",
+     "len": 4.47214,
+     "door": false
+    },
+    {
+     "to": "plot:shed-approach#0",
+     "len": 2.87924,
+     "door": false
+    },
+    {
+     "to": "plot:east-s2#0",
+     "len": 5.6,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "plot:east-ne#0",
+   "layer": "plot",
+   "kind": "room",
+   "x": 8.7,
+   "y": 0.0,
+   "z": 5.0,
+   "room": null,
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "plot:gate#0",
+     "len": 6.82642,
+     "door": false
+    },
+    {
+     "to": "plot:east-n#0",
+     "len": 3.55106,
+     "door": false
+    },
+    {
+     "to": "plot:shed-approach#0",
+     "len": 3.89487,
+     "door": false
+    },
+    {
+     "to": "plot:east-n2#0",
+     "len": 4.47214,
+     "door": false
+    },
+    {
+     "to": "plot:door:shed-n@6.8",
+     "len": 5.34883,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "plot:east-s2#0",
+   "layer": "plot",
+   "kind": "room",
+   "x": 9.5,
+   "y": 0.0,
+   "z": 15.0,
+   "room": null,
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "plot:privy-approach#0",
+     "len": 4.4911,
+     "door": false
+    },
+    {
+     "to": "plot:east-n2#0",
+     "len": 5.6,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "plot:gate#0",
+   "layer": "plot",
+   "kind": "room",
+   "x": 2.9,
+   "y": 0.0,
+   "z": 1.4,
+   "room": null,
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "plot:drive#0",
+     "len": 4.33244,
+     "door": false
+    },
+    {
+     "to": "plot:porch#0",
+     "len": 5.95399,
+     "door": false
+    },
+    {
+     "to": "plot:east-n#0",
+     "len": 3.78021,
+     "door": false
+    },
+    {
+     "to": "plot:east-ne#0",
+     "len": 6.82642,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "plot:gh-approach#0",
+   "layer": "plot",
+   "kind": "room",
+   "x": -6.3,
+   "y": 0.0,
+   "z": 17.2,
+   "room": null,
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "plot:west-m#0",
+     "len": 6.8,
+     "door": false
+    },
+    {
+     "to": "plot:west-s#0",
+     "len": 2.8,
+     "door": false
+    },
+    {
+     "to": "plot:row-w#0",
+     "len": 5.7,
+     "door": false
+    },
+    {
+     "to": "plot:row-e#0",
+     "len": 8.9,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "plot:greenhouse#0",
+   "layer": "plot",
+   "kind": "room",
+   "x": -5.95,
+   "y": 0.1,
+   "z": 18.75,
+   "room": null,
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "plot:west-m#0",
+     "len": 8.35733,
+     "door": false
+    },
+    {
+     "to": "plot:west-s#0",
+     "len": 4.36406,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "plot:porch#0",
+   "layer": "plot",
+   "kind": "room",
+   "x": -2.3,
+   "y": 0.0,
+   "z": 4.3,
+   "room": null,
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "plot:gate#0",
+     "len": 5.95399,
+     "door": false
+    },
+    {
+     "to": "plot:drive#0",
+     "len": 1.86011,
+     "door": false
+    },
+    {
+     "to": "plot:east-n#0",
+     "len": 7.50067,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "plot:privy-approach#0",
+   "layer": "plot",
+   "kind": "room",
+   "x": 8.6,
+   "y": 0.0,
+   "z": 19.4,
+   "room": null,
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "plot:row-e#0",
+     "len": 6.39062,
+     "door": false
+    },
+    {
+     "to": "plot:south-e#0",
+     "len": 4.81664,
+     "door": false
+    },
+    {
+     "to": "plot:east-s2#0",
+     "len": 4.4911,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "plot:row-e#0",
+   "layer": "plot",
+   "kind": "room",
+   "x": 2.6,
+   "y": 0.0,
+   "z": 17.2,
+   "room": null,
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "plot:gh-approach#0",
+     "len": 8.9,
+     "door": false
+    },
+    {
+     "to": "plot:row-w#0",
+     "len": 3.2,
+     "door": false
+    },
+    {
+     "to": "plot:south-e#0",
+     "len": 2.86356,
+     "door": false
+    },
+    {
+     "to": "plot:privy-approach#0",
+     "len": 6.39062,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "plot:row-w#0",
+   "layer": "plot",
+   "kind": "room",
+   "x": -0.6,
+   "y": 0.0,
+   "z": 17.2,
+   "room": null,
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "plot:gh-approach#0",
+     "len": 5.7,
+     "door": false
+    },
+    {
+     "to": "plot:beds#0",
+     "len": 3.4,
+     "door": false
+    },
+    {
+     "to": "plot:row-e#0",
+     "len": 3.2,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "plot:shed#0",
+   "layer": "plot",
+   "kind": "room",
+   "x": 6.75,
+   "y": 0.12,
+   "z": 11.6,
+   "room": null,
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "plot:door:shed-n@6.8",
+     "len": 1.60078,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "plot:shed-approach#0",
+   "layer": "plot",
+   "kind": "room",
+   "x": 6.8,
+   "y": 0.0,
+   "z": 8.4,
+   "room": null,
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "plot:east-ne#0",
+     "len": 3.89487,
+     "door": false
+    },
+    {
+     "to": "plot:east-n2#0",
+     "len": 2.87924,
+     "door": false
+    },
+    {
+     "to": "plot:door:shed-n@6.8",
+     "len": 1.6,
+     "door": true
+    }
+   ]
+  },
+  {
+   "id": "plot:south-e#0",
+   "layer": "plot",
+   "kind": "room",
+   "x": 3.8,
+   "y": 0.0,
+   "z": 19.8,
+   "room": null,
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "plot:row-e#0",
+     "len": 2.86356,
+     "door": false
+    },
+    {
+     "to": "plot:privy-approach#0",
+     "len": 4.81664,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "plot:west-m#0",
+   "layer": "plot",
+   "kind": "room",
+   "x": -6.3,
+   "y": 0.0,
+   "z": 10.4,
+   "room": null,
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "plot:west-n#0",
+     "len": 3.5,
+     "door": false
+    },
+    {
+     "to": "plot:west-s#0",
+     "len": 4.0,
+     "door": false
+    },
+    {
+     "to": "plot:gh-approach#0",
+     "len": 6.8,
+     "door": false
+    },
+    {
+     "to": "plot:greenhouse#0",
+     "len": 8.35733,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "plot:west-n#0",
+   "layer": "plot",
+   "kind": "room",
+   "x": -6.3,
+   "y": 0.0,
+   "z": 6.9,
+   "room": null,
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "plot:west-m#0",
+     "len": 3.5,
+     "door": false
+    },
+    {
+     "to": "plot:west-s#0",
+     "len": 7.5,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "plot:west-s#0",
+   "layer": "plot",
+   "kind": "room",
+   "x": -6.3,
+   "y": 0.0,
+   "z": 14.4,
+   "room": null,
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "plot:west-n#0",
+     "len": 7.5,
+     "door": false
+    },
+    {
+     "to": "plot:west-m#0",
+     "len": 4.0,
+     "door": false
+    },
+    {
+     "to": "plot:gh-approach#0",
+     "len": 2.8,
+     "door": false
+    },
+    {
+     "to": "plot:greenhouse#0",
+     "len": 4.36406,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "roof:roofspace#0",
+   "layer": "roof",
+   "kind": "room",
+   "x": -1.4,
+   "y": 5.9,
+   "z": 13.35,
+   "room": "roofspace",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "roof:roofspace#1",
+     "len": 1.0,
+     "door": false
+    }
+   ]
+  },
+  {
+   "id": "roof:roofspace#1",
+   "layer": "roof",
+   "kind": "room",
+   "x": -0.4,
+   "y": 5.9,
+   "z": 13.35,
+   "room": "roofspace",
+   "wallId": null,
+   "blockerId": null,
+   "edges": [
+    {
+     "to": "roof:roofspace#0",
+     "len": 1.0,
+     "door": false
+    }
+   ]
+  }
+ ]
+}

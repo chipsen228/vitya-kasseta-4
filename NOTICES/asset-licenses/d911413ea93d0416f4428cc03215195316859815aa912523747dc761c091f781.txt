@@ -1,0 +1,9 @@
+Horror Game Crowbar
+Author: hvarley (hvarley)
+URL: https://sketchfab.com/3d-models/none-0fbfdfd2a53e40be9ca3ffde55d71689
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:49:19.621070
+SHA256: 7a7f2c2c95fe79f422df92a254187d9ff9e644ec56cc19f4fe1476d359caf02e
+Source archive unchanged.

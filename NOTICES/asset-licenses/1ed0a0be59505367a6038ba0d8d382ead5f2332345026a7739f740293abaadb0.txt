@@ -1,0 +1,9 @@
+firewood
+Author: aaron_nerlich (xXAaronNXx)
+URL: https://sketchfab.com/3d-models/none-b1b610c7c588439d822e4af729c2f5bd
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T17:02:15.403189
+SHA256: 9002b86a9173708e79a084b5a6ca7c030b6c57b87c92d35eb1bf1330bcb79047
+Source archive unchanged.

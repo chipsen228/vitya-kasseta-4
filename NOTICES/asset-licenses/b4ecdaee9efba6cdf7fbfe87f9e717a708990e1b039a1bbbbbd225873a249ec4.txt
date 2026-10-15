@@ -1,0 +1,9 @@
+Well
+Author: chiragbhoir (chiragbhoir)
+URL: https://sketchfab.com/3d-models/none-1ed7131ab9494516a47c15983f30454f
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:59:15.441361
+SHA256: 9db3aa60ee948d6d61dea7d51e7e857106f5e6bd81562abd3e34ffdc2172415f
+Source archive unchanged.

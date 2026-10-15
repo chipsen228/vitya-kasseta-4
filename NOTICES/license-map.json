@@ -1,0 +1,997 @@
+[
+  {
+    "source": "art/_work/S/dl/actor_man/6e68044877804a219791fe5b30a9a9c5/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/1265564b2c20aa9a2b68bb22fae85a23dc6e540505508d1caf4d919ee1510987.txt",
+    "sha256": "1265564b2c20aa9a2b68bb22fae85a23dc6e540505508d1caf4d919ee1510987"
+  },
+  {
+    "source": "art/_work/S/dl/antenna_tv/8bde15b8466848859e91658e0fbeab53/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/077282e9dd7439bbc0674c474b281a687f5f3e99af533f19d50ec7874a2be9b1.txt",
+    "sha256": "077282e9dd7439bbc0674c474b281a687f5f3e99af533f19d50ec7874a2be9b1"
+  },
+  {
+    "source": "art/_work/S/dl/antenna_tv/943f3159774f4d1d854c2084efb47f68/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/3b908ca6e74ddc7ec4cd6104f6066a40fc7167db9066fcc0dc1957a758c8bc85.txt",
+    "sha256": "3b908ca6e74ddc7ec4cd6104f6066a40fc7167db9066fcc0dc1957a758c8bc85"
+  },
+  {
+    "source": "art/_work/S/dl/apples_pile/81b9a15bbb284add917056520897d6a4/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/39aab4fde6424d11b8c71ab1f2d555e7a6da4820e504d5f7c4d0883f5c174c22.txt",
+    "sha256": "39aab4fde6424d11b8c71ab1f2d555e7a6da4820e504d5f7c4d0883f5c174c22"
+  },
+  {
+    "source": "art/_work/S/dl/apples_pile/food_apple_01/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/8b0010fd05938df054de16b7e42d773fb9336180e0e76639e9122e3857ac39e8.txt",
+    "sha256": "8b0010fd05938df054de16b7e42d773fb9336180e0e76639e9122e3857ac39e8"
+  },
+  {
+    "source": "art/_work/S/dl/barrel_metal/c5a5a1e905bf40e8b1f065c0b759b771/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/23a84c7f8f40b85700e30dde2f2998384cb6f5936342dda6e9339ae0eb0df17c.txt",
+    "sha256": "23a84c7f8f40b85700e30dde2f2998384cb6f5936342dda6e9339ae0eb0df17c"
+  },
+  {
+    "source": "art/_work/S/dl/bath_bench/208e4d7e015e4de4bc19cc747f5e6de5/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/1df09a6e6a69233a75f507106e3b06b8ad859294a0cf83b9374e18a7a209a5f9.txt",
+    "sha256": "1df09a6e6a69233a75f507106e3b06b8ad859294a0cf83b9374e18a7a209a5f9"
+  },
+  {
+    "source": "art/_work/S/dl/bath_ladle/a234707b21b340e0a544276e215e2bae/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/c532495d5f1ed45f2708a723a4e1a87009d0b135be72e0726b621c91bb7b37a4.txt",
+    "sha256": "c532495d5f1ed45f2708a723a4e1a87009d0b135be72e0726b621c91bb7b37a4"
+  },
+  {
+    "source": "art/_work/S/dl/bath_stove/c715e7333f8a456ea27c67adf36b81d1/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/cf59ced168696d1b14d523c2781bcb3cb943b924454dfdf2dd0ed4cdccc34993.txt",
+    "sha256": "cf59ced168696d1b14d523c2781bcb3cb943b924454dfdf2dd0ed4cdccc34993"
+  },
+  {
+    "source": "art/_work/S/dl/bicycle/da6507928c0c4a5c8776008cdb9f747e/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/28551f497cf38b2be971bb41a6c4656445fe26848dbbd76e64962482c5cbfbb7.txt",
+    "sha256": "28551f497cf38b2be971bb41a6c4656445fe26848dbbd76e64962482c5cbfbb7"
+  },
+  {
+    "source": "art/_work/S/dl/boat_wood/a336c8f713204c6581c2c0b624644b08/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/4ed0f0beab0039af57c8148cfd3630262f05cd37c5631eecf966b0c6d7b57797.txt",
+    "sha256": "4ed0f0beab0039af57c8148cfd3630262f05cd37c5631eecf966b0c6d7b57797"
+  },
+  {
+    "source": "art/_work/S/dl/books_stack/a9cf852bf0a147dd90d7e1bf7d7ed561/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/c877df5ab1ea5e942bba6bad5087bcddb597dcbab13867ea83b72d1e3722d867.txt",
+    "sha256": "c877df5ab1ea5e942bba6bad5087bcddb597dcbab13867ea83b72d1e3722d867"
+  },
+  {
+    "source": "art/_work/S/dl/bucket_metal/7e84f200e92c4deaa33f3e3637735986/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/e73f6b87851195b41e17e20c0a6d26b158bb6cf044ec19b263fb57d241f2929e.txt",
+    "sha256": "e73f6b87851195b41e17e20c0a6d26b158bb6cf044ec19b263fb57d241f2929e"
+  },
+  {
+    "source": "art/_work/S/dl/bucket_metal/f66ec03f8dbf4a0d91d5b271e7df0821/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/f1968f293c796a34c02cd84974161501f9ef1b7d28efcced68bc23608ee5cc11.txt",
+    "sha256": "f1968f293c796a34c02cd84974161501f9ef1b7d28efcced68bc23608ee5cc11"
+  },
+  {
+    "source": "art/_work/S/dl/bush_deciduous/f2d9ffd3e6a94cf0b9464ccd66a4c2f8/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/405406f6b6f9de8484056a490167056cc153df0a5cb8dcc6073e9a7076ce78c1.txt",
+    "sha256": "405406f6b6f9de8484056a490167056cc153df0a5cb8dcc6073e9a7076ce78c1"
+  },
+  {
+    "source": "art/_work/S/dl/cardboard_box/a4f451e18b974a77b665d6d179a82868/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/5b1a3cefcb919f6959b28f74adadb27c02aed3b49031918ecf826da6d2ecf90d.txt",
+    "sha256": "5b1a3cefcb919f6959b28f74adadb27c02aed3b49031918ecf826da6d2ecf90d"
+  },
+  {
+    "source": "art/_work/S/dl/crate_box/6643db5f0fd94127b3bb88b34f6953a4/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/3e531c1316ac0c93c80e6d53b30050049358e12620e79946e275699968c11352.txt",
+    "sha256": "3e531c1316ac0c93c80e6d53b30050049358e12620e79946e275699968c11352"
+  },
+  {
+    "source": "art/_work/S/dl/crate_box/b9c75a04e6c6464ea63965b7001779fa/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/01d76afa4cf2f7ccd9c2d7d25a860480c74f5c40cf26691843af1bbc366cd9ea.txt",
+    "sha256": "01d76afa4cf2f7ccd9c2d7d25a860480c74f5c40cf26691843af1bbc366cd9ea"
+  },
+  {
+    "source": "art/_work/S/dl/crops_cabbage/5e15ee8fb8ed4aedaf73f9628f3f83a7/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/f22b78ce94a5a48e9fc624c02165778a2cb533ffc66adb18d1fc7f9f42f68590.txt",
+    "sha256": "f22b78ce94a5a48e9fc624c02165778a2cb533ffc66adb18d1fc7f9f42f68590"
+  },
+  {
+    "source": "art/_work/S/dl/crops_sunflower_onion/2ee915257e4042debfc7992d39af1417/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/9d7c3ba04321db20331eb6fcfc3f5ee10547bd0f1d975997cdf550baf03893cb.txt",
+    "sha256": "9d7c3ba04321db20331eb6fcfc3f5ee10547bd0f1d975997cdf550baf03893cb"
+  },
+  {
+    "source": "art/_work/S/dl/crops_sunflower_onion/963d2cf536db4128b23e6597bc78dd23/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/bce082dadf06a8fbe817f6830bd9c8d1f05be45d5fb93327978adb6273f19908.txt",
+    "sha256": "bce082dadf06a8fbe817f6830bd9c8d1f05be45d5fb93327978adb6273f19908"
+  },
+  {
+    "source": "art/_work/S/dl/curtain_cloth/6f0e27c3b4734b99ae6ed051899a1453/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/5c6513c497858c01579c9978ee7a0106d3bb49b9d496938dd46e2fa779344dc3.txt",
+    "sha256": "5c6513c497858c01579c9978ee7a0106d3bb49b9d496938dd46e2fa779344dc3"
+  },
+  {
+    "source": "art/_work/S/dl/curtain_cloth/7187bae2a1944e2ab5b9c91b400558f1/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/1e84d15f9f5a9fe479e157cd2ce9771ffd3e37e9f807c42ab6243f393d797f7e.txt",
+    "sha256": "1e84d15f9f5a9fe479e157cd2ce9771ffd3e37e9f807c42ab6243f393d797f7e"
+  },
+  {
+    "source": "art/_work/S/dl/doghouse/fc9e3897b3564f36be62748aaf46adb5/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/293889446f4f9b33ae5cc5e0213297fb823871a0ff89bb78a0ddff48c8be5604.txt",
+    "sha256": "293889446f4f9b33ae5cc5e0213297fb823871a0ff89bb78a0ddff48c8be5604"
+  },
+  {
+    "source": "art/_work/S/dl/door_frame/376aead6cd3d41bda715cbab99c440fa/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/090a48370de8e7da3f1da28b74f6bf94779aa7c7ae80e6f7b43e6fa3ad661ff8.txt",
+    "sha256": "090a48370de8e7da3f1da28b74f6bf94779aa7c7ae80e6f7b43e6fa3ad661ff8"
+  },
+  {
+    "source": "art/_work/S/dl/fence_corrugated/4544c782df1e46598e7de70eb79cdc8a/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/42b7f06bd3f1672ab72445f5acb0f2c6ff1e762b60ffc531d59fcbec1570ceb8.txt",
+    "sha256": "42b7f06bd3f1672ab72445f5acb0f2c6ff1e762b60ffc531d59fcbec1570ceb8"
+  },
+  {
+    "source": "art/_work/S/dl/fence_metal/0bbfd1ee50e1478e8bf9d4ae8b91bc3d/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/589cceb2b1b57a7c35b5e0f387f3d0a58c682b76c37101d76a040d614d39ee59.txt",
+    "sha256": "589cceb2b1b57a7c35b5e0f387f3d0a58c682b76c37101d76a040d614d39ee59"
+  },
+  {
+    "source": "art/_work/S/dl/fence_metal/483d3b0e585b4f38a1c7bedaa7e2baae/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/e463f12c4af696c723a462b7def7e154641a715c5689878cf2dd03105184ff85.txt",
+    "sha256": "e463f12c4af696c723a462b7def7e154641a715c5689878cf2dd03105184ff85"
+  },
+  {
+    "source": "art/_work/S/dl/fence_wood_picket/d1a3b375cbb247d39cab85fea4c17ac8/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/e6d990068170b61b2f63bb258fab715905c0c27af6807700110d25beeb80d5df.txt",
+    "sha256": "e6d990068170b61b2f63bb258fab715905c0c27af6807700110d25beeb80d5df"
+  },
+  {
+    "source": "art/_work/S/dl/fern/fern_02/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/0453e176ce822696056493d4f80670b6eb2e5b76cd8678189800106feb5c6dce.txt",
+    "sha256": "0453e176ce822696056493d4f80670b6eb2e5b76cd8678189800106feb5c6dce"
+  },
+  {
+    "source": "art/_work/S/dl/flashlight/98f0519806ff4c4bbfcb9c1c7a922896/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/71f12d2ba981b7d989c6687f8850a0627938f028196d63ba1167dc786030ba9f.txt",
+    "sha256": "71f12d2ba981b7d989c6687f8850a0627938f028196d63ba1167dc786030ba9f"
+  },
+  {
+    "source": "art/_work/S/dl/floor_ceiling_panel/376aead6cd3d41bda715cbab99c440fa/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/c26137c6a6074376213b37fe1e69100eff04b182ce6f6aa2607082800bf318a8.txt",
+    "sha256": "c26137c6a6074376213b37fe1e69100eff04b182ce6f6aa2607082800bf318a8"
+  },
+  {
+    "source": "art/_work/S/dl/garden_bed/5e87e6d2a8754dd296fd6951826c34b5/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/3d7de7bf21308411868e2f8439e345ce5601d50ef804a44e3ea2c0975cb824c2.txt",
+    "sha256": "3d7de7bf21308411868e2f8439e345ce5601d50ef804a44e3ea2c0975cb824c2"
+  },
+  {
+    "source": "art/_work/S/dl/garden_tools/24e08392fa484f9b8de902982eded814/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/1e6fcfcdcfe51c6748d0e1594d32fae74ccb2028bd16119c83d5e665168e965f.txt",
+    "sha256": "1e6fcfcdcfe51c6748d0e1594d32fae74ccb2028bd16119c83d5e665168e965f"
+  },
+  {
+    "source": "art/_work/S/dl/grass_clump/60a4f92d8226482ea32184f987ef0342/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/d67014fe25c80f4fc047de76a9f740cbd00b68abcba09e64328eb790c3c13d3b.txt",
+    "sha256": "d67014fe25c80f4fc047de76a9f740cbd00b68abcba09e64328eb790c3c13d3b"
+  },
+  {
+    "source": "art/_work/S/dl/grass_tall/422f42f618d342c6958b02613dc57403/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/adbe9f93bf4c923f8c3f1eb8bc566be0261a921f0f3df639c0a0fad8b88d1fb2.txt",
+    "sha256": "adbe9f93bf4c923f8c3f1eb8bc566be0261a921f0f3df639c0a0fad8b88d1fb2"
+  },
+  {
+    "source": "art/_work/S/dl/greenhouse/a6d90b2042644d419fca05564f8974e2/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/716e227c938a4fe87c51f27ea3974581272a5ea7cd7ea71212bb45d832751fe7.txt",
+    "sha256": "716e227c938a4fe87c51f27ea3974581272a5ea7cd7ea71212bb45d832751fe7"
+  },
+  {
+    "source": "art/_work/S/dl/jars/71fbc53defbe439aa5bb91d244f1d60b/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/e0570578b616a7de9de4821cb7ebf511eb781c5cc297f8c5670cf40d802fa2ce.txt",
+    "sha256": "e0570578b616a7de9de4821cb7ebf511eb781c5cc297f8c5670cf40d802fa2ce"
+  },
+  {
+    "source": "art/_work/S/dl/lantern/121927bd15ed4937a731a5f33298583c/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/1fa1bb562bad77fe99fc841bd825f75f9fe8bdf13f8fc77a3740834893ea7dff.txt",
+    "sha256": "1fa1bb562bad77fe99fc841bd825f75f9fe8bdf13f8fc77a3740834893ea7dff"
+  },
+  {
+    "source": "art/_work/S/dl/log/440be030da5943048078aa066604adce/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/17735c5a1b288910cb1a094850846c1bb9794640b8f42f6371816b263e1c2cea.txt",
+    "sha256": "17735c5a1b288910cb1a094850846c1bb9794640b8f42f6371816b263e1c2cea"
+  },
+  {
+    "source": "art/_work/S/dl/object_arkady_tv/bc6ec66e1a624613be3236984a9fc37d/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/f57a510289409df9e16ec9894eb1a9b3c556517cbcab2a1b5557af70b5270d73.txt",
+    "sha256": "f57a510289409df9e16ec9894eb1a9b3c556517cbcab2a1b5557af70b5270d73"
+  },
+  {
+    "source": "art/_work/S/dl/object_attic_trunks/5c1b991c9e474ff69be1f51300c98226/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/cf18dde6e90d5c0f9ea428f8010fe45b3dee38d018e0882e270d0a851495d434.txt",
+    "sha256": "cf18dde6e90d5c0f9ea428f8010fe45b3dee38d018e0882e270d0a851495d434"
+  },
+  {
+    "source": "art/_work/S/dl/object_attic_trunks/73505b69be8f4be09194deafdd96c684/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/c448b707b8650aff5c027e51c02463aa5b3aa63b7451dbde97a9bd94d8e880f7.txt",
+    "sha256": "c448b707b8650aff5c027e51c02463aa5b3aa63b7451dbde97a9bd94d8e880f7"
+  },
+  {
+    "source": "art/_work/S/dl/object_bag/3316c1f3fc4e4f95adf05b1ee5478813/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/e7164f0d21408e8068adf9318b9fe679b775e363e587058df5cef5909eb66c9e.txt",
+    "sha256": "e7164f0d21408e8068adf9318b9fe679b775e363e587058df5cef5909eb66c9e"
+  },
+  {
+    "source": "art/_work/S/dl/object_banya_pegs/b53aa4a6c9274284b0b35a229adcaae7/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/3a397b1bf7fc7e85eeb6481da11d2757439b0317006afb4e2acd160a06110f1f.txt",
+    "sha256": "3a397b1bf7fc7e85eeb6481da11d2757439b0317006afb4e2acd160a06110f1f"
+  },
+  {
+    "source": "art/_work/S/dl/object_barn/245dde1304aa4254a7c4c354921c6a41/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/821eb4c60b125436417a92d1e5fae622902a6dfeb5851cb9f254438d0173f33a.txt",
+    "sha256": "821eb4c60b125436417a92d1e5fae622902a6dfeb5851cb9f254438d0173f33a"
+  },
+  {
+    "source": "art/_work/S/dl/object_barn_feed_stack/05da6afe598b4f8cb1eb3168bbe5839a/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/0622bbe14bbf419ec9a2952a80514968191184deb57ca0469ae17a136b321f53.txt",
+    "sha256": "0622bbe14bbf419ec9a2952a80514968191184deb57ca0469ae17a136b321f53"
+  },
+  {
+    "source": "art/_work/S/dl/object_barn_spare_slate/990d00952f024be2abdfd8597cd577ea/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/cec2f59968d97554832d445e7073a829bc0e92e15ab8446053779baddfceda6c.txt",
+    "sha256": "cec2f59968d97554832d445e7073a829bc0e92e15ab8446053779baddfceda6c"
+  },
+  {
+    "source": "art/_work/S/dl/object_bathloft/3366ee69c2dd4908a99f386e07faa1d6/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/238c0f5d9d72819986473898c251aa66f50630217aa5d5972a9a6745f8285d2d.txt",
+    "sha256": "238c0f5d9d72819986473898c251aa66f50630217aa5d5972a9a6745f8285d2d"
+  },
+  {
+    "source": "art/_work/S/dl/object_bathloft_tape/36d4025e5e6741a181e7ac63083cb637/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/4c31293cd453638edf4ccb9b4631d102f51b1271397268d28906d456da515ae6.txt",
+    "sha256": "4c31293cd453638edf4ccb9b4631d102f51b1271397268d28906d456da515ae6"
+  },
+  {
+    "source": "art/_work/S/dl/object_bathroommirror/a53c7497c4f74661adeb7984fd73567d/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/a4c2d07ffa877c7ecf609c1f390062523657dc469b04aa0e2dca1b65d9489826.txt",
+    "sha256": "a4c2d07ffa877c7ecf609c1f390062523657dc469b04aa0e2dca1b65d9489826"
+  },
+  {
+    "source": "art/_work/S/dl/object_bathroomsink/4a9095d3540144c7bd8bcefe0de2a227/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/2f160464106136551766bcd5e1688f9f0d401a17236e2d6dccba4de87eca6b84.txt",
+    "sha256": "2f160464106136551766bcd5e1688f9f0d401a17236e2d6dccba4de87eca6b84"
+  },
+  {
+    "source": "art/_work/S/dl/object_beddouble/1d77bc321a794b2f95f095683e7d219e/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/8d7b1509e1a32d73c5384a76520c1e39105fcba75c20e0ec38383fae49f97419.txt",
+    "sha256": "8d7b1509e1a32d73c5384a76520c1e39105fcba75c20e0ec38383fae49f97419"
+  },
+  {
+    "source": "art/_work/S/dl/object_bedroll/95739ba3544f419e8f191ab4606dbadb/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/8cfd4d3d77477c09c15ab894ee7f36cb4f3b7dd78411f69d9d9e7afb4e47db1a.txt",
+    "sha256": "8cfd4d3d77477c09c15ab894ee7f36cb4f3b7dd78411f69d9d9e7afb4e47db1a"
+  },
+  {
+    "source": "art/_work/S/dl/object_bench/2c07df451a1d4378bf094ac3047ff9ee/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/15d9f75f0c29dbe2c238c39f7e741ec9ee30309d2298ee22081c253aabd73667.txt",
+    "sha256": "15d9f75f0c29dbe2c238c39f7e741ec9ee30309d2298ee22081c253aabd73667"
+  },
+  {
+    "source": "art/_work/S/dl/object_boarded_bunk/6251708b41514ee6b4fec0e3955c4b69/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/d1e1e45a327dd7e7f6324affbe2389de0432ea1286b4f63bb2c1c0b97d0680ef.txt",
+    "sha256": "d1e1e45a327dd7e7f6324affbe2389de0432ea1286b4f63bb2c1c0b97d0680ef"
+  },
+  {
+    "source": "art/_work/S/dl/object_boarded_cans/2ec219a6fc9d43a5a305dfe3f48cc549/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/5a050ec3818a35e3bcf986d6f9d76ba556bd3d4baf5d7487d3d547f4e5dc0c04.txt",
+    "sha256": "5a050ec3818a35e3bcf986d6f9d76ba556bd3d4baf5d7487d3d547f4e5dc0c04"
+  },
+  {
+    "source": "art/_work/S/dl/object_boarded_cans/621a3879d0a445e6afb56cf701c21fad/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/04cac212f1cf3d0746fc42f480f67d1a62257577dea3cd0364f9e66c3eab2e13.txt",
+    "sha256": "04cac212f1cf3d0746fc42f480f67d1a62257577dea3cd0364f9e66c3eab2e13"
+  },
+  {
+    "source": "art/_work/S/dl/object_boarded_tripod/1268b1dafe1c4aafb25e0d6be044da0b/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/04521495cf4f795075500b8f20d783da47f4d523edc4e24650a671a693f7d0df.txt",
+    "sha256": "04521495cf4f795075500b8f20d783da47f4d523edc4e24650a671a693f7d0df"
+  },
+  {
+    "source": "art/_work/S/dl/object_bookcaseclosed/154bb3f924b64cdd935f2e196fa8a1e8/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/cda1d95eb1898338fc358e7c668bcb65606cea6978a4b378767bd034d17f39c8.txt",
+    "sha256": "cda1d95eb1898338fc358e7c668bcb65606cea6978a4b378767bd034d17f39c8"
+  },
+  {
+    "source": "art/_work/S/dl/object_booth/181cd7b921c14f70ba5b64d3f4fdd8db/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/73c0cc9ffaadff99938821ddbff222d1cfe51f4fc5fe63bf3ad7f4a05eb40642.txt",
+    "sha256": "73c0cc9ffaadff99938821ddbff222d1cfe51f4fc5fe63bf3ad7f4a05eb40642"
+  },
+  {
+    "source": "art/_work/S/dl/object_bottle/df40d8722b7c453da4ab13633db0f4cd/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/6106ae35e2370ba0d38ae132023c84c8d35dfa49307d6a8f43538799b1ea305f.txt",
+    "sha256": "6106ae35e2370ba0d38ae132023c84c8d35dfa49307d6a8f43538799b1ea305f"
+  },
+  {
+    "source": "art/_work/S/dl/object_canister/a2e479f5114246bda975afaa827081d1/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/ea8111a714ab7715fcb4c66d211c974bdb5fcb99bec0ec811831ae85d2714857.txt",
+    "sha256": "ea8111a714ab7715fcb4c66d211c974bdb5fcb99bec0ec811831ae85d2714857"
+  },
+  {
+    "source": "art/_work/S/dl/object_car_hood_open/6a2169dafc254f399387a679305bb1bf/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/fe3b8a8ecb744cdadbe2eeae758473b30d24128603339823065737549c7a379f.txt",
+    "sha256": "fe3b8a8ecb744cdadbe2eeae758473b30d24128603339823065737549c7a379f"
+  },
+  {
+    "source": "art/_work/S/dl/object_cellar_shed_key/5f90b2af9731460ba9e841387fda247f/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/dcac1426cc2accad694a4815bde047443572c3b6a0c4a5bf11dbbcbbd98d6b4e.txt",
+    "sha256": "dcac1426cc2accad694a4815bde047443572c3b6a0c4a5bf11dbbcbbd98d6b4e"
+  },
+  {
+    "source": "art/_work/S/dl/object_chair/98676dcb658f432db40881f4ff39f509/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/f556f2413b2d0367a7a064ce0c77f9b04ff0e0f02e10f17d129dee325cff4364.txt",
+    "sha256": "f556f2413b2d0367a7a064ce0c77f9b04ff0e0f02e10f17d129dee325cff4364"
+  },
+  {
+    "source": "art/_work/S/dl/object_chairdesk/0639fedf9a9d4930aec0966c6a6e8370/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/b2b13c12e081c445561ef1a50d0ab82412c9282552f90a2e58c7cccc43241121.txt",
+    "sha256": "b2b13c12e081c445561ef1a50d0ab82412c9282552f90a2e58c7cccc43241121"
+  },
+  {
+    "source": "art/_work/S/dl/object_club_film_cans/ed2f560e03394c61acac3f097db6e8a6/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/b8ec8690ed81085d553591e5e986c3dd7cca671f90a451fb0619faf41ae30e69.txt",
+    "sha256": "b8ec8690ed81085d553591e5e986c3dd7cca671f90a451fb0619faf41ae30e69"
+  },
+  {
+    "source": "art/_work/S/dl/object_coatrack/a8bdbea2931841b0b1a8163e7abdae53/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/b8da9039eeadce0d95a3eba597f2fd895b131242eb389d90314785acd7d773c3.txt",
+    "sha256": "b8da9039eeadce0d95a3eba597f2fd895b131242eb389d90314785acd7d773c3"
+  },
+  {
+    "source": "art/_work/S/dl/object_column_thin/08222fd4042e40bcb301cfcf454b2a5a/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/d1b11d7c11bf5cf860a34d4bc86e7887a3dbafce6d677359f8eacdec6658d62d.txt",
+    "sha256": "d1b11d7c11bf5cf860a34d4bc86e7887a3dbafce6d677359f8eacdec6658d62d"
+  },
+  {
+    "source": "art/_work/S/dl/object_cross/32cc9fc2fcd34fd7a2bce1d1ed771e95/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/028ee30f35492f8bd1000c3ac685c1af10857c70aade50bdb3e2bc54b83b42aa.txt",
+    "sha256": "028ee30f35492f8bd1000c3ac685c1af10857c70aade50bdb3e2bc54b83b42aa"
+  },
+  {
+    "source": "art/_work/S/dl/object_crowbar/0fbfdfd2a53e40be9ca3ffde55d71689/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/d911413ea93d0416f4428cc03215195316859815aa912523747dc761c091f781.txt",
+    "sha256": "d911413ea93d0416f4428cc03215195316859815aa912523747dc761c091f781"
+  },
+  {
+    "source": "art/_work/S/dl/object_crowns/6549da49369145cf852b2d4e7554b176/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/bb59aaa23cf8c33ae307609c78e5f85d0b01dafc5ba69c3cd411ffe26c6a55da.txt",
+    "sha256": "bb59aaa23cf8c33ae307609c78e5f85d0b01dafc5ba69c3cd411ffe26c6a55da"
+  },
+  {
+    "source": "art/_work/S/dl/object_detail_pipe/07d2f580bf9e4629a5f533d18b364a58/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/74ea15007a9db4e15e429ca0768669d84e8f5628645b34ce5912666a7c7ded68.txt",
+    "sha256": "74ea15007a9db4e15e429ca0768669d84e8f5628645b34ce5912666a7c7ded68"
+  },
+  {
+    "source": "art/_work/S/dl/object_detail_pipe/19163c76a03341ac9263be239b720274/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/aabe891d1763aa7261fda2a1e515238744c872eb7da69bbed2711090e12fd140.txt",
+    "sha256": "aabe891d1763aa7261fda2a1e515238744c872eb7da69bbed2711090e12fd140"
+  },
+  {
+    "source": "art/_work/S/dl/object_dirt/65a40a89d1b943d9a4212658f163ba2b/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/a3f9a2fcf51a1dc3fad78695ef6f2b96b2cd41a1b60cb0418ec601722e57081a.txt",
+    "sha256": "a3f9a2fcf51a1dc3fad78695ef6f2b96b2cd41a1b60cb0418ec601722e57081a"
+  },
+  {
+    "source": "art/_work/S/dl/object_farm_coop/1eeedc696cac4c968e7490994ed5c16e/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/fe32f8b7ae682a5345957f5f690750977b22100687ada32eda4e5608025905c5.txt",
+    "sha256": "fe32f8b7ae682a5345957f5f690750977b22100687ada32eda4e5608025905c5"
+  },
+  {
+    "source": "art/_work/S/dl/object_farm_openbarn/e03a76f5f010465ca570c3e3dc2fb1d1/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/7f46317671fac73666c5d315f31f2ed4340e9162fd1405da5bbe943c8d38b0b4.txt",
+    "sha256": "7f46317671fac73666c5d315f31f2ed4340e9162fd1405da5bbe943c8d38b0b4"
+  },
+  {
+    "source": "art/_work/S/dl/object_farm_silo/057d8379036e4a05a3bce07a5e324a2d/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/5dfc6638cc367206764652eccf68ad5cef2f7242c1cfddde3628a6fbaa7945d9.txt",
+    "sha256": "5dfc6638cc367206764652eccf68ad5cef2f7242c1cfddde3628a6fbaa7945d9"
+  },
+  {
+    "source": "art/_work/S/dl/object_farm_windmill/85faaad38ea2432788e97de0bb840745/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/8d6eb41b201939eff38d1045943555257d215f2fc9853252dfc9ab62da7de799.txt",
+    "sha256": "8d6eb41b201939eff38d1045943555257d215f2fc9853252dfc9ab62da7de799"
+  },
+  {
+    "source": "art/_work/S/dl/object_field/8b8f267a9f9a48e18a03ecf9166f1cb4/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/db6540d7b4493315953933d3e24f429a39bf6169f02fe3475907e52ae2b9bb99.txt",
+    "sha256": "db6540d7b4493315953933d3e24f429a39bf6169f02fe3475907e52ae2b9bb99"
+  },
+  {
+    "source": "art/_work/S/dl/object_field/a798674649ba4a46a015ff1c783a7e0c/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/487f1036cd7b2c41d3766e45470782cbd753ec020524d5fbe2b7f619fd19055e.txt",
+    "sha256": "487f1036cd7b2c41d3766e45470782cbd753ec020524d5fbe2b7f619fd19055e"
+  },
+  {
+    "source": "art/_work/S/dl/object_firewood/b1b610c7c588439d822e4af729c2f5bd/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/1ed0a0be59505367a6038ba0d8d382ead5f2332345026a7739f740293abaadb0.txt",
+    "sha256": "1ed0a0be59505367a6038ba0d8d382ead5f2332345026a7739f740293abaadb0"
+  },
+  {
+    "source": "art/_work/S/dl/object_gravel/abdb36099f3740d8ba97ecc9e54313da/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/54db32e2246a8e747e4a9e26deaff2d6f591b9b5bc9fc53a769f8b13e6c03a68.txt",
+    "sha256": "54db32e2246a8e747e4a9e26deaff2d6f591b9b5bc9fc53a769f8b13e6c03a68"
+  },
+  {
+    "source": "art/_work/S/dl/object_hall_shoe_corner/c100d8b9e4684e6e9be20c16c74cc257/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/01cbc97bdac651b4c4d4f6ed2782cc98750d2d28b64bd1186acdd016bb1f63bd.txt",
+    "sha256": "01cbc97bdac651b4c4d4f6ed2782cc98750d2d28b64bd1186acdd016bb1f63bd"
+  },
+  {
+    "source": "art/_work/S/dl/object_kitchen_bowl/c4e0e97a99714b5685bea23c2b558723/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/3c74d209a18693503f9d8620f3a14216b4d389c52cd39c05899482d2ec942c17.txt",
+    "sha256": "3c74d209a18693503f9d8620f3a14216b4d389c52cd39c05899482d2ec942c17"
+  },
+  {
+    "source": "art/_work/S/dl/object_kitchen_grater/bb02f39b33eb4e5b82470d33a86aab3d/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/3a9ac13f35035a3c2c6f58d267bdcc8bc6b754bf9720899ee2a2fefd220ffa28.txt",
+    "sha256": "3a9ac13f35035a3c2c6f58d267bdcc8bc6b754bf9720899ee2a2fefd220ffa28"
+  },
+  {
+    "source": "art/_work/S/dl/object_kitchen_kettle/5c109d4cc69946b4add01824b9e8aed8/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/9930544aa950c5902c410f93d74a51f80c16e13602b29c819b5d786820dfe009.txt",
+    "sha256": "9930544aa950c5902c410f93d74a51f80c16e13602b29c819b5d786820dfe009"
+  },
+  {
+    "source": "art/_work/S/dl/object_kitchen_linoleum/old_linoleum_flooring_01/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/000cbb41f64aaf7898742c0a3d75e0339dd8f85f45ae0a1b5ab166eaa46428cd.txt",
+    "sha256": "000cbb41f64aaf7898742c0a3d75e0339dd8f85f45ae0a1b5ab166eaa46428cd"
+  },
+  {
+    "source": "art/_work/S/dl/object_kitchen_stool/79847abac75a4211a4f072c45516fbea/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/ec8b1e9a57a37b75b043ed2051f41cd80d37ff1a9bde9798d256462ad5ecca0b.txt",
+    "sha256": "ec8b1e9a57a37b75b043ed2051f41cd80d37ff1a9bde9798d256462ad5ecca0b"
+  },
+  {
+    "source": "art/_work/S/dl/object_kitchen_towel/46b7a07e692c4e4a9bf68ea3176d55ec/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/1a97c4f1d0856f212004e7b123caf25d9dbe845850dd80c183c89387fc4007e9.txt",
+    "sha256": "1a97c4f1d0856f212004e7b123caf25d9dbe845850dd80c183c89387fc4007e9"
+  },
+  {
+    "source": "art/_work/S/dl/object_kitchencabinet/48b931482fe9489ab222ffbda838b753/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/3b963f1cb85533de342410d4d1680414627ccdb75244d19d97d97567892f1140.txt",
+    "sha256": "3b963f1cb85533de342410d4d1680414627ccdb75244d19d97d97567892f1140"
+  },
+  {
+    "source": "art/_work/S/dl/object_kitchenfridgesmall/2e2ef0ea9a954306bd2d4391fbe95c93/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/f40767c5f872dc6e6523ae7577a882637795be69ad8ab58e9618b2fa8ce5786c.txt",
+    "sha256": "f40767c5f872dc6e6523ae7577a882637795be69ad8ab58e9618b2fa8ce5786c"
+  },
+  {
+    "source": "art/_work/S/dl/object_kitchensink/ef562e3bff8b4d7792c1f2995eb7e7e1/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/1075efb664d2b18aa3c4c0a8eb80f7326ad3e2346dac79d1b29b7d06bcd30d77.txt",
+    "sha256": "1075efb664d2b18aa3c4c0a8eb80f7326ad3e2346dac79d1b29b7d06bcd30d77"
+  },
+  {
+    "source": "art/_work/S/dl/object_kitchenstove/ca2b6c61f5634fba99ef0d2beae5f075/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/7ebd3869fc9e1fa71ce2aab49018be68231c84f2168090559af6dc8f0aeda79d.txt",
+    "sha256": "7ebd3869fc9e1fa71ce2aab49018be68231c84f2168090559af6dc8f0aeda79d"
+  },
+  {
+    "source": "art/_work/S/dl/object_lampwall/1965e9e944b44d52bb2efee81f2843dc/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/8a4a2f464fb498d088191a963d7eeb0c4c0336630f807578a024bc8f59d77e4e.txt",
+    "sha256": "8a4a2f464fb498d088191a963d7eeb0c4c0336630f807578a024bc8f59d77e4e"
+  },
+  {
+    "source": "art/_work/S/dl/object_leyka/3f6dee60aa044f4b8cbb3fc6d6d31fe5/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/47d89b17a7f9e93ca4c40a8d1079fe0d3c204f7e2beefa0d7a15205609e73d5f.txt",
+    "sha256": "47d89b17a7f9e93ca4c40a8d1079fe0d3c204f7e2beefa0d7a15205609e73d5f"
+  },
+  {
+    "source": "art/_work/S/dl/object_loungesofa/15df13d15d9b43ad98ed02bb39d1e7a7/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/0c5492be611210b2583dc9db160eed8055775b5c924a4ed5ff203a6b0cf0db7d.txt",
+    "sha256": "0c5492be611210b2583dc9db160eed8055775b5c924a4ed5ff203a6b0cf0db7d"
+  },
+  {
+    "source": "art/_work/S/dl/object_make_boots/9335eebb9e3f4cdebe30fbe0782ad8ad/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/6661e603285139bc1f6e97e788cbb80ca0d3b05a31f73ca7cd59cf6ee1e7756d.txt",
+    "sha256": "6661e603285139bc1f6e97e788cbb80ca0d3b05a31f73ca7cd59cf6ee1e7756d"
+  },
+  {
+    "source": "art/_work/S/dl/object_make_calendar/139089bfd2594576a566c99658bb5df2/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/18d531ed6769324923c99ccf5eb81e3d71ec6c55287c4a90d276211a92fa8214.txt",
+    "sha256": "18d531ed6769324923c99ccf5eb81e3d71ec6c55287c4a90d276211a92fa8214"
+  },
+  {
+    "source": "art/_work/S/dl/object_make_camcorder/eb4582db00b34bca8fb4382edaae10d8/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/cd6606c2b44c388e73b1b2e0910e143f628170b35ed8d059f90fcf2baee18e04.txt",
+    "sha256": "cd6606c2b44c388e73b1b2e0910e143f628170b35ed8d059f90fcf2baee18e04"
+  },
+  {
+    "source": "art/_work/S/dl/object_make_fusebox/20defba0caf04a5d9e589bf5a1ac4adf/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/58ecf0c836cecb8290f1e03479a2b9ce61410bc3355446719f124270ad05a1da.txt",
+    "sha256": "58ecf0c836cecb8290f1e03479a2b9ce61410bc3355446719f124270ad05a1da"
+  },
+  {
+    "source": "art/_work/S/dl/object_make_neatmattress/922932902a674ae0a8a68d3d5e1be053/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/0483e8c3d8f4ca6eef60ae92d14f37709c67487cfa33cc01aec9dfeb93e0ce96.txt",
+    "sha256": "0483e8c3d8f4ca6eef60ae92d14f37709c67487cfa33cc01aec9dfeb93e0ce96"
+  },
+  {
+    "source": "art/_work/S/dl/object_make_nightstand/0ea641afa8604344b2d70f8eac151d33/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/abd4af2e2da8b0a0dde79d16942deca47cef1cd14e3e9d0401df3e16d707d6da.txt",
+    "sha256": "abd4af2e2da8b0a0dde79d16942deca47cef1cd14e3e9d0401df3e16d707d6da"
+  },
+  {
+    "source": "art/_work/S/dl/object_make_paper/b52a620cd0c74a898de17636dfea6621/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/b251e058bcbed2b00905c8bfe8c5501c1cc3ed7e8e7e3a7e2491a1e7fbaa26e1.txt",
+    "sha256": "b251e058bcbed2b00905c8bfe8c5501c1cc3ed7e8e7e3a7e2491a1e7fbaa26e1"
+  },
+  {
+    "source": "art/_work/S/dl/object_make_photoframe/23832bc8f4ff48b98da7b835dd944c8a/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/8b6c8b2ba06631fc7dd7c9b0ae37f26ea58a8690f53c81c27ca67f7ad7583145.txt",
+    "sha256": "8b6c8b2ba06631fc7dd7c9b0ae37f26ea58a8690f53c81c27ca67f7ad7583145"
+  },
+  {
+    "source": "art/_work/S/dl/object_make_picture/a5309de5d9c34f659f603adbcfd7e1a3/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/8c69d87348dab3ebcb766d641e82218ea1688c683104da10345a111509d7ebf2.txt",
+    "sha256": "8c69d87348dab3ebcb766d641e82218ea1688c683104da10345a111509d7ebf2"
+  },
+  {
+    "source": "art/_work/S/dl/object_make_rotaryphone/6e9cbf3bce264ad79cdbf7b0e32ee63a/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/68b5d797c2cde6fc76777f07f410da8fb9a8b3f5cd3edb77522b7528fd5b0337.txt",
+    "sha256": "68b5d797c2cde6fc76777f07f410da8fb9a8b3f5cd3edb77522b7528fd5b0337"
+  },
+  {
+    "source": "art/_work/S/dl/object_make_sewingmachine/78c947841f4c4c27bf169b4e78ad189f/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/38b99f26f7243a48c2964cf9c6bb5be9f6eba19d0750d46409bab7e26d5e8345.txt",
+    "sha256": "38b99f26f7243a48c2964cf9c6bb5be9f6eba19d0750d46409bab7e26d5e8345"
+  },
+  {
+    "source": "art/_work/S/dl/object_make_stepladder/11eefbe238bd4efba011c5ca6431ef4e/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/d2c87447bb9eb5233471f0ebed3a9cee65d1a80a96a53fc24339d43eda5c0af9.txt",
+    "sha256": "d2c87447bb9eb5233471f0ebed3a9cee65d1a80a96a53fc24339d43eda5c0af9"
+  },
+  {
+    "source": "art/_work/S/dl/object_make_tape/6cfa78b4206c4a21b6a1eafe566c18a7/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/32b40129d3608f793d2c51d4079a7b9f2da020c726f01a9f6ddf4743be73b729.txt",
+    "sha256": "32b40129d3608f793d2c51d4079a7b9f2da020c726f01a9f6ddf4743be73b729"
+  },
+  {
+    "source": "art/_work/S/dl/object_make_tvhorizon/bc6ec66e1a624613be3236984a9fc37d/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/e8e7254cc8acea4e5ad5af4eb55f1831d0d39475efc784a86338db80adf28de9.txt",
+    "sha256": "e8e7254cc8acea4e5ad5af4eb55f1831d0d39475efc784a86338db80adf28de9"
+  },
+  {
+    "source": "art/_work/S/dl/object_make_vm/e37e6a6f3e494542a76b88ce9fc1ee27/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/79e4909440c091255d5a4e8324bd1ce235e02e2f1005761f66a4b2206eea21d8.txt",
+    "sha256": "79e4909440c091255d5a4e8324bd1ce235e02e2f1005761f66a4b2206eea21d8"
+  },
+  {
+    "source": "art/_work/S/dl/object_make_wallclock/afe969c3de144698a67d3df3e8efbc43/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/7bc07913ecf11135d0a08efac1ae3ef80efa9217fa628fb240b94a3d4fcdcd6d.txt",
+    "sha256": "7bc07913ecf11135d0a08efac1ae3ef80efa9217fa628fb240b94a3d4fcdcd6d"
+  },
+  {
+    "source": "art/_work/S/dl/object_make_wallrug/9808bd595be848b59136045897ddf1f9/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/72661b645a3831578cdc28a6bc275f32b976e1ffa1ea92cac6de97b738f6ff01.txt",
+    "sha256": "72661b645a3831578cdc28a6bc275f32b976e1ffa1ea92cac6de97b738f6ff01"
+  },
+  {
+    "source": "art/_work/S/dl/object_make_wallunit/3ca9cb48351d4c64bcc9c359eb6a8fc2/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/a3b02b9497b8ac4c8d3c2a5a54848f71bb524ec487e69ac6e8595ba8d5a754dd.txt",
+    "sha256": "a3b02b9497b8ac4c8d3c2a5a54848f71bb524ec487e69ac6e8595ba8d5a754dd"
+  },
+  {
+    "source": "art/_work/S/dl/object_make_wardrobe/f9dd8aa0dd684049911352fa5864ce0c/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/4228b81f3f23750590e2c5e8df47385fadb7e80551d968cbeda903cbfe911318.txt",
+    "sha256": "4228b81f3f23750590e2c5e8df47385fadb7e80551d968cbeda903cbfe911318"
+  },
+  {
+    "source": "art/_work/S/dl/object_make_washstand/3cd6ddf06fb44508a156a9008b8ea48d/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/cdb1c7ee801a662a87f1daa16f7ee01c5275f4c4fe77b18960622933cdcb43e3.txt",
+    "sha256": "cdb1c7ee801a662a87f1daa16f7ee01c5275f4c4fe77b18960622933cdcb43e3"
+  },
+  {
+    "source": "art/_work/S/dl/object_mill_journal/fdeed37ffb9e4cdfa40e44a5f2ca5c53/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/f6d29469b1d8798422bf46b4d4546dafe0ac3278170f832694844527278e39d0.txt",
+    "sha256": "f6d29469b1d8798422bf46b4d4546dafe0ac3278170f832694844527278e39d0"
+  },
+  {
+    "source": "art/_work/S/dl/object_mill_wheel/4e86dda157b54e17a15644b532d7627b/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/d076926572fec1dc706633b66dde690b225737922ec721d0f9fa97ee25221b31.txt",
+    "sha256": "d076926572fec1dc706633b66dde690b225737922ec721d0f9fa97ee25221b31"
+  },
+  {
+    "source": "art/_work/S/dl/object_nat_flower/fdf0e3bbd1474a17add2c879dc27028f/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/eafa1b430a5a8b3abcf954f078a59a7a300fea5476c70826c6626f53b7b1b573.txt",
+    "sha256": "eafa1b430a5a8b3abcf954f078a59a7a300fea5476c70826c6626f53b7b1b573"
+  },
+  {
+    "source": "art/_work/S/dl/object_nat_plant_big/67ec484b217647a8b7ba2994fbe2283c/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/39a0dfc839a6f126fe0bdebabf8c32e4943ff9edcdc463e8c95fb04e866b479a.txt",
+    "sha256": "39a0dfc839a6f126fe0bdebabf8c32e4943ff9edcdc463e8c95fb04e866b479a"
+  },
+  {
+    "source": "art/_work/S/dl/object_nat_twisted/2e53a3ccd6054730af31935e87bf8e13/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/a0dc3d04240a8b385b9083b9e44ca7f539dfa730b52902b9e35dcd1f4200714d.txt",
+    "sha256": "a0dc3d04240a8b385b9083b9e44ca7f539dfa730b52902b9e35dcd1f4200714d"
+  },
+  {
+    "source": "art/_work/S/dl/object_ok_can_open/7bf06cbf14ec43d8bc9f957ae8189561/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/b19cce5234358a609e063d5cfec3ef99fb29c164751b595e38f525815f636783.txt",
+    "sha256": "b19cce5234358a609e063d5cfec3ef99fb29c164751b595e38f525815f636783"
+  },
+  {
+    "source": "art/_work/S/dl/object_ok_haybale/d6e087f9a2a9416c94918f0503943c17/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/559e2fe6688a70ab8c98ff7fffcf50bc3ccf7872d1ae8ba18600bfb0be79760b.txt",
+    "sha256": "559e2fe6688a70ab8c98ff7fffcf50bc3ccf7872d1ae8ba18600bfb0be79760b"
+  },
+  {
+    "source": "art/_work/S/dl/object_ok_lily/e7830f486a0248b6b894f3e7a63b8c16/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/fa0866d62e89aae3483996bc7af484a0c134cf7c8d7d51610069c5e08e459e77.txt",
+    "sha256": "fa0866d62e89aae3483996bc7af484a0c134cf7c8d7d51610069c5e08e459e77"
+  },
+  {
+    "source": "art/_work/S/dl/object_ok_mushroom/5cc8dd50331d4568a4338e9cba262cda/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/42056389ca37e98b51f8fad0d6d09e3e70b7ffceef79c86d5471f28dac9b6faf.txt",
+    "sha256": "42056389ca37e98b51f8fad0d6d09e3e70b7ffceef79c86d5471f28dac9b6faf"
+  },
+  {
+    "source": "art/_work/S/dl/object_ok_shifer/2139b2cb95414ca99b7c946301671305/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/ec75ebe9317b0b89032c83f09773e508e2664c6783f1467512eeca696e6d18c5.txt",
+    "sha256": "ec75ebe9317b0b89032c83f09773e508e2664c6783f1467512eeca696e6d18c5"
+  },
+  {
+    "source": "art/_work/S/dl/object_ok_sign/52cd2769193540cba22af538863903f0/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/0bdf2370dd4a450acc3d101cf222aa3444363fc520f3f309af9b8d5121b9a9c6.txt",
+    "sha256": "0bdf2370dd4a450acc3d101cf222aa3444363fc520f3f309af9b8d5121b9a9c6"
+  },
+  {
+    "source": "art/_work/S/dl/object_ok_stump/3dc7ff6969404f908f09cd9af5e4528e/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/1663639d374b774325938f54738a21cd41e6d47ecb5b9d94c1d0f6968c3c5b76.txt",
+    "sha256": "1663639d374b774325938f54738a21cd41e6d47ecb5b9d94c1d0f6968c3c5b76"
+  },
+  {
+    "source": "art/_work/S/dl/object_pillow/ba34b9e18fe3481e8025f308bebffec0/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/179cbbd954e102d28fdcbf2b6bc311a2b7a5ee1df7fe3d16f837802a57006ddf.txt",
+    "sha256": "179cbbd954e102d28fdcbf2b6bc311a2b7a5ee1df7fe3d16f837802a57006ddf"
+  },
+  {
+    "source": "art/_work/S/dl/object_poison/3f87c4c771af47c585e478dfb2188790/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/67dde7d0cb56a9446493e10ac35050a8966ca562728a1b8a472b20ab9c5b7f9d.txt",
+    "sha256": "67dde7d0cb56a9446493e10ac35050a8966ca562728a1b8a472b20ab9c5b7f9d"
+  },
+  {
+    "source": "art/_work/S/dl/object_pottedplant/0863f14555544967b1e4501eb98f7cd8/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/118897a6c02c6d41f536c2aed59a98a5e6840d5b6334581d49ff77e64ece1520.txt",
+    "sha256": "118897a6c02c6d41f536c2aed59a98a5e6840d5b6334581d49ff77e64ece1520"
+  },
+  {
+    "source": "art/_work/S/dl/object_pump/2b6d0e1a63dd4f23b48a5c2fa62b71fe/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/a6905b04837fcf393a9b3ef7be312011fcd506ea5a5b794f3f84e42de277168a.txt",
+    "sha256": "a6905b04837fcf393a9b3ef7be312011fcd506ea5a5b794f3f84e42de277168a"
+  },
+  {
+    "source": "art/_work/S/dl/object_pump_breaker/6f92c92bf3954940883adcf50a10142b/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/3ef2d94acd1f487777eef927e6d2755f8b2a26a88446d5610c7c37894f1bb70f.txt",
+    "sha256": "3ef2d94acd1f487777eef927e6d2755f8b2a26a88446d5610c7c37894f1bb70f"
+  },
+  {
+    "source": "art/_work/S/dl/object_radio/071c556ba1804e18adea847a06b3d9bc/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/389ffc2ebb6dcac9b7f6b9b4d205b5bcf36bc3d70a92c1ccbae91428b2446573.txt",
+    "sha256": "389ffc2ebb6dcac9b7f6b9b4d205b5bcf36bc3d70a92c1ccbae91428b2446573"
+  },
+  {
+    "source": "art/_work/S/dl/object_resource_wood/18aeae1eb9d249bd8c276c46f33ab689/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/a080989e66d222f6e7208cbe96fcd2e5bf6f349e7cc4edb1919640d2fbfbe36c.txt",
+    "sha256": "a080989e66d222f6e7208cbe96fcd2e5bf6f349e7cc4edb1919640d2fbfbe36c"
+  },
+  {
+    "source": "art/_work/S/dl/object_ru_bench/f3f4660bed5449e2bd82a0beec69b51c/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/62bd6b72eaab774b388dedc5b8b81f842b60f0936576ef084920f98b37a0e884.txt",
+    "sha256": "62bd6b72eaab774b388dedc5b8b81f842b60f0936576ef084920f98b37a0e884"
+  },
+  {
+    "source": "art/_work/S/dl/object_ru_dumpster/a863d44376084461a3e105b3ff3e9a10/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/7b6a0d6ee7e3322dee58d8f050904e401388ec27d29c1527492fdc7827bbd789.txt",
+    "sha256": "7b6a0d6ee7e3322dee58d8f050904e401388ec27d29c1527492fdc7827bbd789"
+  },
+  {
+    "source": "art/_work/S/dl/object_ru_pallet/828e4e8f88cb413da576fc9777810aa3/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/081c68819c0676f2bdba269be68beaf06fb387f6a074429c8ee7b1e7aa1e7565.txt",
+    "sha256": "081c68819c0676f2bdba269be68beaf06fb387f6a074429c8ee7b1e7aa1e7565"
+  },
+  {
+    "source": "art/_work/S/dl/object_rugdoormat/e7e7d5527b1743639e2f85bba15693ec/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/1e509ebac75ec052dec7dcf72a6f1455f7a14ef8a6fe048bd8d524e1965b0c04.txt",
+    "sha256": "1e509ebac75ec052dec7dcf72a6f1455f7a14ef8a6fe048bd8d524e1965b0c04"
+  },
+  {
+    "source": "art/_work/S/dl/object_shed_things/4f251202d0504126b1752e6d1f5f5e4f/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/515f4ee5896f9a2b3c8c02741e727ac52727ebf82de0e1bdd6557859dca46829.txt",
+    "sha256": "515f4ee5896f9a2b3c8c02741e727ac52727ebf82de0e1bdd6557859dca46829"
+  },
+  {
+    "source": "art/_work/S/dl/object_shed_things/ccfcc4ae6efa44a2ba34c4c479be7daf/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/be1745306a5c3e9cc5a36dc128772491dfec3c35b3703ca5235aa0b4db03d527.txt",
+    "sha256": "be1745306a5c3e9cc5a36dc128772491dfec3c35b3703ca5235aa0b4db03d527"
+  },
+  {
+    "source": "art/_work/S/dl/object_shop/70c2b4db2969459aa4c8693adb1f1436/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/ff0d5dccdf9c67b3b24004c697f520373c90a5c3e66357bd8554b88f1be099dd.txt",
+    "sha256": "ff0d5dccdf9c67b3b24004c697f520373c90a5c3e66357bd8554b88f1be099dd"
+  },
+  {
+    "source": "art/_work/S/dl/object_shop_phone/f5df881485f04f90898087076c8a0224/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/44f9d5cbade8396405ecb004cb7121d053ca3a75981b71febb616f2d4b31384b.txt",
+    "sha256": "44f9d5cbade8396405ecb004cb7121d053ca3a75981b71febb616f2d4b31384b"
+  },
+  {
+    "source": "art/_work/S/dl/object_shop_scales/9c60332ace274bd290fbc2bb3e64f992/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/5349ea95d4d10846cdcbe4d81069536e700c2ed4203a2e1f22e46f94cb9bc8dd.txt",
+    "sha256": "5349ea95d4d10846cdcbe4d81069536e700c2ed4203a2e1f22e46f94cb9bc8dd"
+  },
+  {
+    "source": "art/_work/S/dl/object_sprayer/2d27530c0a6247c6a5693e82e9c8d9ed/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/82e42716fdfda88f67df2ca1f09c18c2f18f92f4c86cc9bb7aa0d29229c8953b.txt",
+    "sha256": "82e42716fdfda88f67df2ca1f09c18c2f18f92f4c86cc9bb7aa0d29229c8953b"
+  },
+  {
+    "source": "art/_work/S/dl/object_stoolbar/4aa74e00d6164eaea3fe5524fa3081ef/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/50a725474e8fe7bddf691d34ad4fb96a4f0aa0c36ea9ee5988b0dabe62a2fee4.txt",
+    "sha256": "50a725474e8fe7bddf691d34ad4fb96a4f0aa0c36ea9ee5988b0dabe62a2fee4"
+  },
+  {
+    "source": "art/_work/S/dl/object_stop/46b2a4e17b9b4818beebd804b7670879/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/638991c53a5d5190f7aaec297357e243b0cd8532d5ea7c725667ea7b4adfbcc0.txt",
+    "sha256": "638991c53a5d5190f7aaec297357e243b0cd8532d5ea7c725667ea7b4adfbcc0"
+  },
+  {
+    "source": "art/_work/S/dl/object_stove/4ca2d9183b3d4ec8aeeb56629a114090/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/6feadc414b4b1e66276845ef44eed7d1c51f97a792a6010485681980184fd66f.txt",
+    "sha256": "6feadc414b4b1e66276845ef44eed7d1c51f97a792a6010485681980184fd66f"
+  },
+  {
+    "source": "art/_work/S/dl/object_sv_uaz/ca2421bb1e354da4a3db6b8414a2ac55/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/c7c608c23e04cfa6504ccc0a6c5aee3fc211a13ffa4c87b891a6fc915c9175b2.txt",
+    "sha256": "c7c608c23e04cfa6504ccc0a6c5aee3fc211a13ffa4c87b891a6fc915c9175b2"
+  },
+  {
+    "source": "art/_work/S/dl/object_table/b6359a376b3540ca837bb9f2034606e5/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/459674b59f3489b5ff934f36a4243df7852777d2be373652e8f1b79109e4a97f.txt",
+    "sha256": "459674b59f3489b5ff934f36a4243df7852777d2be373652e8f1b79109e4a97f"
+  },
+  {
+    "source": "art/_work/S/dl/object_tap/826bbd1edc7046bfa38763b755ca3150/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/7573a90833727a3a31f3ce638c7606ce78a17c0e59df401fd41ce180ac7ec230.txt",
+    "sha256": "7573a90833727a3a31f3ce638c7606ce78a17c0e59df401fd41ce180ac7ec230"
+  },
+  {
+    "source": "art/_work/S/dl/object_tonya_bed/098ec57b5c8748a78c6bedb9d4b414de/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/11b0927f8fdd44046fe30ab21f91947730cbfcd562e702daa0a3db4ff37954a2.txt",
+    "sha256": "11b0927f8fdd44046fe30ab21f91947730cbfcd562e702daa0a3db4ff37954a2"
+  },
+  {
+    "source": "art/_work/S/dl/object_tonya_chair/98676dcb658f432db40881f4ff39f509/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/d9465e39b4a8e8172454a48913cde13f5746dbe7a56840a8def52c62a5a5d154.txt",
+    "sha256": "d9465e39b4a8e8172454a48913cde13f5746dbe7a56840a8def52c62a5a5d154"
+  },
+  {
+    "source": "art/_work/S/dl/object_tonya_nightstand/62bcb265cfbb4be78107d04cc22b2628/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/e8c561771148debebba935466f29d6ed1c99d0be955b2e82e2af26dd8e5f0e4e.txt",
+    "sha256": "e8c561771148debebba935466f29d6ed1c99d0be955b2e82e2af26dd8e5f0e4e"
+  },
+  {
+    "source": "art/_work/S/dl/object_tonya_photo/5b4f6ab0cd54433c82b429b42f4c9259/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/0a2a1d1dc30e7eae9f9a6903f7eafc79590cfd4c440878e4f9663aba0702642c.txt",
+    "sha256": "0a2a1d1dc30e7eae9f9a6903f7eafc79590cfd4c440878e4f9663aba0702642c"
+  },
+  {
+    "source": "art/_work/S/dl/object_tool_axe/c82d6af9cd034eeaa4dc92af93df3ce4/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/76be7eb3b2e0df3163ecfae16d32a198637211320b60e68dced1a56ba909ce28.txt",
+    "sha256": "76be7eb3b2e0df3163ecfae16d32a198637211320b60e68dced1a56ba909ce28"
+  },
+  {
+    "source": "art/_work/S/dl/object_tractor/1d91100976d6454d940c0b006b563364/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/7dd84060708745cd17b225384a8628c6026fc0c7c5569cc8bf4409e9a4a160c2.txt",
+    "sha256": "7dd84060708745cd17b225384a8628c6026fc0c7c5569cc8bf4409e9a4a160c2"
+  },
+  {
+    "source": "art/_work/S/dl/object_tractor_kit/be4445670381439a8974ebf6b5a880f3/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/ae8a445c911b1e1891e50254f255e770fbae0c30fc248657009c5cda59dafe10.txt",
+    "sha256": "ae8a445c911b1e1891e50254f255e770fbae0c30fc248657009c5cda59dafe10"
+  },
+  {
+    "source": "art/_work/S/dl/object_trashcan/c7fbdef840634805981d57819963eb70/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/9ffb5c76d7d102e29b6dbf3b3f684f07e1611a95b3020775b4f590c7976d46d1.txt",
+    "sha256": "9ffb5c76d7d102e29b6dbf3b3f684f07e1611a95b3020775b4f590c7976d46d1"
+  },
+  {
+    "source": "art/_work/S/dl/object_valya_grave_shovel/c6196d314f2c4cb4a6f1fd5f2e696b2f/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/5f8ebbd4f6904e2bbe6948430e1f19f615efefd436413c630c9893b5abc2a962.txt",
+    "sha256": "5f8ebbd4f6904e2bbe6948430e1f19f615efefd436413c630c9893b5abc2a962"
+  },
+  {
+    "source": "art/_work/S/dl/object_valya_grave_tin/6f429979e45441e195432729e2c15a8c/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/557b03146260d230c2724c71d2a163504b9543c0307644bda4e219a0f0b28667.txt",
+    "sha256": "557b03146260d230c2724c71d2a163504b9543c0307644bda4e219a0f0b28667"
+  },
+  {
+    "source": "art/_work/S/dl/object_valya_grave_tree/fe67c886eebf4bcb988d7c45e69995ad/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/da8702f4a73b70f356c8d7a2c13d6f2c977577eb3619df46c6a1a4add7373213.txt",
+    "sha256": "da8702f4a73b70f356c8d7a2c13d6f2c977577eb3619df46c6a1a4add7373213"
+  },
+  {
+    "source": "art/_work/S/dl/object_valya_lake_net/0d6b1bac6f7d4ad2b80e60537e2a90b5/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/7de580904ac22ab8878734f8167579aa2565b9462d0589dd1ade4c37a312f798.txt",
+    "sha256": "7de580904ac22ab8878734f8167579aa2565b9462d0589dd1ade4c37a312f798"
+  },
+  {
+    "source": "art/_work/S/dl/object_valya_scythe/c2f950b22b89401c95f1759df27c560e/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/6e12b04c014009987b6970818bde3549802bb0a1ae24121c6be813b584781f9e.txt",
+    "sha256": "6e12b04c014009987b6970818bde3549802bb0a1ae24121c6be813b584781f9e"
+  },
+  {
+    "source": "art/_work/S/dl/object_valya_shed_locker/b8209228ecf44c418108df00e405da90/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/6565efb50e8190ff559e964056583d789f252df45de0287ee7b9e610911bb571.txt",
+    "sha256": "6565efb50e8190ff559e964056583d789f252df45de0287ee7b9e610911bb571"
+  },
+  {
+    "source": "art/_work/S/dl/object_veranda_travel_bag/e443fd09539a4470865d0f367d4bfd89/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/251f37f6966b7bcaa394b7003a03a8d1d752675ea5b8945c065ad1ab8562df8b.txt",
+    "sha256": "251f37f6966b7bcaa394b7003a03a8d1d752675ea5b8945c065ad1ab8562df8b"
+  },
+  {
+    "source": "art/_work/S/dl/object_water_tower/0b5af9b63f2e40b9a25596efee992773/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/e6fda83f0af79dc9436eafce254184a2f3cbeed27a5b0e97158a5669fe0c03a7.txt",
+    "sha256": "e6fda83f0af79dc9436eafce254184a2f3cbeed27a5b0e97158a5669fe0c03a7"
+  },
+  {
+    "source": "art/_work/S/dl/object_well/2e7042e87ee34ee6a509e5f93ecd2f87/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/af9251548a6e142ff4a5793bb321e35cff69d89a57ca80ba05ae3fadc3f17b17.txt",
+    "sha256": "af9251548a6e142ff4a5793bb321e35cff69d89a57ca80ba05ae3fadc3f17b17"
+  },
+  {
+    "source": "art/_work/S/dl/object_well_drum/1ed7131ab9494516a47c15983f30454f/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/b4ecdaee9efba6cdf7fbfe87f9e717a708990e1b039a1bbbbbd225873a249ec4.txt",
+    "sha256": "b4ecdaee9efba6cdf7fbfe87f9e717a708990e1b039a1bbbbbd225873a249ec4"
+  },
+  {
+    "source": "art/_work/S/dl/path_ground/c4676cdf7715484382400ff63faffd45/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/0f0ef1479341c688d4c89a319f46be8918a64e4cc70bb762442bca820c4038fa.txt",
+    "sha256": "0f0ef1479341c688d4c89a319f46be8918a64e4cc70bb762442bca820c4038fa"
+  },
+  {
+    "source": "art/_work/S/dl/reed/bc77ea5218e44f2dbc23b2a4aef0c898/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/3d7465a9bc002e9f491b4b30235789d84e91de9c228b1a36c433f195582d6e89.txt",
+    "sha256": "3d7465a9bc002e9f491b4b30235789d84e91de9c228b1a36c433f195582d6e89"
+  },
+  {
+    "source": "art/_work/S/dl/rope/e6fe8fedd3d04b1dac3e32e0dd515cbb/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/0d7591cfcd8ff476ac68d94669acb07a232422b123ef9a7d73ff9296ff213908.txt",
+    "sha256": "0d7591cfcd8ff476ac68d94669acb07a232422b123ef9a7d73ff9296ff213908"
+  },
+  {
+    "source": "art/_work/S/dl/rural_house/be5c284793b149d1bc3e359bd8c44cdc/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/16d0949fa20191a3742e126fde3769449ee50bd980d158021b1d4be12baca8cc.txt",
+    "sha256": "16d0949fa20191a3742e126fde3769449ee50bd980d158021b1d4be12baca8cc"
+  },
+  {
+    "source": "art/_work/S/dl/rural_privy/0e7554c67f6f4e8aae0bd13b53bcdfab/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/845e783a5fd5a332d5a55ae7d62b10818a089c082e781c3e03395575e4f506bb.txt",
+    "sha256": "845e783a5fd5a332d5a55ae7d62b10818a089c082e781c3e03395575e4f506bb"
+  },
+  {
+    "source": "art/_work/S/dl/rural_shed/3366ee69c2dd4908a99f386e07faa1d6/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/7671a4cf159762cf3f3cb0fcf303dca2c6a724ecbd563abafe47edd8adbfddd8.txt",
+    "sha256": "7671a4cf159762cf3f3cb0fcf303dca2c6a724ecbd563abafe47edd8adbfddd8"
+  },
+  {
+    "source": "art/_work/S/dl/street_lamp_soviet/209fb45b77434af4b6830ff4da7d58b2/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/42d154b1567e87a7964e6d0ea699cf4c2af950df680191837172a19accec7154.txt",
+    "sha256": "42d154b1567e87a7964e6d0ea699cf4c2af950df680191837172a19accec7154"
+  },
+  {
+    "source": "art/_work/S/dl/tree_conifer/ef06bbc949b64e81a5016e18d3263416/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/8c6f1d23d558668ffeb657a9b68854b68f568fee3bee65089ce306d797fbefe9.txt",
+    "sha256": "8c6f1d23d558668ffeb657a9b68854b68f568fee3bee65089ce306d797fbefe9"
+  },
+  {
+    "source": "art/_work/S/dl/tree_deciduous/25aa85eeba944baea33ce5cde985ca49/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/0093b40ae5e6ece73c06efecbf818c5b24fdb3962db3d8030bf5d17a36c76250.txt",
+    "sha256": "0093b40ae5e6ece73c06efecbf818c5b24fdb3962db3d8030bf5d17a36c76250"
+  },
+  {
+    "source": "art/_work/S/dl/tree_deciduous/aa842dffd9654d33b8b91170ce83c172/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/4a76a2435d25b6622a92b2088dfce9623fc985305efa020e741d30bd24ed7710.txt",
+    "sha256": "4a76a2435d25b6622a92b2088dfce9623fc985305efa020e741d30bd24ed7710"
+  },
+  {
+    "source": "art/_work/S/dl/utility_pole/a76b68b838424a89b7db8a38f4c3d546/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/77c690dc001ec76286ac6d3755fd2140cbb974dad9f51de92d4c0e3a090fec65.txt",
+    "sha256": "77c690dc001ec76286ac6d3755fd2140cbb974dad9f51de92d4c0e3a090fec65"
+  },
+  {
+    "source": "art/_work/S/dl/vehicle_vaz_classic/95d34f63b5b14e2197fd41383776e031/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/9446d1b663ba8ca81f2f6938891dc59a25a2fbe8998284722d18ab81ed8fcdbe.txt",
+    "sha256": "9446d1b663ba8ca81f2f6938891dc59a25a2fbe8998284722d18ab81ed8fcdbe"
+  },
+  {
+    "source": "art/_work/S/dl/woodpile/393e8b83dfdc455fa4f03dbd4f116e0c/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/fd6c02851ec8c60647267f484da09c39915867e52e218ff57dce8be3bf28934b.txt",
+    "sha256": "fd6c02851ec8c60647267f484da09c39915867e52e218ff57dce8be3bf28934b"
+  },
+  {
+    "source": "art/_work/S/dl/workbench/9fbc30ba31a546fe9370e6de2dcc0707/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/fc9844bc2a3fbba5d7e2209846ce43e3ff89919a3ebc970cc310f97c075e827b.txt",
+    "sha256": "fc9844bc2a3fbba5d7e2209846ce43e3ff89919a3ebc970cc310f97c075e827b"
+  },
+  {
+    "source": "art/_work/inbox/fab/barrel_metal/quixel_ui1maewga/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/b1d25ae1b96333d4052037a3660abb38dcdab0c75dac707a278bf575ef1a790e.txt",
+    "sha256": "b1d25ae1b96333d4052037a3660abb38dcdab0c75dac707a278bf575ef1a790e"
+  },
+  {
+    "source": "art/_work/inbox/fab/bucket_metal/laudostudio_old_bucket/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/a9909aa468daca70ab1881872066a52eb9e1b220b406e57eb407fe73fa1de96c.txt",
+    "sha256": "a9909aa468daca70ab1881872066a52eb9e1b220b406e57eb407fe73fa1de96c"
+  },
+  {
+    "source": "art/_work/inbox/fab/bucket_metal/sousinho_worn_bucket/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/a921a6663cea2656dd085f6341c44f933aecc8ea320ead1ce2a93ff6307167b3.txt",
+    "sha256": "a921a6663cea2656dd085f6341c44f933aecc8ea320ead1ce2a93ff6307167b3"
+  },
+  {
+    "source": "art/_work/inbox/fab/door_leaf/quixel_wbdjciudw/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/415d769e7eee7445efd99016627913e6c03b13497597c1c141639201a7fe230f.txt",
+    "sha256": "415d769e7eee7445efd99016627913e6c03b13497597c1c141639201a7fe230f"
+  },
+  {
+    "source": "art/_work/inbox/fab/fence_corrugated/quixel_vb1kfhv/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/aa971b3e0cefb18aed499fd2ff143255a3bce55d4b151240ae6d746fdf8e90d5.txt",
+    "sha256": "aa971b3e0cefb18aed499fd2ff143255a3bce55d4b151240ae6d746fdf8e90d5"
+  },
+  {
+    "source": "art/_work/inbox/fab/grass_clump/nicholas3d_grass/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/5fdaef7519a322e6d3859f018a091bebfc5fd8fb26ce0d052d05105dbd62f25a.txt",
+    "sha256": "5fdaef7519a322e6d3859f018a091bebfc5fd8fb26ce0d052d05105dbd62f25a"
+  },
+  {
+    "source": "art/_work/inbox/fab/log/gl3d_wood_log/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/ac8608a50f92d456495e932cdea752f6ca52f0ec12d8e9a56bf296c4672fb6df.txt",
+    "sha256": "ac8608a50f92d456495e932cdea752f6ca52f0ec12d8e9a56bf296c4672fb6df"
+  },
+  {
+    "source": "art/_work/inbox/fab/object_kitchen_bowl/soi_restaurant_set/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/f455a73cdac5f4efa137e78d04d345312e82b208b02d31597d3612e4d5cc1f70.txt",
+    "sha256": "f455a73cdac5f4efa137e78d04d345312e82b208b02d31597d3612e4d5cc1f70"
+  },
+  {
+    "source": "art/_work/inbox/fab/object_table/bbarts_old_furniture/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/bb891db432752afb1c4b9080913da0989c7080d75c650db248854d2f209d6b1f.txt",
+    "sha256": "bb891db432752afb1c4b9080913da0989c7080d75c650db248854d2f209d6b1f"
+  },
+  {
+    "source": "art/_work/inbox/fab/object_tonya_basin/plaggy_wash_basin/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/824cc011d7f1219f68e95751cbe029f5b48a398fe7f3e1a7895fad1b612c01d8.txt",
+    "sha256": "824cc011d7f1219f68e95751cbe029f5b48a398fe7f3e1a7895fad1b612c01d8"
+  },
+  {
+    "source": "art/_work/inbox/fab/rural_shed/quixel_vkbhcbg/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/add01b1845f0cc41dae75988895a2f24f9238df52b5eaca992bc43a24803c555.txt",
+    "sha256": "add01b1845f0cc41dae75988895a2f24f9238df52b5eaca992bc43a24803c555"
+  },
+  {
+    "source": "art/_work/inbox/fab/tree_deciduous/quixel_silver_birch/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/6385bf7cf68886f88bb78ea86f43449941a699a9ad741f2c12b05f53ff0da2ca.txt",
+    "sha256": "6385bf7cf68886f88bb78ea86f43449941a699a9ad741f2c12b05f53ff0da2ca"
+  },
+  {
+    "source": "art/_work/inbox/fab/utility_pole/helindu_electricity_pole/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/890bbe4f2e707cbf54d9dc15f7f1afef039cf0acb64731af35a3c37c1491c27b.txt",
+    "sha256": "890bbe4f2e707cbf54d9dc15f7f1afef039cf0acb64731af35a3c37c1491c27b"
+  },
+  {
+    "source": "art/_work/inbox/fab/window_frame/quixel_vmfwcabdw/LICENSE.txt",
+    "copy": "NOTICES/asset-licenses/d9b7c2ec7a681172d58bf8aa1720e68bf0367214a309cd1e6d4c8b14305bebe3.txt",
+    "sha256": "d9b7c2ec7a681172d58bf8aa1720e68bf0367214a309cd1e6d4c8b14305bebe3"
+  }
+]

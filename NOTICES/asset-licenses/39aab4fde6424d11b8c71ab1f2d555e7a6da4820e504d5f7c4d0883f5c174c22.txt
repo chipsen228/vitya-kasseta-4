@@ -1,0 +1,9 @@
+Wicker Basket_10_MB
+Author: Mehdi Shahsavan (ahmagh2e)
+URL: https://sketchfab.com/3d-models/none-81b9a15bbb284add917056520897d6a4
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T17:04:43.257288
+SHA256: 52e701fac92377fdeba6e58c120bcb8f2fc7a56b0a3bf49c53cf972dc34c15d0
+Source archive unchanged.

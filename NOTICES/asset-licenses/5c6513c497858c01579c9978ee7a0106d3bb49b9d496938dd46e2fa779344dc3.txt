@@ -1,0 +1,9 @@
+Curtain
+Author: milaink (milaink)
+URL: https://sketchfab.com/3d-models/none-6f0e27c3b4734b99ae6ed051899a1453
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:23:09.824243
+SHA256: d35132119ae118422611bd477701d4e2aa60f002db95c9c609e58b0db8fb47ae
+Source archive unchanged.

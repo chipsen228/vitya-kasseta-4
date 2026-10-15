@@ -1,0 +1,9 @@
+Old soviet chair
+Author: Annelida (Annelida)
+URL: https://sketchfab.com/3d-models/none-98676dcb658f432db40881f4ff39f509
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T17:00:06.974711
+SHA256: 1678fe55c45a7691757d6e2f75078f4a4cf3ac61f78e8f160edeece8bd5975e5
+Source archive unchanged.

@@ -1,0 +1,9 @@
+low poly shovel
+Author: Dirk.z (138983)
+URL: https://sketchfab.com/3d-models/none-c6196d314f2c4cb4a6f1fd5f2e696b2f
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:51:58.903539
+SHA256: ce16b8f26c6a3453b5708de687e49f3814cae219a86f6e7d9cfd67d1581cfb79
+Source archive unchanged.

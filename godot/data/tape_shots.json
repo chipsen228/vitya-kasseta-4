@@ -1,0 +1,572 @@
+{
+ "_": "Кадры кассет (фаза 8, переписаны в фазе 13) поверх shots.json. Нет файла — визуальный ряд ровно как принят в фазе 4: плёнка сцены крутится по таймеру. SHOTS и SCENE_SHOTS накладываются на одноимённые ключи shots.json (сам shots.json не правится — он конвертированные данные прототипа). TAPE_SCENE_SHOTS — плёнка КАССЕТЫ: ключ «<кассета>:<сцена>», кадр на реплику по порядку реплик этой сцены в этой кассете; позиция плёнки переживает уход в другую сцену и возврат. ACT_SHOTS — кадр вместо двух прямоугольников: ключ «<сцена>:<кто>», держится dur секунд события act, и реплики внутри этого окна кадр не сдвигают.",
+
+ "_phase13": "Пётр: «изобразительный ряд повторяется и не завораживает». Половину реплик держали кадры фазы 8 с именами «-N» (kitchen-1, doorway-1, bedroom-3): их снимали ПОД СЦЕНУ, а не под реплику, и они же кочевали из плёнки в плёнку. Теперь у каждой реплики свой кадр, снятый под её текст, и каждый несёт ровно одну неправильную деталь (см. STYLE в tools/gen_tape_frames.py). Кадры плёнки 2 заменены целиком: у неё новое содержание, data/tapes_ext.json.",
+
+ "_flash": "Поле \"flash\": true — скример. tape_player._cut() бьёт по такому кадру стингером и держит три кадра на полной яркости, без сепии кассеты. Их РОВНО ЧЕТЫРЕ на все пять плёнок (t1-face, t2-apple-face, t3-wrong, t5-tv-face), и это потолок: инструмент, которым бьют часто, перестаёт бить. Каждый стоит на реплике, где голос замолкает или шепчет, — не поверх фразы.",
+
+ "SHOTS": {
+  "t1-window": {
+   "src": "assets/tape/t1-window.webp",
+   "scene": "kitchen",
+   "move": "hold",
+   "dur": 6.0,
+   "mono": false
+  },
+  "t1-sit": {
+   "src": "assets/tape/t1-sit.webp",
+   "scene": "kitchen",
+   "move": "hold",
+   "dur": 5.5,
+   "mono": false
+  },
+  "t1-eat": {
+   "src": "assets/tape/t1-eat.webp",
+   "scene": "kitchen",
+   "move": "push-in",
+   "dur": 5.5,
+   "mono": false
+  },
+  "t1-wait": {
+   "src": "assets/tape/t1-wait.webp",
+   "scene": "kitchen",
+   "move": "hold",
+   "dur": 7.0,
+   "mono": false
+  },
+  "t1-fence": {
+   "src": "assets/tape/t1-fence.webp",
+   "scene": "kitchen",
+   "move": "pan-right",
+   "dur": 5.5,
+   "mono": false
+  },
+  "t1-slip": {
+   "src": "assets/tape/t1-slip.webp",
+   "scene": "kitchen",
+   "move": "tilt-down",
+   "dur": 5.0,
+   "mono": false
+  },
+  "t1-tired": {
+   "src": "assets/tape/t1-tired.webp",
+   "scene": "kitchen",
+   "move": "hold",
+   "dur": 5.5,
+   "mono": false
+  },
+  "t1-label": {
+   "src": "assets/tape/t1-label.webp",
+   "scene": "face-photo",
+   "move": "hold",
+   "dur": 5.5,
+   "mono": false
+  },
+  "t1-face": {
+   "src": "assets/tape/t1-face.webp",
+   "scene": "face-photo",
+   "move": "hold",
+   "dur": 3.0,
+   "mono": false,
+   "flash": true
+  },
+  "t1-blank": {
+   "src": "assets/tape/t1-blank.webp",
+   "scene": "face-photo",
+   "move": "hold",
+   "dur": 6.5,
+   "mono": false
+  },
+  "t2-tree": {
+   "src": "assets/tape/t2-tree.webp",
+   "scene": "orchard",
+   "move": "tilt-down",
+   "dur": 5.5,
+   "mono": false
+  },
+  "t2-hang": {
+   "src": "assets/tape/t2-hang.webp",
+   "scene": "orchard",
+   "move": "push-in",
+   "dur": 5.5,
+   "mono": false
+  },
+  "t2-apple-face": {
+   "src": "assets/tape/t2-apple-face.webp",
+   "scene": "orchard",
+   "move": "hold",
+   "dur": 3.0,
+   "mono": false,
+   "flash": true
+  },
+  "t2-stick": {
+   "src": "assets/tape/t2-stick.webp",
+   "scene": "orchard",
+   "move": "hold",
+   "dur": 6.0,
+   "mono": false
+  },
+  "t2-sorrel": {
+   "src": "assets/tape/t2-sorrel.webp",
+   "scene": "beds",
+   "move": "hold",
+   "dur": 5.5,
+   "mono": false
+  },
+  "t2-sprayer": {
+   "src": "assets/tape/t2-sprayer.webp",
+   "scene": "beds",
+   "move": "push-in",
+   "dur": 6.0,
+   "mono": false
+  },
+  "t2-rows": {
+   "src": "assets/tape/t2-rows.webp",
+   "scene": "beds",
+   "move": "pan-right",
+   "dur": 6.0,
+   "mono": false
+  },
+  "t2-bitten": {
+   "src": "assets/tape/t2-bitten.webp",
+   "scene": "beds",
+   "move": "push-in",
+   "dur": 6.5,
+   "mono": false
+  },
+  "t2-lawn": {
+   "src": "assets/tape/t2-lawn.webp",
+   "scene": "lawn",
+   "move": "pan-left",
+   "dur": 5.5,
+   "mono": false
+  },
+  "t2-drop": {
+   "src": "assets/tape/t2-drop.webp",
+   "scene": "lawn",
+   "move": "hold",
+   "dur": 5.5,
+   "mono": false
+  },
+  "t2-chase": {
+   "src": "assets/tape/t2-chase.webp",
+   "scene": "run",
+   "move": "push-in",
+   "dur": 5.5,
+   "mono": false
+  },
+  "t2-forks": {
+   "src": "assets/tape/t2-forks.webp",
+   "scene": "run",
+   "move": "hold",
+   "dur": 7.0,
+   "mono": false
+  },
+  "t3-sill": {
+   "src": "assets/tape/t3-sill.webp",
+   "scene": "doorway",
+   "move": "hold",
+   "dur": 6.0,
+   "mono": true
+  },
+  "t3-wait": {
+   "src": "assets/tape/t3-wait.webp",
+   "scene": "doorway",
+   "move": "hold",
+   "dur": 7.0,
+   "mono": true
+  },
+  "t3-breath": {
+   "src": "assets/tape/t3-breath.webp",
+   "scene": "doorway",
+   "move": "hold",
+   "dur": 7.0,
+   "mono": true
+  },
+  "t3-man": {
+   "src": "assets/tape/t3-man.webp",
+   "scene": "doorway",
+   "move": "hold",
+   "dur": 6.0,
+   "mono": true
+  },
+  "t3-again": {
+   "src": "assets/tape/t3-again.webp",
+   "scene": "doorway",
+   "move": "push-in",
+   "dur": 6.0,
+   "mono": true
+  },
+  "t3-fridge-light": {
+   "src": "assets/tape/t3-fridge-light.webp",
+   "scene": "fridge-open",
+   "move": "hold",
+   "dur": 5.5,
+   "mono": true
+  },
+  "t3-fridge-eat": {
+   "src": "assets/tape/t3-fridge-eat.webp",
+   "scene": "fridge-open",
+   "move": "push-in",
+   "dur": 6.0,
+   "mono": true
+  },
+  "t3-close": {
+   "src": "assets/tape/t3-close.webp",
+   "scene": "doorway",
+   "move": "hold",
+   "dur": 6.0,
+   "mono": true
+  },
+  "t3-wrong": {
+   "src": "assets/tape/t3-wrong.webp",
+   "scene": "doorway",
+   "move": "hold",
+   "dur": 3.0,
+   "mono": true,
+   "flash": true
+  },
+  "t3-black": {
+   "src": "assets/tape/t3-black.webp",
+   "scene": "doorway",
+   "move": "hold",
+   "dur": 6.0,
+   "mono": true
+  },
+  "dark-1": {
+   "src": "assets/tape/dark-1.webp",
+   "scene": "dark",
+   "move": "hold",
+   "dur": 6.0,
+   "mono": true
+  },
+  "dark-2": {
+   "src": "assets/tape/dark-2.webp",
+   "scene": "dark",
+   "move": "tilt-down",
+   "dur": 5.0,
+   "mono": true
+  },
+  "dark-3": {
+   "src": "assets/tape/dark-3.webp",
+   "scene": "dark",
+   "move": "push-in",
+   "dur": 5.5,
+   "mono": true
+  },
+  "dark-4": {
+   "src": "assets/tape/dark-4.webp",
+   "scene": "dark",
+   "move": "hold",
+   "dur": 6.0,
+   "mono": true
+  },
+  "t5-band": {
+   "src": "assets/tape/t5-band.webp",
+   "scene": "loft",
+   "move": "pan-right",
+   "dur": 6.0,
+   "mono": true
+  },
+  "t5-mattress": {
+   "src": "assets/tape/t5-mattress.webp",
+   "scene": "loft",
+   "move": "push-in",
+   "dur": 6.0,
+   "mono": true
+  },
+  "t5-jars": {
+   "src": "assets/tape/t5-jars.webp",
+   "scene": "loft-tv",
+   "move": "push-in",
+   "dur": 5.5,
+   "mono": true
+  },
+  "t5-brushes": {
+   "src": "assets/tape/t5-brushes.webp",
+   "scene": "loft-tv",
+   "move": "push-in",
+   "dur": 5.0,
+   "mono": true
+  },
+  "t5-snow": {
+   "src": "assets/tape/t5-snow.webp",
+   "scene": "loft-tv",
+   "move": "hold",
+   "dur": 7.0,
+   "mono": true
+  },
+  "t5-tv-face": {
+   "src": "assets/tape/t5-tv-face.webp",
+   "scene": "loft-tv",
+   "move": "hold",
+   "dur": 3.0,
+   "mono": true,
+   "flash": true
+  },
+  "t5-slam": {
+   "src": "assets/tape/t5-slam.webp",
+   "scene": "loft-tv",
+   "move": "hold",
+   "dur": 4.5,
+   "mono": true
+  },
+  "t5-fall": {
+   "src": "assets/tape/t5-fall.webp",
+   "scene": "rafters",
+   "move": "hold",
+   "dur": 4.0,
+   "mono": true
+  },
+  "t5-beams": {
+   "src": "assets/tape/t5-beams.webp",
+   "scene": "rafters",
+   "move": "push-in",
+   "dur": 6.0,
+   "mono": true
+  },
+  "tx-hall": {
+   "src": "assets/tape/tx-hall.webp",
+   "scene": "corridor",
+   "move": "push-in",
+   "dur": 6.0,
+   "mono": false
+  },
+  "tx-breath": {
+   "src": "assets/tape/tx-breath.webp",
+   "scene": "corridor",
+   "move": "push-in",
+   "dur": 5.0,
+   "mono": false
+  },
+  "tx-stairs": {
+   "src": "assets/tape/tx-stairs.webp",
+   "scene": "corridor",
+   "move": "tilt-down",
+   "dur": 6.0,
+   "mono": false
+  },
+  "tx-table": {
+   "src": "assets/tape/tx-table.webp",
+   "scene": "kitchen",
+   "move": "hold",
+   "dur": 5.5,
+   "mono": false
+  },
+  "tx-plate": {
+   "src": "assets/tape/tx-plate.webp",
+   "scene": "kitchen",
+   "move": "pan-right",
+   "dur": 6.0,
+   "mono": false
+  },
+  "tx-cold": {
+   "src": "assets/tape/tx-cold.webp",
+   "scene": "kitchen",
+   "move": "hold",
+   "dur": 5.5,
+   "mono": false
+  },
+  "tx-made": {
+   "src": "assets/tape/tx-made.webp",
+   "scene": "bedroom",
+   "move": "tilt-down",
+   "dur": 6.0,
+   "mono": false
+  },
+  "tx-hand": {
+   "src": "assets/tape/tx-hand.webp",
+   "scene": "bedroom",
+   "move": "push-in",
+   "dur": 5.0,
+   "mono": false
+  },
+  "tx-order": {
+   "src": "assets/tape/tx-order.webp",
+   "scene": "bedroom",
+   "move": "pan-left",
+   "dur": 5.5,
+   "mono": false
+  },
+  "tx-hum": {
+   "src": "assets/tape/tx-hum.webp",
+   "scene": "bedroom",
+   "move": "hold",
+   "dur": 6.0,
+   "mono": false
+  },
+  "tx-empty-bed": {
+   "src": "assets/tape/tx-empty-bed.webp",
+   "scene": "bedroom",
+   "move": "hold",
+   "dur": 6.5,
+   "mono": false
+  }
+ },
+ "SCENE_SHOTS": {
+  "dark": [
+   "dark-2",
+   "dark-3",
+   "dark-4",
+   "dark-1"
+  ],
+  "kitchen": [
+   "kitchen-1",
+   "kitchen-2",
+   "kitchen-3",
+   "t1-window",
+   "t1-wait",
+   "t1-fence",
+   "t1-tired"
+  ],
+  "orchard": [
+   "t2-tree",
+   "t2-hang",
+   "t2-stick"
+  ],
+  "beds": [
+   "t2-sorrel",
+   "t2-sprayer",
+   "t2-rows",
+   "t2-bitten"
+  ],
+  "lawn": [
+   "t2-lawn",
+   "t2-drop"
+  ],
+  "run": [
+   "t2-chase",
+   "t2-forks"
+  ],
+  "doorway": [
+   "doorway-1",
+   "doorway-2",
+   "doorway-3",
+   "t3-sill",
+   "t3-wait",
+   "t3-breath",
+   "t3-again",
+   "t3-close",
+   "t3-black"
+  ],
+  "loft": [
+   "loft-1",
+   "loft-2",
+   "loft-3",
+   "t5-band",
+   "t5-mattress"
+  ],
+  "loft-tv": [
+   "loft-tv-1",
+   "loft-tv-2",
+   "t5-jars",
+   "t5-brushes",
+   "t5-snow"
+  ],
+  "corridor": [
+   "corridor-1",
+   "corridor-2",
+   "corridor-3",
+   "tx-hall",
+   "tx-breath",
+   "tx-stairs"
+  ],
+  "bedroom": [
+   "bedroom-1",
+   "bedroom-2",
+   "bedroom-3",
+   "tx-made",
+   "tx-empty-bed"
+  ]
+ },
+ "TAPE_SCENE_SHOTS": {
+  "1:kitchen": [
+   "t1-window",
+   "t1-sit",
+   "t1-eat",
+   "t1-wait",
+   "t1-fence",
+   "t1-slip",
+   "t1-tired"
+  ],
+  "1:face-photo": [
+   "t1-label",
+   "t1-face",
+   "t1-blank"
+  ],
+  "2:orchard": [
+   "t2-tree",
+   "t2-hang",
+   "t2-apple-face",
+   "t2-stick"
+  ],
+  "2:beds": [
+   "t2-sorrel",
+   "t2-sprayer",
+   "t2-rows",
+   "t2-bitten"
+  ],
+  "2:lawn": [
+   "t2-lawn",
+   "t2-drop"
+  ],
+  "2:run": [
+   "t2-chase",
+   "t2-forks"
+  ],
+  "3:doorway": [
+   "t3-sill",
+   "t3-wait",
+   "t3-breath",
+   "t3-again",
+   "t3-close",
+   "t3-wrong",
+   "t3-black"
+  ],
+  "3:fridge-open": [
+   "t3-fridge-light",
+   "t3-fridge-eat"
+  ],
+  "5:dark": [
+   "dark-2",
+   "dark-3",
+   "dark-4",
+   "dark-1"
+  ],
+  "5:loft": [
+   "t5-band",
+   "t5-mattress"
+  ],
+  "5:loft-tv": [
+   "t5-jars",
+   "t5-brushes",
+   "t5-snow",
+   "t5-tv-face",
+   "t5-slam"
+  ],
+  "5:rafters": [
+   "t5-fall",
+   "t5-beams"
+  ],
+  "x:corridor": [
+   "tx-hall",
+   "tx-breath",
+   "tx-stairs"
+  ],
+  "x:kitchen": [
+   "tx-table",
+   "tx-plate",
+   "tx-cold"
+  ],
+  "x:bedroom": [
+   "tx-made",
+   "tx-order",
+   "tx-hum",
+   "tx-empty-bed"
+  ]
+ },
+ "ACT_SHOTS": {
+  "doorway:man": "t3-man",
+  "bedroom:hand": "tx-hand"
+ }
+}

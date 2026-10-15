@@ -1,0 +1,9 @@
+Worn metal bucket
+Author: Sousinho (sousinho)
+URL: https://sketchfab.com/3d-models/none-f66ec03f8dbf4a0d91d5b271e7df0821
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:22:45.558686
+SHA256: 1260b0ec22fb5ae86a2ed8b6f848c445b92fc931d1faae0b3c8b6cf4dc23e75d
+Source archive unchanged.

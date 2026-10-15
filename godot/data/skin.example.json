@@ -1,0 +1,70 @@
+{
+  "enabled": false,
+  "assets": {
+    "props/zhiguli": {
+      "path": "res://assets/models/hq/yard/zhiguli.glb",
+      "category": "props",
+      "fit": "aabb",
+      "offset": [
+        0,
+        0,
+        0
+      ],
+      "ry": 0,
+      "lod": {
+        "end": 48,
+        "margin": 6
+      }
+    },
+    "buildings/yard/BANYA": {
+      "path": "res://assets/models/hq/yard/banya.glb",
+      "fit": "aabb",
+      "lod": 56
+    },
+    "scatter/conifer": {
+      "path": "res://assets/models/hq/vegetation/conifer.glb",
+      "fit": "aabb",
+      "lod": 45
+    },
+    "scatter/farm-bush": {
+      "path": "res://assets/models/hq/vegetation/farm-bush.glb",
+      "fit": "aabb",
+      "lod": 45
+    },
+    "actors/echo": {
+      "path": "res://assets/models/hq/actors/vitya.glb",
+      "fit": "aabb",
+      "bones": {
+        "body": "Hips",
+        "chest": "Spine",
+        "neck": "Neck",
+        "head": "Head",
+        "legs/0/hip": "LeftUpLeg",
+        "legs/0/knee": "LeftLeg",
+        "legs/0/ankle": "LeftFoot",
+        "legs/1/hip": "RightUpLeg",
+        "legs/1/knee": "RightLeg",
+        "legs/1/ankle": "RightFoot",
+        "arms/0/shoulder": "LeftArm",
+        "arms/0/elbow": "LeftForeArm",
+        "arms/1/shoulder": "RightArm",
+        "arms/1/elbow": "RightForeArm"
+      }
+    },
+    "ground/grass": {
+      "albedo": "res://assets/tex/hq/grass_diff.webp",
+      "normal": "res://assets/tex/hq/grass_nor_gl.webp",
+      "roughness": "res://assets/tex/hq/grass_rough.webp",
+      "ao": "res://assets/tex/hq/grass_ao.webp",
+      "uv_scale": [
+        1,
+        1
+      ],
+      "normal_strength": 1
+    },
+    "interiors/home/home-kitchen-phone": {
+      "path": "res://assets/models/hq/home/phone.glb",
+      "fit": "aabb"
+    }
+  }
+}

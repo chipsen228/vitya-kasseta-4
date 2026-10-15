@@ -1,0 +1,9 @@
+Coat Hat Rack
+Author: KodaWowo (KodaWowo)
+URL: https://sketchfab.com/3d-models/none-b53aa4a6c9274284b0b35a229adcaae7
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:24:51.496549
+SHA256: afbada27aefd3dc2b5fe1471207a2a047f2214d2faa7a8b2541b1fc298d23138
+Source archive unchanged.

@@ -1,0 +1,9 @@
+Suitcase
+Author: sergeilihandristov (sergeilihandristov)
+URL: https://sketchfab.com/3d-models/none-73505b69be8f4be09194deafdd96c684
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:59:27.704935
+SHA256: 059cd5f134f0e50c9a7e8891cb48bf1fdd55f9f1d0fc1b68fc5e44c29f0fac29
+Source archive unchanged.

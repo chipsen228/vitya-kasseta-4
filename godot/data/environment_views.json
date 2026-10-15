@@ -1,0 +1,1675 @@
+{
+  "schema_version": 1,
+  "views": [
+    {
+      "id": "snt-booth",
+      "view": "site",
+      "at": [
+        7.09999966621399,
+        1.62,
+        -64.9800033569336
+      ],
+      "target": [
+        7.09999966621399,
+        1.1789999485015858,
+        -70.60000228881835
+      ],
+      "owner": "snt-booth"
+    },
+    {
+      "id": "snt-woodshed",
+      "view": "site",
+      "at": [
+        -15.2999992370605,
+        1.62,
+        -33.0785942077637
+      ],
+      "target": [
+        -15.2999992370605,
+        1.460334169864656,
+        -39.0
+      ],
+      "owner": "snt-woodshed"
+    },
+    {
+      "id": "snt-office",
+      "view": "site",
+      "at": [
+        4.40000033378601,
+        1.62,
+        -31.6856307983398
+      ],
+      "target": [
+        4.40000033378601,
+        1.5965511202812195,
+        -38.70000076293945
+      ],
+      "owner": "snt-office"
+    },
+    {
+      "id": "banya",
+      "view": "site",
+      "at": [
+        5.24000000953674,
+        1.62,
+        30.982608795166
+      ],
+      "target": [
+        5.24000000953674,
+        1.7550000429153434,
+        23.241304397583
+      ],
+      "owner": "banya"
+    },
+    {
+      "id": "cellar-shed",
+      "view": "site",
+      "at": [
+        -7.35000014305115,
+        1.62,
+        8.567000389099121
+      ],
+      "target": [
+        -7.35000014305115,
+        1.3083935737609846,
+        2.349999904632568
+      ],
+      "owner": "cellar-shed"
+    },
+    {
+      "id": "site-shed",
+      "view": "site",
+      "at": [
+        6.80000019073486,
+        1.62,
+        18.2000007629395
+      ],
+      "target": [
+        6.80000019073486,
+        1.0890000343322777,
+        12.000000000000025
+      ],
+      "owner": "site-shed"
+    },
+    {
+      "id": "privy",
+      "view": "site",
+      "at": [
+        8.600000143051151,
+        1.62,
+        25.75
+      ],
+      "target": [
+        8.600000143051151,
+        0.990000021457674,
+        21.0
+      ],
+      "owner": "privy"
+    },
+    {
+      "id": "street-office",
+      "view": "site",
+      "at": [
+        -30.000000953674302,
+        1.62,
+        -3.019998741149892
+      ],
+      "target": [
+        -30.000000953674302,
+        1.3140000343322775,
+        -9.999999523162856
+      ],
+      "owner": "street-office"
+    },
+    {
+      "id": "shop",
+      "view": "site",
+      "at": [
+        29.0,
+        1.62,
+        -1.1319999694824103
+      ],
+      "target": [
+        29.0,
+        1.691166043281555,
+        -9.947399139404295
+      ],
+      "owner": "shop"
+    },
+    {
+      "id": "booth",
+      "view": "site",
+      "at": [
+        22.5,
+        1.62,
+        -4.47999954223633
+      ],
+      "target": [
+        22.5,
+        1.4220000386238105,
+        -9.799999713897716
+      ],
+      "owner": "booth"
+    },
+    {
+      "id": "farm-barn",
+      "view": "site",
+      "at": [
+        -36.5,
+        1.62,
+        -21.02507553100582
+      ],
+      "target": [
+        -36.5,
+        2.369077205657958,
+        -29.49999809265135
+      ],
+      "owner": "farm-barn"
+    },
+    {
+      "id": "pump-base",
+      "view": "site",
+      "at": [
+        -15.0,
+        1.62,
+        -24.0599994659424
+      ],
+      "target": [
+        -15.0,
+        1.35,
+        -29.5999994277954
+      ],
+      "owner": "pump-base"
+    },
+    {
+      "id": "club",
+      "view": "site",
+      "at": [
+        8.99999976158141,
+        1.62,
+        -21.520006632804822
+      ],
+      "target": [
+        8.99999976158141,
+        2.7202691316604635,
+        -30.0000009536743
+      ],
+      "owner": "club"
+    },
+    {
+      "id": "buildings-site-greenhouse",
+      "view": "site",
+      "at": [
+        -7.0,
+        1.62,
+        28.0300006866455
+      ],
+      "target": [
+        -7.0,
+        0.990000021457674,
+        21.0
+      ],
+      "owner": "buildings/site/greenhouse"
+    },
+    {
+      "id": "buildings-village-STOP",
+      "view": "site",
+      "at": [
+        -42.5999984741211,
+        1.62,
+        -1.35790920257568
+      ],
+      "target": [
+        -42.5999984741211,
+        1.198555397987364,
+        -6.6047976016998255
+      ],
+      "owner": "buildings/village/STOP"
+    },
+    {
+      "id": "buildings-village-WELL",
+      "view": "site",
+      "at": [
+        -23.30000019073485,
+        1.62,
+        -3.6300001144409197
+      ],
+      "target": [
+        -23.30000019073485,
+        0.8777356147766128,
+        -8.793636322021484
+      ],
+      "owner": "buildings/village/WELL"
+    },
+    {
+      "id": "buildings-outskirts-MILL",
+      "view": "site",
+      "at": [
+        21.0,
+        1.62,
+        -18.421499967575073
+      ],
+      "target": [
+        21.0,
+        4.144500017166137,
+        -29.0
+      ],
+      "owner": "buildings/outskirts/MILL"
+    },
+    {
+      "id": "buildings-outskirts-HENS-coop",
+      "view": "site",
+      "at": [
+        -7.72000002861023,
+        1.62,
+        -20.2615604400635
+      ],
+      "target": [
+        -7.72000002861023,
+        1.2803268313407916,
+        -25.8000001907349
+      ],
+      "owner": "buildings/outskirts/HENS-coop"
+    },
+    {
+      "id": "summer-shower",
+      "view": "site",
+      "at": [
+        7.600000143051145,
+        1.62,
+        21.9799995422363
+      ],
+      "target": [
+        7.600000143051145,
+        1.215000021457674,
+        17.399999618530252
+      ],
+      "owner": "summer-shower"
+    },
+    {
+      "id": "greenhouse-bed",
+      "view": "site",
+      "at": [
+        -7.199999809265135,
+        1.62,
+        27.730001449585
+      ],
+      "target": [
+        -7.199999809265135,
+        0.6264999922364933,
+        21.20000076293945
+      ],
+      "owner": "greenhouse-bed"
+    },
+    {
+      "id": "old-windmill",
+      "view": "site",
+      "at": [
+        21.018362998962402,
+        1.62,
+        -13.261981013603513
+      ],
+      "target": [
+        21.018362998962402,
+        6.676760675571855,
+        -29.11752796173095
+      ],
+      "owner": "old-windmill"
+    },
+    {
+      "id": "farm-coop",
+      "view": "site",
+      "at": [
+        -31.999166488647496,
+        1.62,
+        -19.9351406097412
+      ],
+      "target": [
+        -31.999166488647496,
+        0.6663092671544306,
+        -24.79673862457275
+      ],
+      "owner": "farm-coop"
+    },
+    {
+      "id": "farm-coop-retained",
+      "view": "site",
+      "at": [
+        -8.599270582199095,
+        1.62,
+        -25.4057483673096
+      ],
+      "target": [
+        -8.599270582199095,
+        0.5830205620615744,
+        -30.15964698791505
+      ],
+      "owner": "farm-coop"
+    },
+    {
+      "id": "cemetery",
+      "view": "site",
+      "at": [
+        40.0,
+        1.62,
+        -2.6007968902587937
+      ],
+      "target": [
+        40.0,
+        0.29800003170967304,
+        -10.225000381469725
+      ],
+      "owner": "cemetery"
+    },
+    {
+      "id": "decor-shed-cabinet",
+      "view": "closed",
+      "at": [
+        6.75,
+        1.77,
+        11.7
+      ],
+      "target": [
+        5.59,
+        1.17,
+        11.7
+      ],
+      "action": "",
+      "reset": "decor-shed-cabinet",
+      "fixed_stance": true,
+      "floor_y": 0.12
+    },
+    {
+      "id": "decor-shed-cabinet",
+      "view": "active",
+      "at": [
+        6.75,
+        1.77,
+        11.7
+      ],
+      "target": [
+        5.59,
+        1.17,
+        11.7
+      ],
+      "action": "decor-shed-cabinet",
+      "reset": "decor-shed-cabinet",
+      "fixed_stance": true,
+      "floor_y": 0.12
+    },
+    {
+      "id": "decor-snt-cabinet",
+      "view": "closed",
+      "at": [
+        -16.3,
+        1.62,
+        -38.84
+      ],
+      "target": [
+        -16.35,
+        1.05,
+        -39.87
+      ],
+      "action": "",
+      "reset": "decor-snt-cabinet",
+      "fixed_stance": true
+    },
+    {
+      "id": "decor-snt-cabinet",
+      "view": "active",
+      "at": [
+        -16.3,
+        1.62,
+        -38.84
+      ],
+      "target": [
+        -16.35,
+        1.05,
+        -39.87
+      ],
+      "action": "decor-snt-cabinet",
+      "reset": "decor-snt-cabinet",
+      "fixed_stance": true
+    },
+    {
+      "id": "decor-p07-barrel",
+      "view": "closed",
+      "at": [
+        30.15,
+        1.62,
+        -59.9
+      ],
+      "target": [
+        30.25,
+        0.98,
+        -60.8
+      ],
+      "action": "",
+      "reset": "decor-p07-barrel",
+      "fixed_stance": true
+    },
+    {
+      "id": "decor-p07-barrel",
+      "view": "active",
+      "at": [
+        30.15,
+        1.62,
+        -59.9
+      ],
+      "target": [
+        30.25,
+        0.98,
+        -60.8
+      ],
+      "action": "decor-p07-barrel",
+      "reset": "decor-p07-barrel",
+      "fixed_stance": true
+    },
+    {
+      "id": "decor-p10-pump",
+      "view": "closed",
+      "at": [
+        -25.15,
+        1.62,
+        -49.1
+      ],
+      "target": [
+        -26.15,
+        1.03,
+        -49.0
+      ],
+      "action": "",
+      "reset": "decor-p10-pump",
+      "fixed_stance": true
+    },
+    {
+      "id": "decor-p10-pump",
+      "view": "active",
+      "at": [
+        -25.15,
+        1.62,
+        -49.1
+      ],
+      "target": [
+        -26.15,
+        1.03,
+        -49.0
+      ],
+      "action": "decor-p10-pump",
+      "reset": "decor-p10-pump",
+      "fixed_stance": true
+    },
+    {
+      "id": "decor-p09-radio",
+      "view": "closed",
+      "at": [
+        7.1,
+        1.62,
+        -57.5
+      ],
+      "target": [
+        7.1,
+        0.7,
+        -58.86
+      ],
+      "action": "",
+      "reset": "decor-p09-radio",
+      "fixed_stance": true
+    },
+    {
+      "id": "decor-p09-radio",
+      "view": "active",
+      "at": [
+        7.1,
+        1.62,
+        -57.5
+      ],
+      "target": [
+        7.1,
+        0.7,
+        -58.86
+      ],
+      "action": "decor-p09-radio",
+      "reset": "decor-p09-radio",
+      "fixed_stance": true
+    },
+    {
+      "id": "decor-board-notice",
+      "view": "closed",
+      "at": [
+        -31.5,
+        1.62,
+        -6.2
+      ],
+      "target": [
+        -31.5,
+        1.5,
+        -7.21
+      ],
+      "action": "",
+      "reset": "decor-board-notice",
+      "fixed_stance": true
+    },
+    {
+      "id": "decor-board-notice",
+      "view": "active",
+      "at": [
+        -31.5,
+        1.62,
+        -6.2
+      ],
+      "target": [
+        -31.5,
+        1.5,
+        -7.21
+      ],
+      "action": "decor-board-notice",
+      "reset": "decor-board-notice",
+      "fixed_stance": true
+    },
+    {
+      "id": "decor-club-notice",
+      "view": "closed",
+      "at": [
+        10.45,
+        1.62,
+        -26.15
+      ],
+      "target": [
+        10.45,
+        1.55,
+        -26.73
+      ],
+      "action": "",
+      "reset": "decor-club-notice",
+      "fixed_stance": true
+    },
+    {
+      "id": "decor-club-notice",
+      "view": "active",
+      "at": [
+        10.45,
+        1.62,
+        -26.15
+      ],
+      "target": [
+        10.45,
+        1.55,
+        -26.73
+      ],
+      "action": "decor-club-notice",
+      "reset": "decor-club-notice",
+      "fixed_stance": true
+    },
+    {
+      "id": "decor-snt-entry-notice",
+      "view": "closed",
+      "at": [
+        35.05,
+        1.62,
+        -33.22
+      ],
+      "target": [
+        34.55,
+        1.55,
+        -34.16
+      ],
+      "action": "",
+      "reset": "decor-snt-entry-notice",
+      "fixed_stance": true
+    },
+    {
+      "id": "decor-snt-entry-notice",
+      "view": "active",
+      "at": [
+        35.05,
+        1.62,
+        -33.22
+      ],
+      "target": [
+        34.55,
+        1.55,
+        -34.16
+      ],
+      "action": "decor-snt-entry-notice",
+      "reset": "decor-snt-entry-notice",
+      "fixed_stance": true
+    },
+    {
+      "id": "decor-gate-p02",
+      "view": "closed",
+      "at": [
+        27.528,
+        1.62,
+        -39.94
+      ],
+      "target": [
+        27.528,
+        0.82,
+        -41.04
+      ],
+      "action": "",
+      "reset": "decor-gate-p02",
+      "fixed_stance": true
+    },
+    {
+      "id": "decor-gate-p02",
+      "view": "active",
+      "at": [
+        27.528,
+        1.62,
+        -39.94
+      ],
+      "target": [
+        27.528,
+        0.82,
+        -41.04
+      ],
+      "action": "decor-gate-p02",
+      "reset": "decor-gate-p02",
+      "fixed_stance": true
+    },
+    {
+      "id": "decor-gate-p03",
+      "view": "closed",
+      "at": [
+        35.528,
+        1.62,
+        -39.94
+      ],
+      "target": [
+        35.528,
+        0.82,
+        -41.04
+      ],
+      "action": "",
+      "reset": "decor-gate-p03",
+      "fixed_stance": true
+    },
+    {
+      "id": "decor-gate-p03",
+      "view": "active",
+      "at": [
+        35.528,
+        1.62,
+        -39.94
+      ],
+      "target": [
+        35.528,
+        0.82,
+        -41.04
+      ],
+      "action": "decor-gate-p03",
+      "reset": "decor-gate-p03",
+      "fixed_stance": true
+    },
+    {
+      "id": "decor-gate-p07",
+      "view": "closed",
+      "at": [
+        27.528,
+        1.62,
+        -55.94
+      ],
+      "target": [
+        27.528,
+        0.82,
+        -57.04
+      ],
+      "action": "",
+      "reset": "decor-gate-p07",
+      "fixed_stance": true
+    },
+    {
+      "id": "decor-gate-p07",
+      "view": "active",
+      "at": [
+        27.528,
+        1.62,
+        -55.94
+      ],
+      "target": [
+        27.528,
+        0.82,
+        -57.04
+      ],
+      "action": "decor-gate-p07",
+      "reset": "decor-gate-p07",
+      "fixed_stance": true
+    },
+    {
+      "id": "decor-gate-p10",
+      "view": "closed",
+      "at": [
+        -28.472,
+        1.62,
+        -51.06
+      ],
+      "target": [
+        -28.472,
+        0.82,
+        -49.96
+      ],
+      "action": "",
+      "reset": "decor-gate-p10",
+      "fixed_stance": true
+    },
+    {
+      "id": "decor-gate-p10",
+      "view": "active",
+      "at": [
+        -28.472,
+        1.62,
+        -51.06
+      ],
+      "target": [
+        -28.472,
+        0.82,
+        -49.96
+      ],
+      "action": "decor-gate-p10",
+      "reset": "decor-gate-p10",
+      "fixed_stance": true
+    },
+    {
+      "id": "decor-gate-p14",
+      "view": "closed",
+      "at": [
+        -1.472,
+        1.62,
+        -63.94
+      ],
+      "target": [
+        -1.472,
+        0.82,
+        -65.04
+      ],
+      "action": "",
+      "reset": "decor-gate-p14",
+      "fixed_stance": true
+    },
+    {
+      "id": "decor-gate-p14",
+      "view": "active",
+      "at": [
+        -1.472,
+        1.62,
+        -63.94
+      ],
+      "target": [
+        -1.472,
+        0.82,
+        -65.04
+      ],
+      "action": "decor-gate-p14",
+      "reset": "decor-gate-p14",
+      "fixed_stance": true
+    },
+    {
+      "id": "veranda",
+      "view": "detail",
+      "at": [
+        -3.1,
+        2.07,
+        8.65
+      ],
+      "target": [
+        -1,
+        1.55,
+        9.3
+      ],
+      "fixed_stance": true
+    },
+    {
+      "id": "kitchen",
+      "view": "detail",
+      "at": [
+        -0.4,
+        2.07,
+        11.4
+      ],
+      "target": [
+        0.45,
+        1.25,
+        9.9
+      ],
+      "fixed_stance": true
+    },
+    {
+      "id": "hall",
+      "view": "detail",
+      "at": [
+        -3,
+        2.07,
+        11
+      ],
+      "target": [
+        -4.8,
+        1.7,
+        13.2
+      ],
+      "fixed_stance": true
+    },
+    {
+      "id": "living",
+      "view": "detail",
+      "at": [
+        0.5,
+        2.07,
+        14
+      ],
+      "target": [
+        1.5,
+        1.6,
+        15.5
+      ],
+      "fixed_stance": true
+    },
+    {
+      "id": "tonya",
+      "view": "detail",
+      "at": [
+        0.62,
+        4.92,
+        14.05
+      ],
+      "target": [
+        -0.4,
+        4.05,
+        15.4
+      ],
+      "fixed_stance": true
+    },
+    {
+      "id": "loft",
+      "view": "detail",
+      "at": [
+        -3.3,
+        7.52,
+        12
+      ],
+      "target": [
+        -2,
+        6.5,
+        13.05
+      ],
+      "fixed_stance": true
+    },
+    {
+      "id": "balcony",
+      "view": "detail",
+      "at": [
+        2.2,
+        4.92,
+        4.65
+      ],
+      "target": [
+        0,
+        2.8,
+        0
+      ],
+      "fixed_stance": true
+    },
+    {
+      "id": "shore",
+      "view": "detail",
+      "at": [
+        3.9,
+        1.62,
+        -46
+      ],
+      "target": [
+        0.8,
+        0.35,
+        -43
+      ],
+      "fixed_stance": true
+    },
+    {
+      "id": "forest",
+      "view": "detail",
+      "at": [
+        15.2,
+        1.62,
+        -31
+      ],
+      "target": [
+        9,
+        3.5,
+        -33
+      ],
+      "fixed_stance": true
+    },
+    {
+      "id": "snt-car-p01",
+      "view": "vehicle",
+      "at": [
+        12.9,
+        1.62,
+        -40.550000000000004
+      ],
+      "target": [
+        17.5,
+        0.85,
+        -36.95
+      ],
+      "owner": "snt-car-p01"
+    },
+    {
+      "id": "snt-car-p02",
+      "view": "vehicle",
+      "at": [
+        26.1,
+        1.62,
+        -40.550000000000004
+      ],
+      "target": [
+        30.7,
+        0.85,
+        -36.95
+      ],
+      "owner": "snt-car-p02"
+    },
+    {
+      "id": "snt-car-p03",
+      "view": "vehicle",
+      "at": [
+        44.7,
+        1.62,
+        -42.800000000000004
+      ],
+      "target": [
+        41.1,
+        0.85,
+        -38.2
+      ],
+      "owner": "snt-car-p03"
+    },
+    {
+      "id": "snt-car-p04",
+      "view": "vehicle",
+      "at": [
+        -47.1,
+        1.62,
+        -55.800000000000004
+      ],
+      "target": [
+        -42.5,
+        0.85,
+        -52.2
+      ],
+      "owner": "snt-car-p04"
+    },
+    {
+      "id": "snt-car-p05",
+      "view": "vehicle",
+      "at": [
+        2.6000000000000005,
+        1.62,
+        -54.9
+      ],
+      "target": [
+        7.2,
+        0.85,
+        -51.3
+      ],
+      "owner": "snt-car-p05"
+    },
+    {
+      "id": "snt-car-p06",
+      "view": "vehicle",
+      "at": [
+        18.200000000000003,
+        1.62,
+        -56.1
+      ],
+      "target": [
+        22.8,
+        0.85,
+        -52.5
+      ],
+      "owner": "snt-car-p06"
+    },
+    {
+      "id": "snt-car-p07",
+      "view": "vehicle",
+      "at": [
+        26.6,
+        1.62,
+        -56.1
+      ],
+      "target": [
+        31.2,
+        0.85,
+        -52.5
+      ],
+      "owner": "snt-car-p07"
+    },
+    {
+      "id": "snt-car-p08",
+      "view": "vehicle",
+      "at": [
+        34.0,
+        1.62,
+        -56.1
+      ],
+      "target": [
+        38.6,
+        0.85,
+        -52.5
+      ],
+      "owner": "snt-car-p08"
+    },
+    {
+      "id": "snt-car-p09",
+      "view": "vehicle",
+      "at": [
+        11.200000000000001,
+        1.62,
+        -56.1
+      ],
+      "target": [
+        15.8,
+        0.85,
+        -52.5
+      ],
+      "owner": "snt-car-p09"
+    },
+    {
+      "id": "snt-car-p10",
+      "view": "vehicle",
+      "at": [
+        -36.3,
+        1.62,
+        -55.800000000000004
+      ],
+      "target": [
+        -31.7,
+        0.85,
+        -52.2
+      ],
+      "owner": "snt-car-p10"
+    },
+    {
+      "id": "snt-car-p11",
+      "view": "vehicle",
+      "at": [
+        -19.9,
+        1.62,
+        -59.1
+      ],
+      "target": [
+        -23.5,
+        0.85,
+        -54.5
+      ],
+      "owner": "snt-car-p11"
+    },
+    {
+      "id": "snt-car-p12",
+      "view": "vehicle",
+      "at": [
+        -17.2,
+        1.62,
+        -62.2
+      ],
+      "target": [
+        -12.6,
+        0.85,
+        -58.6
+      ],
+      "owner": "snt-car-p12"
+    },
+    {
+      "id": "snt-car-p13",
+      "view": "vehicle",
+      "at": [
+        -11.5,
+        1.62,
+        -62.2
+      ],
+      "target": [
+        -6.9,
+        0.85,
+        -58.6
+      ],
+      "owner": "snt-car-p13"
+    },
+    {
+      "id": "snt-car-p14",
+      "view": "vehicle",
+      "at": [
+        -3.499999999999999,
+        1.62,
+        -62.2
+      ],
+      "target": [
+        1.1,
+        0.85,
+        -58.6
+      ],
+      "owner": "snt-car-p14"
+    },
+    {
+      "id": "snt-car-p15",
+      "view": "vehicle",
+      "at": [
+        9.1,
+        1.62,
+        -67.6
+      ],
+      "target": [
+        13.7,
+        0.85,
+        -64.0
+      ],
+      "owner": "snt-car-p15"
+    },
+    {
+      "id": "interior-veranda",
+      "view": "review",
+      "room": "veranda",
+      "at": [
+        -3.09999990463257,
+        2.07,
+        8.64999961853027
+      ],
+      "target": [
+        -1.0,
+        1.55,
+        9.3
+      ],
+      "owner": "interior/veranda",
+      "fixed_stance": true,
+      "floor_y": 0.45,
+      "location": "interior",
+      "note": "",
+      "stance_validation": "actual main ALL_SOLID capsule + native Jolt standing capsule",
+      "modes": [
+        "neutral",
+        "game",
+        "night"
+      ]
+    },
+    {
+      "id": "interior-kitchen",
+      "view": "review",
+      "room": "kitchen",
+      "at": [
+        -0.400000005960464,
+        2.07,
+        11.3999996185303
+      ],
+      "target": [
+        0.45,
+        1.25,
+        9.9
+      ],
+      "owner": "interior/kitchen",
+      "fixed_stance": true,
+      "floor_y": 0.45,
+      "location": "interior",
+      "note": "",
+      "stance_validation": "actual main ALL_SOLID capsule + native Jolt standing capsule",
+      "modes": [
+        "neutral",
+        "game",
+        "night"
+      ]
+    },
+    {
+      "id": "interior-hall",
+      "view": "review",
+      "room": "hall",
+      "at": [
+        -3.0,
+        2.07,
+        11.0
+      ],
+      "target": [
+        -4.8,
+        1.7,
+        13.2
+      ],
+      "owner": "interior/hall",
+      "fixed_stance": true,
+      "floor_y": 0.45,
+      "location": "interior",
+      "note": "",
+      "stance_validation": "actual main ALL_SOLID capsule + native Jolt standing capsule",
+      "modes": [
+        "neutral",
+        "game",
+        "night"
+      ]
+    },
+    {
+      "id": "interior-wash",
+      "view": "review",
+      "room": "wash",
+      "at": [
+        -3.66000008583069,
+        2.07,
+        15.5
+      ],
+      "target": [
+        -5.4,
+        1.65,
+        15.25
+      ],
+      "owner": "interior/wash",
+      "fixed_stance": true,
+      "floor_y": 0.45,
+      "location": "interior",
+      "note": "",
+      "stance_validation": "actual main ALL_SOLID capsule + native Jolt standing capsule",
+      "modes": [
+        "neutral",
+        "game",
+        "night"
+      ]
+    },
+    {
+      "id": "interior-aunt",
+      "view": "review",
+      "room": "aunt",
+      "at": [
+        2.77999997138977,
+        2.07,
+        9.97999954223633
+      ],
+      "target": [
+        1.2,
+        1.65,
+        6.85
+      ],
+      "owner": "interior/aunt",
+      "fixed_stance": true,
+      "floor_y": 0.45,
+      "location": "interior",
+      "note": "",
+      "stance_validation": "actual main ALL_SOLID capsule + native Jolt standing capsule",
+      "modes": [
+        "neutral",
+        "game",
+        "night"
+      ]
+    },
+    {
+      "id": "interior-living",
+      "view": "review",
+      "room": "living",
+      "at": [
+        -0.0199999995529652,
+        2.07,
+        14.5
+      ],
+      "target": [
+        1.5,
+        1.6,
+        15.5
+      ],
+      "owner": "interior/living",
+      "fixed_stance": true,
+      "floor_y": 0.45,
+      "location": "interior",
+      "note": "",
+      "stance_validation": "actual main ALL_SOLID capsule + native Jolt standing capsule",
+      "modes": [
+        "neutral",
+        "game",
+        "night"
+      ]
+    },
+    {
+      "id": "interior-landing",
+      "view": "review",
+      "room": "landing",
+      "at": [
+        -3.66000008583069,
+        4.92,
+        11.6999998092651
+      ],
+      "target": [
+        -5.4,
+        4.5,
+        9.85
+      ],
+      "owner": "interior/landing",
+      "fixed_stance": true,
+      "floor_y": 3.3,
+      "location": "interior",
+      "note": "",
+      "stance_validation": "actual main ALL_SOLID capsule + native Jolt standing capsule",
+      "modes": [
+        "neutral",
+        "game",
+        "night"
+      ]
+    },
+    {
+      "id": "interior-vitya",
+      "view": "review",
+      "room": "vitya",
+      "at": [
+        0.200000002980232,
+        4.92,
+        11.6999998092651
+      ],
+      "target": [
+        -1.6,
+        4.5,
+        9.85
+      ],
+      "owner": "interior/vitya",
+      "fixed_stance": true,
+      "floor_y": 3.3,
+      "location": "interior",
+      "note": "",
+      "stance_validation": "actual main ALL_SOLID capsule + native Jolt standing capsule",
+      "modes": [
+        "neutral",
+        "game",
+        "night"
+      ]
+    },
+    {
+      "id": "interior-storage",
+      "view": "review",
+      "room": "storage",
+      "at": [
+        -3.70000004768372,
+        4.92,
+        15.1000003814697
+      ],
+      "target": [
+        -5.4,
+        4.5,
+        14.25
+      ],
+      "owner": "interior/storage",
+      "fixed_stance": true,
+      "floor_y": 3.3,
+      "location": "interior",
+      "note": "",
+      "stance_validation": "actual main ALL_SOLID capsule + native Jolt standing capsule",
+      "modes": [
+        "neutral",
+        "game",
+        "night"
+      ]
+    },
+    {
+      "id": "interior-roofspace",
+      "view": "review",
+      "room": "roofspace",
+      "at": [
+        -1.70000004768372,
+        7.52,
+        12.8999996185303
+      ],
+      "target": [
+        -5.0,
+        7.1,
+        10.05
+      ],
+      "owner": "interior/roofspace",
+      "fixed_stance": true,
+      "floor_y": 5.9,
+      "location": "interior",
+      "note": "",
+      "stance_validation": "actual main ALL_SOLID capsule + native Jolt standing capsule",
+      "modes": [
+        "neutral",
+        "game",
+        "night"
+      ]
+    },
+    {
+      "id": "interior-cellar",
+      "view": "review",
+      "room": "cellar",
+      "at": [
+        -0.600000023841858,
+        0.0699999999999998,
+        11.3999996185303
+      ],
+      "target": [
+        -5.2,
+        -0.35,
+        7.05
+      ],
+      "owner": "interior/cellar",
+      "fixed_stance": true,
+      "floor_y": -1.55,
+      "location": "interior",
+      "note": "",
+      "stance_validation": "actual main ALL_SOLID capsule + native Jolt standing capsule",
+      "modes": [
+        "neutral",
+        "game",
+        "night"
+      ]
+    },
+    {
+      "id": "interior-shed",
+      "view": "review",
+      "room": "shed",
+      "at": [
+        6.80000019073486,
+        1.74,
+        12.0
+      ],
+      "target": [
+        5.2,
+        1.32,
+        10.25
+      ],
+      "owner": "interior/shed",
+      "fixed_stance": true,
+      "floor_y": 0.12,
+      "location": "interior",
+      "note": "",
+      "stance_validation": "actual main ALL_SOLID capsule + native Jolt standing capsule",
+      "modes": [
+        "neutral",
+        "game",
+        "night"
+      ]
+    },
+    {
+      "id": "interior-privy",
+      "view": "review",
+      "room": "privy",
+      "at": [
+        8.60000038146973,
+        1.72,
+        21.0
+      ],
+      "target": [
+        8.2,
+        1.3,
+        20.65
+      ],
+      "owner": "interior/privy",
+      "fixed_stance": true,
+      "floor_y": 0.1,
+      "location": "interior",
+      "note": "",
+      "stance_validation": "actual main ALL_SOLID capsule + native Jolt standing capsule",
+      "modes": [
+        "neutral",
+        "game",
+        "night"
+      ]
+    },
+    {
+      "id": "interior-tonya",
+      "view": "review",
+      "room": "tonya",
+      "at": [
+        0.620000004768372,
+        4.92,
+        14.1400003433228
+      ],
+      "target": [
+        -0.4,
+        4.05,
+        15.4
+      ],
+      "owner": "interior/tonya",
+      "fixed_stance": true,
+      "floor_y": 3.3,
+      "location": "interior",
+      "note": "",
+      "stance_validation": "actual main ALL_SOLID capsule + native Jolt standing capsule",
+      "modes": [
+        "neutral",
+        "game",
+        "night"
+      ]
+    },
+    {
+      "id": "interior-redhouse",
+      "view": "review",
+      "room": "redhouse",
+      "at": [
+        0.660000026226044,
+        1.76,
+        -9.9399995803833
+      ],
+      "target": [
+        -1.4,
+        1.34,
+        -12.75
+      ],
+      "owner": "interior/redhouse",
+      "fixed_stance": true,
+      "floor_y": 0.14,
+      "location": "interior",
+      "note": "",
+      "stance_validation": "actual main ALL_SOLID capsule + native Jolt standing capsule",
+      "modes": [
+        "neutral",
+        "game",
+        "night"
+      ]
+    },
+    {
+      "id": "interior-redhouse-up",
+      "view": "review",
+      "room": "redhouse-up",
+      "at": [
+        0.899999976158142,
+        4.26,
+        -10.25
+      ],
+      "target": [
+        -1.4,
+        3.84,
+        -12.75
+      ],
+      "owner": "interior/redhouse-up",
+      "fixed_stance": true,
+      "floor_y": 2.64,
+      "location": "interior",
+      "note": "",
+      "stance_validation": "actual main ALL_SOLID capsule + native Jolt standing capsule",
+      "modes": [
+        "neutral",
+        "game",
+        "night"
+      ]
+    },
+    {
+      "id": "interior-boarded",
+      "view": "review",
+      "room": "boarded",
+      "at": [
+        -5.5,
+        1.74,
+        -10.25
+      ],
+      "target": [
+        -8.8,
+        1.32,
+        -12.75
+      ],
+      "owner": "interior/boarded",
+      "fixed_stance": true,
+      "floor_y": 0.12,
+      "location": "interior",
+      "note": "",
+      "stance_validation": "actual main ALL_SOLID capsule + native Jolt standing capsule",
+      "modes": [
+        "neutral",
+        "game",
+        "night"
+      ]
+    },
+    {
+      "id": "interior-arkady",
+      "view": "review",
+      "room": "arkady",
+      "at": [
+        15.8999996185303,
+        1.62,
+        -6.52500009536743
+      ],
+      "target": [
+        15.2,
+        1.2,
+        -7.95
+      ],
+      "owner": "interior/arkady",
+      "fixed_stance": true,
+      "floor_y": 0.0,
+      "location": "exterior-threshold",
+      "note": "Original solid whole-house proxy blocks the visual vestibule; no walkable interior claimed",
+      "stance_validation": "actual main ALL_SOLID capsule + native Jolt standing capsule",
+      "modes": [
+        "neutral",
+        "game",
+        "night"
+      ]
+    },
+    {
+      "id": "hero-roof-side",
+      "view": "detail",
+      "room": "hero-roof-side",
+      "at": [
+        6.5,
+        1.62,
+        -3.0
+      ],
+      "target": [
+        -1.0,
+        6.5,
+        13.0
+      ],
+      "owner": "buildings/site/HOUSE-shell",
+      "fixed_stance": true,
+      "floor_y": 0.0,
+      "location": "interior",
+      "note": "Side roof control: actual visible first mesh ray reaches environment-vitya; capsule and Jolt stance verified",
+      "stance_validation": "actual main ALL_SOLID capsule + native Jolt standing capsule",
+      "first_mesh_ray": {
+        "distance": 14.3446941375732,
+        "environment_owner": "vitya",
+        "node": "environment-vitya",
+        "point": [
+          0.631308078765869,
+          5.43856191635132,
+          9.51987552642822
+        ],
+        "surface": 0
+      },
+      "target_owner_verified": true,
+      "modes": [
+        "neutral",
+        "game",
+        "night"
+      ]
+    }
+  ]
+}

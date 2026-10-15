@@ -1,0 +1,9 @@
+Coiled Rope 2
+Author: TepidGames (TepidGames)
+URL: https://sketchfab.com/3d-models/none-e6fe8fedd3d04b1dac3e32e0dd515cbb
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:41:21.019872
+SHA256: 358e3d1d9230db367568074d221c9bfcb50f17f1cdac453ba5c94127f71115a2
+Source archive unchanged.

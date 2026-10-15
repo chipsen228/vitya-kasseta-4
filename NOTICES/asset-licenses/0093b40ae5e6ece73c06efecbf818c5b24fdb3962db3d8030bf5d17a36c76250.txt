@@ -1,0 +1,9 @@
+Bicycle
+Author: Lyskilde (longtail)
+URL: https://sketchfab.com/3d-models/none-25aa85eeba944baea33ce5cde985ca49
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T17:05:12.533327
+SHA256: 6b5e22c6b99c4806ff911946016e35399b877dec6a58158f5328a7954f55b33f
+Source archive unchanged.

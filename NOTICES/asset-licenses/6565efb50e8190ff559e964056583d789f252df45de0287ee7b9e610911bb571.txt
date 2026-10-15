@@ -1,0 +1,9 @@
+Wooden Cabinet Version 1
+Author: rjducats (rjducats)
+URL: https://sketchfab.com/3d-models/none-b8209228ecf44c418108df00e405da90
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:59:07.043498
+SHA256: b0fc2dc5a24a6b7fd446725b296902ef9872ff57b98d0612d3dca0ac7206d870
+Source archive unchanged.

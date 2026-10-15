@@ -1,0 +1,9 @@
+Muratori Sprayer
+Author: gauvain_boiche (gauvain_boiche)
+URL: https://sketchfab.com/3d-models/none-2d27530c0a6247c6a5693e82e9c8d9ed
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:40:57.552734
+SHA256: 216b63e8e9edaadd67b0e102c859184940204d18e5fd906951729168224d6b9e
+Source archive unchanged.

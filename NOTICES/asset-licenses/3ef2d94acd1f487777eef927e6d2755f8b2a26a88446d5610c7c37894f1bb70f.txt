@@ -1,0 +1,9 @@
+Electrical Box On The Wall _ 5MB
+Author: Mehdi Shahsavan (ahmagh2e)
+URL: https://sketchfab.com/3d-models/none-6f92c92bf3954940883adcf50a10142b
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T17:05:03.185409
+SHA256: 5900f06c765f71f9c7ac4556d254b48da599fd2465dab9de73a4c24a70d94ad1
+Source archive unchanged.

@@ -1,0 +1,9 @@
+Abandoned Generic Sedan 1 - Game Ready
+Author: Rashad Ibrahimli (rashad-brahimli)
+URL: https://sketchfab.com/3d-models/none-6a2169dafc254f399387a679305bb1bf
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:46:05.227444
+SHA256: e0382283f20a2be8ffe3060969c624c4ebd48cf78d4aadbe9488769b052efc7e
+Source archive unchanged.

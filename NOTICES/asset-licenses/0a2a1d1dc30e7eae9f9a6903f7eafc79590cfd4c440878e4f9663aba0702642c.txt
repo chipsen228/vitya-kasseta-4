@@ -1,0 +1,9 @@
+Picture Frame
+Author: Wyme (Wyme)
+URL: https://sketchfab.com/3d-models/none-5b4f6ab0cd54433c82b429b42f4c9259
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T17:00:13.260238
+SHA256: 73cef48db043a06806b037207ba9e8ef57559ea22b967bd4b562227503bd3001
+Source archive unchanged.

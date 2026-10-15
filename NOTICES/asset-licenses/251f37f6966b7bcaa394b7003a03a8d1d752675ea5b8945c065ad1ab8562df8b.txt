@@ -1,0 +1,9 @@
+loot bag
+Author: koke26of (koke26of)
+URL: https://sketchfab.com/3d-models/none-e443fd09539a4470865d0f367d4bfd89
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T17:00:19.710690
+SHA256: 327a344fbb876695a6a88e3762492502c3c8e6c7743da36b228e4786df7884aa
+Source archive unchanged.

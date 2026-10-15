@@ -1,0 +1,9 @@
+Watering Can
+Author: Katherina (Kathi_Len)
+URL: https://sketchfab.com/3d-models/none-3f6dee60aa044f4b8cbb3fc6d6d31fe5
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:59:55.355457
+SHA256: e3d177539354a8408a34ea5ed6e20bc137ea78e7372dd7bb6f88d353762d82a1
+Source archive unchanged.

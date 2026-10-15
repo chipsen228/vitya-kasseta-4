@@ -1,0 +1,217 @@
+{
+ "gains": {
+  "chain": 0.0355025925379557,
+  "chime": 0.12074224594660322,
+  "click": 0.0925051672363141,
+  "creak-hard": 0.055507585721432634,
+  "creak-mid": 0.03771142731398732,
+  "creak-soft": 0.019391023419071115,
+  "crickets": 0.7619681367397079,
+  "dog": 0.0048806154196850094,
+  "door-close": 0.015766818550480427,
+  "door-open": 0.015757460717637745,
+  "heartbeat": 0.16532132003741765,
+  "hum": 1.4963989316903754,
+  "jar-glass": 0.02701982298803344,
+  "knock": 0.13606544093433262,
+  "mumble": 0.7396141340665728,
+  "phone-bed": 0.8220102563517341,
+  "rewind-07": 0.12986961529059227,
+  "rewind-08": 0.11896313601718166,
+  "rewind-12": 0.13536466994606944,
+  "rewind-16": 0.12610726286769422,
+  "scare-hit": 0.11924380756241842,
+  "step-concrete": 0.7699779227451313,
+  "step-dirt": 0.23711610664771895,
+  "step-grass": 0.5445236037436061,
+  "step-gravel": 0.7360219748580885,
+  "step-water": 0.3960506080372233,
+  "step-wood": 0.648482742922997,
+  "steps-above": 0.05310272940849837,
+  "stinger": 0.3675091149072544,
+  "tape-bed": 0.49991532892028256,
+  "tape-click": 0.1937770611054169,
+  "tape-cut": 0.02367768131126828,
+  "tape-fx": 0.07043529510114217,
+  "train": 0.016999519541253658,
+  "water-enter": 0.2900971969076255,
+  "water-exit": 0.13966958541463506
+ },
+ "loops": {
+  "crickets": "crickets.wav",
+  "hum": "hum.wav",
+  "phone-bed": "phone-bed.wav",
+  "tape-bed": "tape-bed.wav"
+ },
+ "one_shots": {
+  "chain": [
+   "chain-1.wav",
+   "chain-2.wav",
+   "chain-3.wav"
+  ],
+  "chime": [
+   "chime.wav"
+  ],
+  "click": [
+   "click.wav"
+  ],
+  "creak-hard": [
+   "creak-hard-1.wav",
+   "creak-hard-2.wav",
+   "creak-hard-3.wav"
+  ],
+  "creak-mid": [
+   "creak-mid-1.wav",
+   "creak-mid-2.wav",
+   "creak-mid-3.wav"
+  ],
+  "creak-soft": [
+   "creak-soft-1.wav",
+   "creak-soft-2.wav",
+   "creak-soft-3.wav"
+  ],
+  "dog": [
+   "dog-1.wav",
+   "dog-2.wav",
+   "dog-3.wav"
+  ],
+  "door-close": [
+   "door-close.wav"
+  ],
+  "door-open": [
+   "door-open.wav"
+  ],
+  "heartbeat": [
+   "heartbeat.wav"
+  ],
+  "jar-glass": [
+   "jar-glass-1.wav",
+   "jar-glass-2.wav",
+   "jar-glass-3.wav"
+  ],
+  "knock": [
+   "knock.wav"
+  ],
+  "mumble": [
+   "mumble-1.wav",
+   "mumble-2.wav",
+   "mumble-3.wav"
+  ],
+  "rewind-07": [
+   "rewind-07.wav"
+  ],
+  "rewind-08": [
+   "rewind-08.wav"
+  ],
+  "rewind-12": [
+   "rewind-12.wav"
+  ],
+  "rewind-16": [
+   "rewind-16.wav"
+  ],
+  "scare-hit": [
+   "scare-hit.wav"
+  ],
+  "step-concrete": [
+   "step-concrete-1.wav",
+   "step-concrete-2.wav",
+   "step-concrete-3.wav",
+   "step-concrete-4.wav"
+  ],
+  "step-dirt": [
+   "step-dirt-1.wav",
+   "step-dirt-2.wav",
+   "step-dirt-3.wav",
+   "step-dirt-4.wav"
+  ],
+  "step-grass": [
+   "step-grass-1.wav",
+   "step-grass-2.wav",
+   "step-grass-3.wav",
+   "step-grass-4.wav"
+  ],
+  "step-gravel": [
+   "step-gravel-1.wav",
+   "step-gravel-2.wav",
+   "step-gravel-3.wav",
+   "step-gravel-4.wav"
+  ],
+  "step-water": [
+   "step-water-1.wav",
+   "step-water-2.wav",
+   "step-water-3.wav",
+   "step-water-4.wav"
+  ],
+  "step-wood": [
+   "step-wood-1.wav",
+   "step-wood-2.wav",
+   "step-wood-3.wav",
+   "step-wood-4.wav"
+  ],
+  "steps-above": [
+   "steps-above-1.wav",
+   "steps-above-2.wav",
+   "steps-above-3.wav"
+  ],
+  "stinger": [
+   "stinger.wav"
+  ],
+  "tape-click": [
+   "tape-click.wav"
+  ],
+  "tape-cut": [
+   "tape-cut.wav"
+  ],
+  "tape-fx": [
+   "tape-fx.wav"
+  ],
+  "train": [
+   "train.wav"
+  ],
+  "water-enter": [
+   "water-enter.wav"
+  ],
+  "water-exit": [
+   "water-exit.wav"
+  ]
+ },
+ "sample_rate": 44100,
+ "seconds": {
+  "chain": 0.41113378684807256,
+  "chime": 2.45,
+  "click": 0.11,
+  "creak-hard": 0.47,
+  "creak-mid": 0.35,
+  "creak-soft": 0.2,
+  "crickets": 3.0,
+  "dog": 0.16,
+  "door-close": 0.77,
+  "door-open": 0.77,
+  "heartbeat": 0.35,
+  "hum": 10.0,
+  "jar-glass": 0.15,
+  "knock": 0.15,
+  "mumble": 3.0,
+  "phone-bed": 3.0,
+  "rewind-07": 0.75,
+  "rewind-08": 0.85,
+  "rewind-12": 1.25,
+  "rewind-16": 1.65,
+  "scare-hit": 0.5,
+  "step-concrete": 0.12,
+  "step-dirt": 0.15,
+  "step-grass": 0.15,
+  "step-gravel": 0.15,
+  "step-water": 0.1619954648526077,
+  "step-wood": 0.15,
+  "steps-above": 0.27705215419501134,
+  "stinger": 1.55,
+  "tape-bed": 8.0,
+  "tape-click": 0.14002267573696145,
+  "tape-cut": 0.12,
+  "tape-fx": 0.34997732426303857,
+  "train": 6.5,
+  "water-enter": 0.28,
+  "water-exit": 0.22
+ }
+}

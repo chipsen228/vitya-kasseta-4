@@ -1,0 +1,9 @@
+Grater Low Poly Photorealistic
+Author: Rizochi (rizochi)
+URL: https://sketchfab.com/3d-models/none-bb02f39b33eb4e5b82470d33a86aab3d
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T17:12:00.053674
+SHA256: 7d8cf47690d550b04584be590e4683af3c4fb72b936fc949fcdde10a91349c86
+Source archive unchanged.

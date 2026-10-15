@@ -1,0 +1,9 @@
+Old Bed
+Author: Viktor Kiseliov (asin10009)
+URL: https://sketchfab.com/3d-models/none-6251708b41514ee6b4fec0e3955c4b69
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:43:32.703226
+SHA256: 114fff701a3ca9e8f50a1af7052f22cc719c775fc8a3ce0b4ea72c09e9ac6b4b
+Source archive unchanged.

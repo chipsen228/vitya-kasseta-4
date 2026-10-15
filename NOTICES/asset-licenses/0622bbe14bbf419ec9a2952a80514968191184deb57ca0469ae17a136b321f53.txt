@@ -1,0 +1,9 @@
+Wheat Sack
+Author: Seth Santos (Seth7Santos)
+URL: https://sketchfab.com/3d-models/none-05da6afe598b4f8cb1eb3168bbe5839a
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T17:04:49.083242
+SHA256: 8d6ed268c8289904aae27deb3c933ae76b42997919a0243747eccb753e5561f6
+Source archive unchanged.

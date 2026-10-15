@@ -1,0 +1,9 @@
+Old Bedside Table
+Author: justincrazyeyes (justincrazyeyes)
+URL: https://sketchfab.com/3d-models/none-62bcb265cfbb4be78107d04cc22b2628
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T17:12:14.692811
+SHA256: 1b48bf30c97afdc974e5d76555ae2fd57b530ca6a6f5ace3e101af2b6c7c08d2
+Source archive unchanged.

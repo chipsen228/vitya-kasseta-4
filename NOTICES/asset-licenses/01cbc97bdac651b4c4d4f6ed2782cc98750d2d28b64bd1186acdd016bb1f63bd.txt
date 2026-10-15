@@ -1,0 +1,9 @@
+Old Shoes
+Author: ThePro97 (ThePro97)
+URL: https://sketchfab.com/3d-models/none-c100d8b9e4684e6e9be20c16c74cc257
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T17:11:59.135975
+SHA256: ca5c35ca9c2b3fc8209c8f8b4b14bdc0e9fc387a1e51c3a87a73d5b2264fe70b
+Source archive unchanged.

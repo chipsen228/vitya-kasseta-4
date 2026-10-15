@@ -1,0 +1,8 @@
+Flashlight
+Author: donnichols (donnichols)
+URL: https://sketchfab.com/3d-models/none-98f0519806ff4c4bbfcb9c1c7a922896
+License: Creative Commons Attribution
+http://creativecommons.org/licenses/by/4.0/
+Downloaded: 2026-09-15T15:42:52.723649
+SHA256: 60a6579f93ad2d42166768d8529669b02176f4dd63484e45a4d0737683d99dd3
+No changes to source archive.

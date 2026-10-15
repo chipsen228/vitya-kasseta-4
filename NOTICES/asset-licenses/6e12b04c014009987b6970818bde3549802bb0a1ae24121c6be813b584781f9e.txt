@@ -1,0 +1,9 @@
+PSX Scythe
+Author: zunkerbunk (zunkerbunk)
+URL: https://sketchfab.com/3d-models/none-c2f950b22b89401c95f1759df27c560e
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:57:28.899250
+SHA256: ee9d6e2d99d2b8683b73f2b5b8fad49ec24448b62ea189dfc84c3c1fc15e5296
+Source archive unchanged.

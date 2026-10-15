@@ -1,0 +1,9 @@
+Bowl
+Author: Lokko (Lokko_k)
+URL: https://sketchfab.com/3d-models/none-c4e0e97a99714b5685bea23c2b558723
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:59:45.379473
+SHA256: a3dbc4c222a9d87eea1856c90a52ca859d0c533da5ba912c9750f912322f7235
+Source archive unchanged.

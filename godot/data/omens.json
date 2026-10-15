@@ -1,0 +1,208 @@
+{
+ "_": "Расписание знаков (фаза 8). Логика каждого — в src/omens.gd, здесь только когда и как часто. Убрать файл или enabled=false — знаков нет, игра идёт как в фазе 7. min — с какой главы доступно; i — интенсивность (окно шкалы напряжения tension.gd); cd — свой кулдаун, с; w — вес в отборе; once — один раз за прохождение.",
+ "enabled": true,
+ "events": [
+  {
+   "id": "frame-slip",
+   "min": "arrive",
+   "i": 1,
+   "cd": 300.0,
+   "w": 3
+  },
+  {
+   "id": "gate-chain",
+   "min": "light",
+   "i": 1,
+   "cd": 360.0,
+   "w": 3
+  },
+  {
+   "id": "lamp-out",
+   "min": "light",
+   "i": 2,
+   "cd": 300.0,
+   "w": 3
+  },
+  {
+   "id": "steps-above",
+   "min": "loft",
+   "i": 2,
+   "cd": 300.0,
+   "w": 3
+  },
+  {
+   "id": "porch-on",
+   "min": "loft",
+   "i": 2,
+   "cd": 0.0,
+   "once": true,
+   "w": 2
+  },
+  {
+   "id": "shed-open",
+   "min": "loft",
+   "i": 2,
+   "cd": 0.0,
+   "once": true,
+   "w": 3
+  },
+  {
+   "id": "thirteen",
+   "min": "loft",
+   "i": 2,
+   "cd": 0.0,
+   "once": true,
+   "w": 2
+  },
+  {
+   "id": "head-switch",
+   "min": "tapes",
+   "i": 1,
+   "cd": 240.0,
+   "w": 3
+  },
+  {
+   "id": "knock-below",
+   "min": "tapes",
+   "i": 2,
+   "cd": 300.0,
+   "w": 2
+  },
+  {
+   "id": "front-ajar",
+   "min": "tapes",
+   "i": 2,
+   "cd": 0.0,
+   "once": true,
+   "w": 3
+  },
+  {
+   "id": "torch-dip",
+   "min": "dark",
+   "i": 3,
+   "cd": 240.0,
+   "w": 3
+  },
+  {
+   "id": "boots-gone",
+   "min": "dark",
+   "i": 3,
+   "cd": 0.0,
+   "once": true,
+   "w": 3
+  },
+  {
+   "id": "jar-moved",
+   "min": "dark",
+   "i": 3,
+   "cd": 0.0,
+   "once": true,
+   "w": 3
+  },
+  {
+   "id": "breath-behind",
+   "min": "dark",
+   "i": 3,
+   "cd": 360.0,
+   "w": 2
+  },
+  {
+   "id": "ladle-sway",
+   "min": "loft",
+   "i": 2,
+   "cd": 0.0,
+   "once": true,
+   "w": 3
+  },
+  {
+   "id": "banya-print",
+   "min": "loft",
+   "i": 2,
+   "cd": 0.0,
+   "once": true,
+   "w": 3
+  },
+  {
+   "id": "bike-appear",
+   "min": "street",
+   "i": 2,
+   "cd": 0.0,
+   "once": true,
+   "w": 3
+  },
+  {
+   "id": "stop-lamp",
+   "min": "street",
+   "i": 2,
+   "cd": 0.0,
+   "once": true,
+   "w": 2
+  },
+  {
+   "id": "boarded-glow",
+   "min": "street",
+   "i": 2,
+   "cd": 0.0,
+   "once": true,
+   "w": 3
+  },
+  {
+   "id": "well-bucket",
+   "min": "village",
+   "i": 2,
+   "cd": 0.0,
+   "once": true,
+   "w": 3
+  },
+  {
+   "id": "pit-plate",
+   "min": "village",
+   "i": 3,
+   "cd": 0.0,
+   "once": true,
+   "w": 3
+  },
+  {
+   "id": "booth-dark",
+   "min": "village",
+   "i": 2,
+   "cd": 0.0,
+   "once": true,
+   "w": 2
+  },
+  {
+   "id": "garden-forks",
+   "min": "dark",
+   "i": 2,
+   "cd": 0.0,
+   "once": true,
+   "w": 3
+  },
+  {
+   "id": "upstairs-dark",
+   "min": "village",
+   "i": 2,
+   "cd": 0.0,
+   "once": true,
+   "w": 3
+  },
+  {
+   "id": "club-dark",
+   "min": "village",
+   "i": 2,
+   "cd": 0.0,
+   "once": true,
+   "w": 2
+  },
+  {
+   "id": "vent-open",
+   "min": "village",
+   "i": 2,
+   "cd": 0.0,
+   "once": true,
+   "w": 3
+  }
+ ],
+ "_phase13": "Фаза 13. Один знак: вилы на газоне у бани. Он работает, только если игрок уже посмотрел кассету «ОГОРОД»: до неё это вилы, после неё — её последний кадр, случившийся у него во дворе.",
+ "_phase14": "Фаза 14. Три знака, и все три гасят или отпирают то, что игрок сделал сам. Окно второго этажа красного дома доступно только после того, как он там побывал: тёмное окно чужого дома ничего не значит, если не знать, что в нём горело. Форточка теплицы — единственный знак без «за спиной»: заметить её можно только вернувшись, и в этом вся сила."
+}

@@ -1,0 +1,9 @@
+Canned Food
+Author: mickeymoose1204 (mickeymoose1204)
+URL: https://sketchfab.com/3d-models/none-621a3879d0a445e6afb56cf701c21fad
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:49:00.292967
+SHA256: bbfdc52b417669573b3c55476b2acc9539082515b98132ae3e6d1b6ad252089d
+Source archive unchanged.

@@ -1,0 +1,9 @@
+Old Telephone
+Author: Taha Kaya (mono3s)
+URL: https://sketchfab.com/3d-models/none-f5df881485f04f90898087076c8a0224
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T17:17:20.154310
+SHA256: 0a2939645e976302a84e6b5f04843c298965f302d3e413060948aed38fd37379
+Source archive unchanged.

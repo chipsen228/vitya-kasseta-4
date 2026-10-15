@@ -1,0 +1,9 @@
+Canned Food Low
+Author: DVGorohov (DVGorohov)
+URL: https://sketchfab.com/3d-models/none-2ec219a6fc9d43a5a305dfe3f48cc549
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:43:37.163835
+SHA256: b8b68a4d55eec56b91968058ce45459fe7217ea39c903284eb88d296ac38e580
+Source archive unchanged.

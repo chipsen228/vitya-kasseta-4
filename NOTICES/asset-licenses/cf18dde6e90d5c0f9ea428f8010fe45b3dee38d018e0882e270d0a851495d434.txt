@@ -1,0 +1,9 @@
+Old trunk
+Author: Dani Ortega (I_starboy_I)
+URL: https://sketchfab.com/3d-models/none-5c1b991c9e474ff69be1f51300c98226
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:59:21.912166
+SHA256: e202281c775e1d7c078dbc60479317271d4ebf2fdca4245c7a62f2fd8f08c5ba
+Source archive unchanged.

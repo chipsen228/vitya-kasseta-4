@@ -1,0 +1,263 @@
+{
+  "model": "eleven_text_to_sound_v2",
+  "calls_reserved": 16,
+  "credits_reserved": 5120,
+  "entries": {
+    "horror-run-wood": {
+      "attempted": true,
+      "payload": {
+        "text": "Heavy boots running rapidly across old wooden floorboards, four uneven footsteps then stop, isolated dry foley, no voice, no music",
+        "duration_seconds": 4,
+        "prompt_influence": 0.45,
+        "model_id": "eleven_text_to_sound_v2",
+        "loop": false
+      },
+      "utc": "2026-10-02T11:39:24.418102+00:00",
+      "credits_reserved": 160,
+      "request_id": "",
+      "master_sha256": "3f1dd0f8a0f61e0eafb3bfec831f42499f18f1935f4b9288652e160b7aec92ba",
+      "wav_sha256": "6e9bec4eca23d6097a2609017925fd20b835c471cf548c2f355db18ee9514c9d",
+      "wav_seconds": 3.966757
+    },
+    "horror-run-gravel": {
+      "attempted": true,
+      "payload": {
+        "text": "Heavy boots sprinting across wet gravel, brief burst of five uneven footsteps then stop, isolated outdoor foley, no voice, no music",
+        "duration_seconds": 4,
+        "prompt_influence": 0.45,
+        "model_id": "eleven_text_to_sound_v2",
+        "loop": false
+      },
+      "utc": "2026-10-02T11:39:30.977957+00:00",
+      "credits_reserved": 160,
+      "request_id": "",
+      "master_sha256": "00cc976e535397eeba6d62812146dbbf8eeebd3314154beafacd61a628e47c61",
+      "wav_sha256": "15eb418b18ffed5e9400ce15c34a3323bd2af27f9da49f9eb705d33ce3e493cd",
+      "wav_seconds": 3.957732
+    },
+    "horror-wet-steps": {
+      "attempted": true,
+      "payload": {
+        "text": "Three slow wet muddy boot footsteps on porch planks, water dripping, isolated foley, no voice, no music",
+        "duration_seconds": 4,
+        "prompt_influence": 0.45,
+        "model_id": "eleven_text_to_sound_v2",
+        "loop": false
+      },
+      "utc": "2026-10-02T11:39:34.076250+00:00",
+      "credits_reserved": 160,
+      "request_id": "",
+      "master_sha256": "7996593f8748ba2ec5f2c3b136ee4a4fc464e6d2bc71704353741372ca4d1e43",
+      "wav_sha256": "4effbe7d139432c6c9ac9187c7fe3fc522fc752b098abd0e2f338546fcb9ff98",
+      "wav_seconds": 3.938889
+    },
+    "horror-cloth": {
+      "attempted": true,
+      "payload": {
+        "text": "Brief abrupt movement of a heavy old canvas coat, sleeve fabric scraping and rustling, isolated close foley, no voice, no music",
+        "duration_seconds": 4,
+        "prompt_influence": 0.45,
+        "model_id": "eleven_text_to_sound_v2",
+        "loop": false
+      },
+      "utc": "2026-10-02T11:39:36.922596+00:00",
+      "credits_reserved": 160,
+      "request_id": "",
+      "master_sha256": "de558eb50fa8b13f914628c0ec29255f0fb03525749f70a0e03c715ebc979b3a",
+      "wav_sha256": "bffd5a6708ccc31ef6fb0e498604c35a1c74ff35e893e83306fe82f2268c3cba",
+      "wav_seconds": 3.568526
+    },
+    "horror-shovel-windup": {
+      "attempted": true,
+      "payload": {
+        "text": "One fast swing of a heavy shovel through air, wooden handle grip and canvas sleeve rustle followed by short whoosh, isolated foley, no impact, no music",
+        "duration_seconds": 4,
+        "prompt_influence": 0.45,
+        "model_id": "eleven_text_to_sound_v2",
+        "loop": false
+      },
+      "utc": "2026-10-02T11:39:40.054916+00:00",
+      "credits_reserved": 160,
+      "request_id": "",
+      "master_sha256": "c3c1f20dcfd24281666fb3b2444d069b84f915c5f750922d90e0035867a43ca2",
+      "wav_sha256": "321d806d2f4c7b0f3cfb91f069bad40bb7713e7eb228724760a6c7b5a62a6e80",
+      "wav_seconds": 3.99
+    },
+    "horror-shovel-impact": {
+      "attempted": true,
+      "payload": {
+        "text": "One heavy dull blunt thud against a padded surface, short metallic shovel rattle, isolated close foley, no scream, no voice, no music",
+        "duration_seconds": 4,
+        "prompt_influence": 0.45,
+        "model_id": "eleven_text_to_sound_v2",
+        "loop": false
+      },
+      "utc": "2026-10-02T11:39:43.080426+00:00",
+      "credits_reserved": 160,
+      "request_id": "",
+      "master_sha256": "0af13005e978fc575ec6a1fa018dc89bb08f6df0f1d8ef46cba640f8d46d419f",
+      "wav_sha256": "b9378738c674cb84c097f4e396730be9da772109c3a84d63a07708c20c82dd38",
+      "wav_seconds": 3.766077
+    },
+    "horror-latch": {
+      "attempted": true,
+      "payload": {
+        "text": "One rusty gate latch lifts with small metallic clicks then drops, isolated quiet outdoor foley, no music",
+        "duration_seconds": 4,
+        "prompt_influence": 0.45,
+        "model_id": "eleven_text_to_sound_v2",
+        "loop": false
+      },
+      "utc": "2026-10-02T11:39:46.111949+00:00",
+      "credits_reserved": 160,
+      "request_id": "",
+      "master_sha256": "5b0e7749e0ae962d27e8219976d68af7a07dea235159855f0ce20f42fc1ef05c",
+      "wav_sha256": "80fb9da09d7e1b57023072001b535ef3820ac1c1dfba69924314e3510e065e0b",
+      "wav_seconds": 3.423855
+    },
+    "horror-window-hit": {
+      "attempted": true,
+      "payload": {
+        "text": "One abrupt palm strike against a wooden window frame, low wooden bang and brief glass rattle without breaking, isolated foley, no music",
+        "duration_seconds": 4,
+        "prompt_influence": 0.45,
+        "model_id": "eleven_text_to_sound_v2",
+        "loop": false
+      },
+      "utc": "2026-10-02T11:39:48.874661+00:00",
+      "credits_reserved": 160,
+      "request_id": "",
+      "master_sha256": "692c17e6a82315c698d11f9a3f5feedaf98a6133cd080d677ac6aba879cfe2a6",
+      "wav_sha256": "32a4eef0f768f3f0b2564b1c535eb6404a30b416c67c2672b5f3c4850c74a6f0",
+      "wav_seconds": 3.726032
+    },
+    "horror-tin": {
+      "attempted": true,
+      "payload": {
+        "text": "An empty old tin can falls off a ledge onto damp wooden boards, short clatter and roll then stillness, isolated foley, no music",
+        "duration_seconds": 4,
+        "prompt_influence": 0.45,
+        "model_id": "eleven_text_to_sound_v2",
+        "loop": false
+      },
+      "utc": "2026-10-02T11:39:51.794529+00:00",
+      "credits_reserved": 160,
+      "request_id": "",
+      "master_sha256": "ae1ee028df3d75b526a19ea60c797d9dc14a6153c5aaaf1d95cb14a37acf40f5",
+      "wav_sha256": "619e798b09caa20c05d902c3514f9bd89191a49166d5933471e47a6bac5a2509",
+      "wav_seconds": 3.99
+    },
+    "horror-door": {
+      "attempted": true,
+      "payload": {
+        "text": "Old wooden interior door shifts abruptly in a draft, dry hinge creak then a quiet dull stop, isolated close foley, no music",
+        "duration_seconds": 4,
+        "prompt_influence": 0.45,
+        "model_id": "eleven_text_to_sound_v2",
+        "loop": false
+      },
+      "utc": "2026-10-02T11:39:54.735396+00:00",
+      "credits_reserved": 160,
+      "request_id": "",
+      "master_sha256": "ddcda0e950ac986cc223ac0ce71dbcd606608f98ac0d7b09624c2e905100e4f4",
+      "wav_sha256": "a18da982962d2075ba22f13c50baacdf13378c1ccff6196eab8abc3a9e5101f9",
+      "wav_seconds": 3.99
+    },
+    "horror-attic-creak": {
+      "attempted": true,
+      "payload": {
+        "text": "Old attic floorboard bends under one heavy unseen foot, long dry low wooden creak then silence, isolated close foley, no music",
+        "duration_seconds": 4,
+        "prompt_influence": 0.45,
+        "model_id": "eleven_text_to_sound_v2",
+        "loop": false
+      },
+      "utc": "2026-10-02T11:39:57.571444+00:00",
+      "credits_reserved": 160,
+      "request_id": "",
+      "master_sha256": "bba806863bfbee89be5d1bf7f1f53ee7f45b31d6916004e0c430b7622f13ddbb",
+      "wav_sha256": "30b2e176f9cf9a208477ebd4841a688c63a8647d7a6d937f0add83265f5124fa",
+      "wav_seconds": 3.694286
+    },
+    "horror-ring-echo": {
+      "attempted": true,
+      "payload": {
+        "text": "Two brief rings of an old mechanical telephone bell in a distant empty wooden room, soft room echo, no voices, no music",
+        "duration_seconds": 4,
+        "prompt_influence": 0.45,
+        "model_id": "eleven_text_to_sound_v2",
+        "loop": false
+      },
+      "utc": "2026-10-02T11:40:00.243219+00:00",
+      "credits_reserved": 160,
+      "request_id": "",
+      "master_sha256": "d28ad9d46c2a14271fb3e3293d5b156bfc57e87c6e9ba56ea236a4a12cbb5bfb",
+      "wav_sha256": "ee5bdf4621162f59f4db35ba2a649f1006d223d5689995da91fad44292d2c826",
+      "wav_seconds": 3.99
+    },
+    "horror-amb-house": {
+      "attempted": true,
+      "payload": {
+        "text": "Seamless quiet abandoned wooden house ambience at night, faint wood settling and distant draft through window cracks, no footsteps, no voices, no music, no dramatic hits",
+        "duration_seconds": 20,
+        "prompt_influence": 0.45,
+        "model_id": "eleven_text_to_sound_v2",
+        "loop": true
+      },
+      "utc": "2026-10-02T11:40:02.917472+00:00",
+      "credits_reserved": 800,
+      "request_id": "",
+      "master_sha256": "21ffa24bc150f3731d10d721398ef376cf89485bca221fe94c7bef9ce76a3374",
+      "wav_sha256": "9ea595686eeea439752acb022e57dcc798f3b511c533f753975ae687ea129e61",
+      "wav_seconds": 18.8
+    },
+    "horror-amb-forest": {
+      "attempted": true,
+      "payload": {
+        "text": "Seamless quiet rural birch forest night ambience, soft leaves in cold wind and very distant insects, no animal screams, no voices, no music",
+        "duration_seconds": 20,
+        "prompt_influence": 0.45,
+        "model_id": "eleven_text_to_sound_v2",
+        "loop": true
+      },
+      "utc": "2026-10-02T11:40:08.671433+00:00",
+      "credits_reserved": 800,
+      "request_id": "",
+      "master_sha256": "05194687ab8876a6d181d767d9ac022fd3a9731d2c54230ee407ba98fdd3f8e7",
+      "wav_sha256": "a050d6a1bdaccb73a200da3ac662e0d74e38b78a6078cdab0cc0f0aeefc39545",
+      "wav_seconds": 18.8
+    },
+    "horror-amb-shore": {
+      "attempted": true,
+      "payload": {
+        "text": "Seamless quiet rural lake shore night ambience, small waves under a wooden landing and gentle reeds moving in wind, no voices, no music",
+        "duration_seconds": 20,
+        "prompt_influence": 0.45,
+        "model_id": "eleven_text_to_sound_v2",
+        "loop": true
+      },
+      "utc": "2026-10-02T11:40:14.124419+00:00",
+      "credits_reserved": 800,
+      "request_id": "",
+      "master_sha256": "12b5e70e4c61891adae8aab6a0334fee2902ddcae2d6074e3167d168e7fdf878",
+      "wav_sha256": "5267cbb36dc2bce759d18791fe9e9018031321c6275fcb69d09c525faae7d793",
+      "wav_seconds": 18.8
+    },
+    "horror-amb-cellar": {
+      "attempted": true,
+      "payload": {
+        "text": "Seamless damp old cellar ambience, occasional slow water drops into a shallow puddle and soft air moving through a narrow vent, no footsteps, no voices, no music",
+        "duration_seconds": 20,
+        "prompt_influence": 0.45,
+        "model_id": "eleven_text_to_sound_v2",
+        "loop": true
+      },
+      "utc": "2026-10-02T11:40:19.832707+00:00",
+      "credits_reserved": 800,
+      "request_id": "",
+      "master_sha256": "282d4f6a0fb44c0fbc490ab44d1789cb6ee00ce68449a3ee98dbfadafd1ad7e4",
+      "wav_sha256": "13a452c8903a5e251f0439a5e9d4e2060bd8712902377e6f945424c877bad58a",
+      "wav_seconds": 18.8
+    }
+  }
+}

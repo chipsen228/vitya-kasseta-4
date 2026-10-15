@@ -1,0 +1,9 @@
+Valve Wheel
+Author: oldFox-Interactive (oldFox-Interactive)
+URL: https://sketchfab.com/3d-models/none-4e86dda157b54e17a15644b532d7627b
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T17:04:55.181364
+SHA256: dd00e6c5f0b272c9682671ff30913fee76f2a660992a5bd6ce8f4190520e800a
+Source archive unchanged.

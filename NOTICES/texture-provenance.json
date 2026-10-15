@@ -1,0 +1,575 @@
+{
+  "schema_version": 1,
+  "license": "CC0 1.0 Universal",
+  "source_atlas": {
+    "status": "ok",
+    "source": "derived_cc0",
+    "asset": "session1_exterior",
+    "license": "CC0",
+    "res": "1k",
+    "maps": {
+      "diff": {
+        "path": "session1_exterior/diff.png",
+        "sha256": "f93e29786e53af364b5c205e4d709327db984ab0ce0c87b0e09bd42e4c7d068b",
+        "resolution": [
+          1024,
+          1024
+        ],
+        "colorspace": "sRGB"
+      },
+      "nor_gl": {
+        "path": "session1_exterior/nor_gl.png",
+        "sha256": "1c44084a0525d4d663618a54a47cf7ac65f9bc9a4fca0db671562d6de4e40bd6",
+        "resolution": [
+          1024,
+          1024
+        ],
+        "colorspace": "Non-Color"
+      },
+      "orm": {
+        "path": "session1_exterior/orm.png",
+        "sha256": "6f23e7c2e18f11e08ba41da9d15f269ac74a1c2add2fc1c080e96e2a121e584a",
+        "resolution": [
+          1024,
+          1024
+        ],
+        "colorspace": "Non-Color"
+      },
+      "ao": {
+        "path": "session1_exterior/ao.png",
+        "sha256": "5539d1f2e934ce03ed0cc03bc750d88d18b91f4efc9fdd03f0423a6230bc82ee",
+        "resolution": [
+          1024,
+          1024
+        ],
+        "colorspace": "Non-Color"
+      },
+      "rough": {
+        "path": "session1_exterior/rough.png",
+        "sha256": "3226d2d879e3f9e02005b530770795c7fa2b1ec1cb220cba450720811d2169c6",
+        "resolution": [
+          1024,
+          1024
+        ],
+        "colorspace": "Non-Color"
+      },
+      "metal": {
+        "path": "session1_exterior/metal.png",
+        "sha256": "22d2171a1644aaeb35d6fb24c0e043d62da5259bfaf65b54a6fb173bcab8fcb3",
+        "resolution": [
+          1024,
+          1024
+        ],
+        "colorspace": "Non-Color"
+      }
+    },
+    "provenance": [
+      {
+        "strip": "wood",
+        "package_id": "S/crate_box/wooden_crate_02",
+        "license": "CC0",
+        "attribution": {
+          "path": "art/_work/S/dl/crate_box/wooden_crate_02/LICENSE.txt",
+          "license": "CC0 1.0 Universal (public-domain dedication)",
+          "license_url": null,
+          "title": "Asset license record",
+          "author": null,
+          "url": "https://polyhaven.com/a/wooden_crate_02",
+          "text": "Asset license record\nAsset: Wooden Crate 02\nAuthor(s): James Ray Cock, Jurita Burger\nSource: https://polyhaven.com/a/wooden_crate_02\nDownloaded: 2026-09-15\nLicense: CC0 1.0 Universal (public-domain dedication)\nLicense deed: https://creativecommons.org/publicdomain/zero/1.0/\nPoly Haven license statement: https://polyhaven.com/license\n\nPoly Haven states that all assets on its site are licensed as CC0. Attribution is not required; redistribution and commercial use are allowed.\n"
+        },
+        "maps": {
+          "diff": {
+            "path": "art/_work/ingest/crate_box/wooden_crate_02__S/textures/wooden_crate_02_diff_1k.jpg",
+            "sha256": "a6e57123110d2899af9493c22b1918174f1c96c707e7126ac67738d98ee10c07",
+            "crop": [
+              0.015,
+              0.28,
+              0.38,
+              0.55
+            ]
+          },
+          "nor_gl": {
+            "path": "art/_work/ingest/crate_box/wooden_crate_02__S/textures/wooden_crate_02_nor_gl_1k.jpg",
+            "sha256": "59342f730c9f336950f796ef5e4c3b8c794ce5adbd54d98a2ecb679a7e4ae5e8",
+            "crop": [
+              0.015,
+              0.28,
+              0.38,
+              0.55
+            ]
+          },
+          "orm": {
+            "path": "art/_work/ingest/crate_box/wooden_crate_02__S/textures/wooden_crate_02_arm_1k.jpg",
+            "sha256": "a76af97005a66fe8c7cdcabf20174f06813e6a6d5cd9502157c93a57f3c89d5a",
+            "crop": [
+              0.015,
+              0.28,
+              0.38,
+              0.55
+            ]
+          }
+        },
+        "license_file": "tex_src/session1_exterior/licenses/wooden_crate_02.txt"
+      },
+      {
+        "strip": "red",
+        "package_id": "S/bath_bench/painted_wooden_bench",
+        "license": "CC0",
+        "attribution": {
+          "path": "art/_work/S/dl/bath_bench/painted_wooden_bench/LICENSE.txt",
+          "license": "CC0 1.0 Universal (public-domain dedication)",
+          "license_url": null,
+          "title": "Asset license record",
+          "author": null,
+          "url": "https://polyhaven.com/a/painted_wooden_bench",
+          "text": "Asset license record\nAsset: Painted Wooden Bench\nAuthor(s): Kirill Sannikov\nSource: https://polyhaven.com/a/painted_wooden_bench\nDownloaded: 2026-09-15\nLicense: CC0 1.0 Universal (public-domain dedication)\nLicense deed: https://creativecommons.org/publicdomain/zero/1.0/\nPoly Haven license statement: https://polyhaven.com/license\n\nPoly Haven states that all assets on its site are licensed as CC0. Attribution is not required; redistribution and commercial use are allowed.\n"
+        },
+        "maps": {
+          "diff": {
+            "path": "art/_work/ingest/bath_bench/painted_wooden_bench__S/textures/painted_wooden_bench_diff_1k.jpg",
+            "sha256": "9bc533313091ee71eaca5fa6334b71d27935d9d75311f64df6a53c28a67c435c",
+            "crop": [
+              0.03,
+              0.045,
+              0.49,
+              0.17
+            ]
+          },
+          "nor_gl": {
+            "path": "art/_work/ingest/bath_bench/painted_wooden_bench__S/textures/painted_wooden_bench_nor_gl_1k.jpg",
+            "sha256": "a0f53740d77fc61aac01de0b7e1ae6109445d1756839f739ae31fdf10c9911f2",
+            "crop": [
+              0.03,
+              0.045,
+              0.49,
+              0.17
+            ]
+          },
+          "orm": {
+            "path": "art/_work/ingest/bath_bench/painted_wooden_bench__S/textures/painted_wooden_bench_arm_1k.jpg",
+            "sha256": "878785565eeff706b8f1e4db7e3d794a544e9cf0e56cee424d9a271ab4ead47e",
+            "crop": [
+              0.03,
+              0.045,
+              0.49,
+              0.17
+            ]
+          }
+        },
+        "license_file": "tex_src/session1_exterior/licenses/painted_wooden_bench.txt"
+      },
+      {
+        "strip": "pale",
+        "package_id": "S/crate_box/wooden_crate_02",
+        "license": "CC0",
+        "attribution": {
+          "path": "art/_work/S/dl/crate_box/wooden_crate_02/LICENSE.txt",
+          "license": "CC0 1.0 Universal (public-domain dedication)",
+          "license_url": null,
+          "title": "Asset license record",
+          "author": null,
+          "url": "https://polyhaven.com/a/wooden_crate_02",
+          "text": "Asset license record\nAsset: Wooden Crate 02\nAuthor(s): James Ray Cock, Jurita Burger\nSource: https://polyhaven.com/a/wooden_crate_02\nDownloaded: 2026-09-15\nLicense: CC0 1.0 Universal (public-domain dedication)\nLicense deed: https://creativecommons.org/publicdomain/zero/1.0/\nPoly Haven license statement: https://polyhaven.com/license\n\nPoly Haven states that all assets on its site are licensed as CC0. Attribution is not required; redistribution and commercial use are allowed.\n"
+        },
+        "maps": {
+          "diff": {
+            "path": "art/_work/ingest/crate_box/wooden_crate_02__S/textures/wooden_crate_02_diff_1k.jpg",
+            "sha256": "a6e57123110d2899af9493c22b1918174f1c96c707e7126ac67738d98ee10c07",
+            "crop": [
+              0.015,
+              0.28,
+              0.38,
+              0.55
+            ]
+          },
+          "nor_gl": {
+            "path": "art/_work/ingest/crate_box/wooden_crate_02__S/textures/wooden_crate_02_nor_gl_1k.jpg",
+            "sha256": "59342f730c9f336950f796ef5e4c3b8c794ce5adbd54d98a2ecb679a7e4ae5e8",
+            "crop": [
+              0.015,
+              0.28,
+              0.38,
+              0.55
+            ]
+          },
+          "orm": {
+            "path": "art/_work/ingest/crate_box/wooden_crate_02__S/textures/wooden_crate_02_arm_1k.jpg",
+            "sha256": "a76af97005a66fe8c7cdcabf20174f06813e6a6d5cd9502157c93a57f3c89d5a",
+            "crop": [
+              0.015,
+              0.28,
+              0.38,
+              0.55
+            ]
+          }
+        },
+        "license_file": "tex_src/session1_exterior/licenses/wooden_crate_02.txt"
+      },
+      {
+        "strip": "metal",
+        "package_id": "S/barrel_metal/barrel_03",
+        "license": "CC0",
+        "attribution": {
+          "path": "art/_work/S/dl/barrel_metal/barrel_03/LICENSE.txt",
+          "license": "CC0 1.0 Universal (public-domain dedication)",
+          "license_url": null,
+          "title": "Asset license record",
+          "author": null,
+          "url": "https://polyhaven.com/a/barrel_03",
+          "text": "Asset license record\nAsset: Barrel 03\nAuthor(s): Serhii Khromov\nSource: https://polyhaven.com/a/barrel_03\nDownloaded: 2026-09-15\nLicense: CC0 1.0 Universal (public-domain dedication)\nLicense deed: https://creativecommons.org/publicdomain/zero/1.0/\nPoly Haven license statement: https://polyhaven.com/license\n\nPoly Haven states that all assets on its site are licensed as CC0. Attribution is not required; redistribution and commercial use are allowed.\n"
+        },
+        "maps": {
+          "diff": {
+            "path": "art/_work/ingest/barrel_metal/barrel_03__S/textures/barrel_03_diff_1k.jpg",
+            "sha256": "62feb27dfa9a0daf3f323fdc1ddc2d8e4a5996cf2c72fe50197b55c2b9cba7f3",
+            "crop": [
+              0.025,
+              0.04,
+              0.38,
+              0.85
+            ]
+          },
+          "nor_gl": {
+            "path": "art/_work/ingest/barrel_metal/barrel_03__S/textures/barrel_03_nor_gl_1k.jpg",
+            "sha256": "ade97c52985047858a4f38226a9b8a888e3a766ba0434700b4618fb25424c4b6",
+            "crop": [
+              0.025,
+              0.04,
+              0.38,
+              0.85
+            ]
+          },
+          "orm": {
+            "path": "art/_work/ingest/barrel_metal/barrel_03__S/textures/barrel_03_arm_1k.jpg",
+            "sha256": "2cec2338b36d7322bef55e6a1d0884b223c5ed383cf986a58bfa461478c64c7e",
+            "crop": [
+              0.025,
+              0.04,
+              0.38,
+              0.85
+            ]
+          }
+        },
+        "license_file": "tex_src/session1_exterior/licenses/barrel_03.txt"
+      }
+    ],
+    "normal_convention": "OpenGL",
+    "orm_channels": "R=AO,G=roughness,B=metallic",
+    "edits": "Matching crops, resize, U seam blend, normal renormalization; muted wood/red and pale paint tint."
+  },
+  "derived_maps": {
+    "arkady-ao.png": {
+      "sha256": "17c2adc388cd80c59ce7796fdba4af54eaebffda18eee88a3cf2cc77e48c0d7a",
+      "bytes": 79938
+    },
+    "banya-ao.png": {
+      "sha256": "215dc4a82739e2c05ca9c8a5a2f0d029e46cb9fa1afb3e2a1ff2a9de216d1e61",
+      "bytes": 115779
+    },
+    "boarded-ao.png": {
+      "sha256": "1d13612176b46f28ff7101d49e1e0d2839bff321ad539ad2f50e99c0410ec7a6",
+      "bytes": 103370
+    },
+    "booth-ao.png": {
+      "sha256": "094cf7e7147dc991526ba98150c8c04d8dc392deaa3cdc9f9892ca0f84551028",
+      "bytes": 179879
+    },
+    "cellar-shed-ao.png": {
+      "sha256": "265333e5a3ffd15cd402cffb7baf6dc8d57682eeb0ea6472f776274a28fcd690",
+      "bytes": 124853
+    },
+    "club-ao.png": {
+      "sha256": "6b55b3a334a81cb44549317da6aa0100cc5279a179c7d30a7af0abba6c5b34d3",
+      "bytes": 104971
+    },
+    "farm-barn-ao.png": {
+      "sha256": "8b2d6cccda60eafde7c5bd1d4c1ff071205184455b845f3739e4566f73b78cb2",
+      "bytes": 96870
+    },
+    "neighbour-00-ao.png": {
+      "sha256": "0aa5f61a07c63ff3d8b394f478af65351144f18a1a3a2105b500a5a4afa430a9",
+      "bytes": 104422
+    },
+    "neighbour-01-ao.png": {
+      "sha256": "69a6a80a9b1a60f3f66c23ebb8af99b173ce20e9af297f95d01184cda1008d7a",
+      "bytes": 107042
+    },
+    "neighbour-02-ao.png": {
+      "sha256": "d43e77cd94bc51f6ea076162426b6f75c3775a92e02f422d0047d7e1a25bbf0d",
+      "bytes": 83371
+    },
+    "neighbour-03-ao.png": {
+      "sha256": "4f1cdac87433c6c2feed9f2095e169de5c3303ccf2eec86198b09b0461350b6c",
+      "bytes": 102163
+    },
+    "neighbour-04-ao.png": {
+      "sha256": "b2dc6e650d516da8b50216309eb0cf138d2b91f7d9593a596cb8794c8ba0fc93",
+      "bytes": 105706
+    },
+    "neighbour-05-ao.png": {
+      "sha256": "09dd3a15f740d9b5fbd0a483692b57171e78f3e41678cb7ccc5c59f4f84aea6c",
+      "bytes": 82688
+    },
+    "neighbour-06-ao.png": {
+      "sha256": "639944b9abbe74656d26e0055f23e6b36ddd240f4722137f48524c1094a652c4",
+      "bytes": 111944
+    },
+    "neighbour-07-ao.png": {
+      "sha256": "8556adbda84c8dbf6fdd419aa7a1789ec60c936732414e472ef050fcc7288e47",
+      "bytes": 103503
+    },
+    "neighbour-08-ao.png": {
+      "sha256": "d4c0482e20d94d43028e818e3997e6b131288fb7316b6c7a4c36ced7d672d19d",
+      "bytes": 111951
+    },
+    "p01-ao.png": {
+      "sha256": "2b7b16c9f11aefc9ef1f4f6f07729af928b8c2639f17420bc6a9df9c2b479507",
+      "bytes": 109168
+    },
+    "p02-ao.png": {
+      "sha256": "76067842365ce79fd9edb0d7b1f35fcae37f1d7bc759e7c51040a435accab531",
+      "bytes": 102089
+    },
+    "p03-ao.png": {
+      "sha256": "bddf7c188cccfc24ca3504b0eb9cc6332b67e9539f7c93c997ae5835b9db9e3b",
+      "bytes": 100026
+    },
+    "p04-ao.png": {
+      "sha256": "eb07806190b252801994815efa2db9faa3e82f916ad93ade684b3bbe5b44cdc7",
+      "bytes": 105844
+    },
+    "p05-ao.png": {
+      "sha256": "89004493c05b6729599ca6c1d0016718c7eaf35fd73ae434d8753deeff914695",
+      "bytes": 132015
+    },
+    "p06-ao.png": {
+      "sha256": "d418c314f365107c657cb1e47369396134f75e9713559b7cfc09fa83ed1079cd",
+      "bytes": 102861
+    },
+    "p07-ao.png": {
+      "sha256": "b52e43e67d03a037979671b8a33147a2f300aac52244dd7298a60642cf6091e4",
+      "bytes": 103490
+    },
+    "p08-ao.png": {
+      "sha256": "192fc0f8ae17ee92b9d032cc745dc69ebd944877510aed2e5a07d0690ec0b2f0",
+      "bytes": 113374
+    },
+    "p09-ao.png": {
+      "sha256": "0b437b7e91f05abddbcbde035f5513cce3b4217474c364a6669af5cc59454d8b",
+      "bytes": 121745
+    },
+    "p10-ao.png": {
+      "sha256": "15f8a176a5ac378a22e25380bc082e5f25b0b2e695f82a0ef12472d6f1849d66",
+      "bytes": 119335
+    },
+    "p11-ao.png": {
+      "sha256": "751986dc0df91e7b1748b02f75e0037ca8e684c0bc2d7971af5390321c947b7e",
+      "bytes": 93397
+    },
+    "p12-ao.png": {
+      "sha256": "f3cdfde79b2a60da8d03865d959462947f9e0127f704590649fc7b5477244973",
+      "bytes": 121455
+    },
+    "p13-ao.png": {
+      "sha256": "93b2487c502be7747fbcc9119ceef7c51c0dcd9849e6b9f832d3e75b001c3dbd",
+      "bytes": 114454
+    },
+    "p14-ao.png": {
+      "sha256": "192fc0f8ae17ee92b9d032cc745dc69ebd944877510aed2e5a07d0690ec0b2f0",
+      "bytes": 113374
+    },
+    "p15-ao.png": {
+      "sha256": "dd27cadec9a756b4683e709175220ea0921e60afcee71eed1dc68d1009779c5e",
+      "bytes": 100029
+    },
+    "privy-ao.png": {
+      "sha256": "2f5c5b4fed86a4b90b720b08516f54aacd2462a7f1b7fca3693318906323f855",
+      "bytes": 223297
+    },
+    "pump-base-ao.png": {
+      "sha256": "147f21a6983472f392bb757352f6dd161e964bd9759cecdbcbf58dbacad1e6b2",
+      "bytes": 147778
+    },
+    "redhouse-ao.png": {
+      "sha256": "f60bf9215c1f387d52cef6c3efc613dff3add0ca75ea5ec35241937b5393ddf3",
+      "bytes": 95989
+    },
+    "shop-ao.png": {
+      "sha256": "e18dc2db62d5a80adee61111c8c76ae3e22bbdcf2e7719d0106a7c9a54be81db",
+      "bytes": 93530
+    },
+    "shouter-ao.png": {
+      "sha256": "bc742b23821430a3a397ab60d8ae0c090333b00f198e3d3431bb09af3aa8c456",
+      "bytes": 96178
+    },
+    "site-shed-ao.png": {
+      "sha256": "e64b8c72409d9f7da35f12efb20e1198ac7dc990d7aa4ab5477b46f948c47c55",
+      "bytes": 173696
+    },
+    "snt-booth-ao.png": {
+      "sha256": "8fac675f5995d325ac5452c2a7537968534f05a8bec6346fc0dd98395edac685",
+      "bytes": 151509
+    },
+    "snt-office-ao.png": {
+      "sha256": "6bf504fef60787878af5af9fca1a98bb99b2158c751e5ae610eafec743ea010d",
+      "bytes": 115152
+    },
+    "snt-woodshed-ao.png": {
+      "sha256": "5b8176fe5061915625472afe6d6bcba9df84b6aefc31d17063f3941160275dab",
+      "bytes": 133066
+    },
+    "street-office-ao.png": {
+      "sha256": "fc7f9f5a5b6f1f24b79e1d3e2f75385da35ee4d294264e07b98f8cde1c458528",
+      "bytes": 109815
+    },
+    "trim-diff.png": {
+      "sha256": "707330a54ed33eb1daef842bbba5b5cbdd0207909692a6df49c95b37a6d55501",
+      "bytes": 814453
+    },
+    "trim-nor_gl.png": {
+      "sha256": "1c44084a0525d4d663618a54a47cf7ac65f9bc9a4fca0db671562d6de4e40bd6",
+      "bytes": 867680
+    },
+    "trim-orm.png": {
+      "sha256": "6f23e7c2e18f11e08ba41da9d15f269ac74a1c2add2fc1c080e96e2a121e584a",
+      "bytes": 1135055
+    },
+    "vitya-ao.png": {
+      "sha256": "110d5906b82febdd5b3f5f04f13373fed88731bab1f6f9a7dd195981f6a2b4ea",
+      "bytes": 119012
+    },
+    "watcher-ao.png": {
+      "sha256": "f216654edf2c34ac20f5f5765c3fe13c90b478f77f92d48f7d0dcad4aafbd0eb",
+      "bytes": 86248
+    },
+    "yard-arkady-ao.png": {
+      "sha256": "8f6fb75d31cc73f2a366c3a9cdab7e46b50b6f7b56fa7730729ab3899d3d679d",
+      "bytes": 299968
+    },
+    "yard-boarded-ao.png": {
+      "sha256": "51732732dfb4e8581cc307bd7e002860b6c54984e67a547e394949e47471b653",
+      "bytes": 303627
+    },
+    "yard-neighbour-00-ao.png": {
+      "sha256": "0549f8254a05906566415e0dea53c81e1c14f057d93cefe21291eefb4664822a",
+      "bytes": 280105
+    },
+    "yard-neighbour-01-ao.png": {
+      "sha256": "dd22481288fdcbcd8013a5a6dec0477cd1b43e50bb87da27b4d60e456b5d1b1f",
+      "bytes": 287430
+    },
+    "yard-neighbour-02-ao.png": {
+      "sha256": "978e9598d096a912a45c6b4ccc739f8a05715bb5a00da1a4c815b7c777aa4dc7",
+      "bytes": 241689
+    },
+    "yard-neighbour-03-ao.png": {
+      "sha256": "cc2826c2670e08436a52123bde7257630937a5f7eeeecaa6328c4d63a4efe27a",
+      "bytes": 285228
+    },
+    "yard-neighbour-04-ao.png": {
+      "sha256": "4a0bb21f7c0792ecc48972a6b38d220cb4ce2324d062b05c70a15778a03ecdc7",
+      "bytes": 262419
+    },
+    "yard-neighbour-05-ao.png": {
+      "sha256": "9b49cb6876aa25f60cce37b065a211cf7621f2055fe601eb81b937bc63538044",
+      "bytes": 305893
+    },
+    "yard-neighbour-06-ao.png": {
+      "sha256": "4b3a12fa1e95d2672833d3e809964bca07eab1b28164bc9fdd4d72bc855657a6",
+      "bytes": 269115
+    },
+    "yard-neighbour-07-ao.png": {
+      "sha256": "22fbb441956366d72a720e63a24fc2acb6c404079e6c5c9a5dd4168497ef5a8b",
+      "bytes": 296900
+    },
+    "yard-neighbour-08-ao.png": {
+      "sha256": "db5219748a095cf30c892bf40c72dff3b10bdcc94b4ded6397314998826a2a3f",
+      "bytes": 258317
+    },
+    "yard-p01-ao.png": {
+      "sha256": "af0149f27cfbf62b5c4fe0d41ec78ed8a02499f2ca920bf4a87b97045e67448a",
+      "bytes": 243892
+    },
+    "yard-p02-ao.png": {
+      "sha256": "58b87a15ad55dc2e60a46a29158809be8991b9f0129f5b54b0226acda781a6d6",
+      "bytes": 238938
+    },
+    "yard-p03-ao.png": {
+      "sha256": "d2d36cc0b8679dceba173410998ee67511f301636ae912bc46265e932e62b1f3",
+      "bytes": 261565
+    },
+    "yard-p04-ao.png": {
+      "sha256": "14e9bbb8887b6ca9b5eed4d070ba49a64c0fa63ca46d4406f3dbafcee0e8c67e",
+      "bytes": 236662
+    },
+    "yard-p05-ao.png": {
+      "sha256": "1c0975860d3fb052cb1ec17dc59d8bb9441650d2a8137d1a44cbe747c04099c5",
+      "bytes": 221977
+    },
+    "yard-p06-ao.png": {
+      "sha256": "c0a7936e19a4617b4c5a6469377931b97c8984bb66e328a79d9eaf826abb9b5c",
+      "bytes": 229837
+    },
+    "yard-p07-ao.png": {
+      "sha256": "1f028dd940cafc5fa6783a102fef55d164a8a9dab0d73419cebf31676dc46c89",
+      "bytes": 259956
+    },
+    "yard-p08-ao.png": {
+      "sha256": "34abb89e02de244e44d5580809fe88d7aa196dfa200a3eb969dcd648acd62c77",
+      "bytes": 239549
+    },
+    "yard-p09-ao.png": {
+      "sha256": "6892b748cfb9915f3590424454ffe6af9409aeda502d41fc492ba2dd6fb65135",
+      "bytes": 192572
+    },
+    "yard-p10-ao.png": {
+      "sha256": "0487e027b1c57930a7c67f20a4bfc6260c852d5f9d40bea0fdd1e558b18c532d",
+      "bytes": 220238
+    },
+    "yard-p11-ao.png": {
+      "sha256": "e434158608aaeabf2a07096cf67f2bf7a96b4277c304e661aa4244917af43722",
+      "bytes": 198081
+    },
+    "yard-p12-ao.png": {
+      "sha256": "fc8b70bed64a6d74b8ad8296d3f9c59d3809673998f2fb0704b42487fb5a1ed4",
+      "bytes": 251185
+    },
+    "yard-p13-ao.png": {
+      "sha256": "a295c3a61cca67cf2cccd736b5cdb36d0eae3eb17624b12ead3ff8b81ed51ed0",
+      "bytes": 238133
+    },
+    "yard-p14-ao.png": {
+      "sha256": "e18a4910b538228d8b65b4cfe7afb74fad8303352c21ccbd56e9ba991126c231",
+      "bytes": 224169
+    },
+    "yard-p15-ao.png": {
+      "sha256": "476ee80d181a0f8aa470556a4008f059999e8c23a8ad32cd7914fde93a7a5f32",
+      "bytes": 255321
+    },
+    "yard-redhouse-ao.png": {
+      "sha256": "438d641273cd5c392ee716fa1e3e1e6f2f592b7e4323ee0d8285c0590095b979",
+      "bytes": 237143
+    },
+    "yard-shouter-ao.png": {
+      "sha256": "4acffbdfe393f2c934fc4b871f2a0b6115920f1c03af38b026ab334ab28d405c",
+      "bytes": 185688
+    },
+    "yard-vitya-ao.png": {
+      "sha256": "fd7fb77cab13f37d4c1cba9ad73cb8d1fd12cf86571700bcadfc3144f21666f5",
+      "bytes": 189813
+    },
+    "yard-watcher-ao.png": {
+      "sha256": "97d243f081d0f04d475e481640d55b90ac3be5fa52471cb865a770d6aa2c5265",
+      "bytes": 297163
+    }
+  },
+  "recipe": "environment_generate.environment_material: linear paint #904431; zinc .42/.44/.46; pale .65/.63/.56; retained source grain and normal/ORM",
+  "uv1": "metric trim strips; grain follows board length",
+  "uv2": "unique 1K packed AO; local Cycles AO distance .55m and minimum .35",
+  "shared_maps": [
+    "trim-diff.png",
+    "trim-nor_gl.png",
+    "trim-orm.png"
+  ],
+  "ao_sharing": "one 1K AO per owner shared by all three LOD meshes"
+}

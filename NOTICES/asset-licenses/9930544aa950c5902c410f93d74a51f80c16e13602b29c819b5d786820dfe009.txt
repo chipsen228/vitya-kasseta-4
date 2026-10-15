@@ -1,0 +1,9 @@
+Old Kettle with Lid
+Author: Odin Branigan (Odin.Branigan)
+URL: https://sketchfab.com/3d-models/none-5c109d4cc69946b4add01824b9e8aed8
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T17:12:12.563010
+SHA256: 0352cba0780ffdbd8ba5e86891fd0af334d91328ce289f1a0e2e94bd4896dd51
+Source archive unchanged.

@@ -1,0 +1,9 @@
+Sauna
+Author: AntonYurevich (antonyurevich)
+URL: https://sketchfab.com/3d-models/none-208e4d7e015e4de4bc19cc747f5e6de5
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:19:58.707861
+SHA256: 35eee97b2c83c847cf91f53084d70c21698102992d9e5116f346afc570c4d223
+Source archive unchanged.

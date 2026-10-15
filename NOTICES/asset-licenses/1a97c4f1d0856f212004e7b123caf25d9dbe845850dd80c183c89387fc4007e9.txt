@@ -1,0 +1,9 @@
+ed_kitchen_towel
+Author: faustinasobrero (faustinasobrero)
+URL: https://sketchfab.com/3d-models/none-46b7a07e692c4e4a9bf68ea3176d55ec
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T17:12:09.679104
+SHA256: 258702290505a07ef28ceffb85de13d2e8b4a73c8a3f79a5996672f5c8ca2a8c
+Source archive unchanged.

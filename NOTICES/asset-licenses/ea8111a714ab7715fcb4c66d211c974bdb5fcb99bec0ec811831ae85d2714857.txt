@@ -1,0 +1,9 @@
+Old Rusty Soviet Fuel Canister
+Author: olegolegperepelica (olegolegperepelica)
+URL: https://sketchfab.com/3d-models/none-a2e479f5114246bda975afaa827081d1
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:59:39.301999
+SHA256: 29ee07d693c52a642689b8aeae154a881965793cd62710089834f054fb63d8ca
+Source archive unchanged.

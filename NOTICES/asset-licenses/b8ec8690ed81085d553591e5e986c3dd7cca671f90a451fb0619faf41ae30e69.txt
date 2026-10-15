@@ -1,0 +1,9 @@
+Film Reel
+Author: fisherfx.pro (fisherfx.pro)
+URL: https://sketchfab.com/3d-models/none-ed2f560e03394c61acac3f097db6e8a6
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:49:59.417971
+SHA256: a828123372734a69a45bfd973a823d8808b962821208a11528c597b08a46070d
+Source archive unchanged.

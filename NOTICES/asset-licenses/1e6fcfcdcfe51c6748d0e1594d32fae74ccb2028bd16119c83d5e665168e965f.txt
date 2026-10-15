@@ -1,0 +1,9 @@
+Pitchfork
+Author: DJMaesen (bumstrum)
+URL: https://sketchfab.com/3d-models/none-24e08392fa484f9b8de902982eded814
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:40:07.836313
+SHA256: 2611745844fa2f317ecfc6a3fd8f318f84e98b7be4e647f952680995b0cb4625
+Source archive unchanged.

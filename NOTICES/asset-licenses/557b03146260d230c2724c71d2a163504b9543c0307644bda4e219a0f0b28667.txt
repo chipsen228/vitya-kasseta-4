@@ -1,0 +1,9 @@
+Rusty can
+Author: Apofex (apofex)
+URL: https://sketchfab.com/3d-models/none-6f429979e45441e195432729e2c15a8c
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:55:11.262021
+SHA256: 157640acea786d9ca3cd8205961dc96b67ef52b9746b49efdcbea4111e734090
+Source archive unchanged.

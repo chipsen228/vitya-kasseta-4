@@ -1,0 +1,9 @@
+3D Asset: Retro Thermos
+Author: Melon Polygons (Melonpolygons)
+URL: https://sketchfab.com/3d-models/none-be4445670381439a8974ebf6b5a880f3
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T17:05:08.253736
+SHA256: f6c37c4e64fd438bbed17b776c85a46d817758c221172be4be191f40d4dc2aaa
+Source archive unchanged.

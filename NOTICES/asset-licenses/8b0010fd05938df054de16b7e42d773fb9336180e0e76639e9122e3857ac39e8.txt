@@ -1,0 +1,10 @@
+Asset license record
+Asset: Food Apple 01
+Author(s): Oliver Harries
+Source: https://polyhaven.com/a/food_apple_01
+Downloaded: 2026-09-15
+License: CC0 1.0 Universal (public-domain dedication)
+License deed: https://creativecommons.org/publicdomain/zero/1.0/
+Poly Haven license statement: https://polyhaven.com/license
+
+Poly Haven states that all assets on its site are licensed as CC0. Attribution is not required; redistribution and commercial use are allowed.

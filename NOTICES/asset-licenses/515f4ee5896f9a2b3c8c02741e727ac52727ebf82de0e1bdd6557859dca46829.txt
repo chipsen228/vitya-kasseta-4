@@ -1,0 +1,9 @@
+Eyeglasses - Occhiali
+Author: Francesco Coldesina (topfrank2013)
+URL: https://sketchfab.com/3d-models/none-4f251202d0504126b1752e6d1f5f5e4f
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T17:05:13.939132
+SHA256: bfe56d91c3a327f4fdfc9605af8737465786dee6e749899a06d18605f80e8024
+Source archive unchanged.

@@ -1,0 +1,7 @@
+Object(glass Bottle)
+roccodile (roccodile)
+https://sketchfab.com/3d-models/objectglass-bottle-df40d8722b7c453da4ab13633db0f4cd
+Creative Commons Attribution
+http://creativecommons.org/licenses/by/4.0/
+Downloaded 2026-09-15T17:13:21
+Changes: none; adaptation planned by S4 exterior.

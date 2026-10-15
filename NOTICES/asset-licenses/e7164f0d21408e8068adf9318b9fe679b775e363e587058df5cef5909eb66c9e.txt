@@ -1,0 +1,9 @@
+Canvas Bag
+Author: RatATatKat (RatATatKat)
+URL: https://sketchfab.com/3d-models/none-3316c1f3fc4e4f95adf05b1ee5478813
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:59:34.727352
+SHA256: 25094d7b35695ad462bcdcfd4bdc62a10ff0888ad99ec9a0f697992f59b938b9
+Source archive unchanged.

@@ -1,0 +1,9 @@
+Wednesday Addams Signature Poison Bottle
+Author: misscanning (misscanning)
+URL: https://sketchfab.com/3d-models/none-3f87c4c771af47c585e478dfb2188790
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:42:16.875508
+SHA256: 8ec61bd15e7ebaf407e259b1d94678671364779dc13bdfbeb72a1095eeb08d2a
+Source archive unchanged.

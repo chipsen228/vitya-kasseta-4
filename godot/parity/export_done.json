@@ -1,0 +1,38 @@
+{
+ "exportedAt": "2026-08-09T12:42:55.689Z",
+ "counts": {
+  "collide": 311,
+  "blockers": 4,
+  "propColliders": 83,
+  "triangles": 3885,
+  "navLayers": 5,
+  "navNodes": 61,
+  "navEdges": 156
+ },
+ "texturesBakedPng": [
+  "shedwood",
+  "dirt",
+  "gravel",
+  "glass",
+  "meshfence",
+  "cookie"
+ ],
+ "texturesFromFile": [
+  "boards",
+  "plank",
+  "siding",
+  "brick",
+  "concrete",
+  "grass",
+  "roof",
+  "tile",
+  "carpet"
+ ],
+ "probeGrid": {
+  "x0": -12,
+  "x1": 12,
+  "z0": -8,
+  "z1": 32,
+  "step": 0.5
+ }
+}

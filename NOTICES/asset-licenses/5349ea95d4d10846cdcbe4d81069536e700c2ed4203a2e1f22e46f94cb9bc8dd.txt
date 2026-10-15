@@ -1,0 +1,9 @@
+Scales "ТЮМЕНЬ" USSR
+Author: Gonya (Gonya)
+URL: https://sketchfab.com/3d-models/none-9c60332ace274bd290fbc2bb3e64f992
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:51:43.523158
+SHA256: f5bb99f7550ea50bf591dabe70aee5a85fd1e1eb5af15c98b171365a79a158e0
+Source archive unchanged.

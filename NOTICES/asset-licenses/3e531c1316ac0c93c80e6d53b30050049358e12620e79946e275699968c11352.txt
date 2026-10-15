@@ -1,0 +1,8 @@
+dirty crate
+Author: JMarthick (JMarthick)
+URL: https://sketchfab.com/3d-models/none-6643db5f0fd94127b3bb88b34f6953a4
+License: Creative Commons Attribution
+http://creativecommons.org/licenses/by/4.0/
+Downloaded: 2026-09-15T15:40:29.361949
+SHA256: e1e39929302e3e2efe742932b21a3a17445429cd57e5028fa2e7a541d4e45c9b
+No changes to source archive.

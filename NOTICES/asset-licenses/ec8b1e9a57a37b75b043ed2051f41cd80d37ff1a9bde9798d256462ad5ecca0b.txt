@@ -1,0 +1,9 @@
+wooden stool
+Author: diana_ver (diana_ver)
+URL: https://sketchfab.com/3d-models/none-79847abac75a4211a4f072c45516fbea
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:59:50.293206
+SHA256: a5b5394fa75fcda4e9df0e786232e39b3f31ee740ff3e10b96afc483581a0401
+Source archive unchanged.

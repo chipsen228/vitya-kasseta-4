@@ -1,0 +1,9 @@
+Small Glass Jar
+Author: 3DisFUNny (3DisFUNny)
+URL: https://sketchfab.com/3d-models/none-71fbc53defbe439aa5bb91d244f1d60b
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T17:04:35.432953
+SHA256: 9334a5df03b4ff22a2efd288168c333f44e075c4bc7f740ae5e82e80ac843ca1
+Source archive unchanged.

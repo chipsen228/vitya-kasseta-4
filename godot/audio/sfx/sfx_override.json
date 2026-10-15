@@ -1,0 +1,797 @@
+{
+ "version": 1,
+ "enabled": true,
+ "override": {
+  "step-wood": {
+   "files": [
+    "step-wood-1.wav",
+    "step-wood-2.wav",
+    "step-wood-3.wav",
+    "step-wood-4.wav"
+   ],
+   "gain": 0.648482742922997,
+   "seconds": 0.18,
+   "baked_seconds": 0.15
+  },
+  "step-grass": {
+   "files": [
+    "step-grass-1.wav",
+    "step-grass-2.wav",
+    "step-grass-3.wav",
+    "step-grass-4.wav"
+   ],
+   "gain": 0.5445236037436061,
+   "seconds": 0.18,
+   "baked_seconds": 0.15
+  },
+  "step-gravel": {
+   "files": [
+    "step-gravel-1.wav",
+    "step-gravel-2.wav",
+    "step-gravel-3.wav",
+    "step-gravel-4.wav"
+   ],
+   "gain": 0.7360219748580885,
+   "seconds": 0.18,
+   "baked_seconds": 0.15
+  },
+  "step-dirt": {
+   "files": [
+    "step-dirt-1.wav",
+    "step-dirt-2.wav",
+    "step-dirt-3.wav",
+    "step-dirt-4.wav"
+   ],
+   "gain": 0.23711610664771895,
+   "seconds": 0.18,
+   "baked_seconds": 0.15
+  },
+  "step-concrete": {
+   "files": [
+    "step-concrete-1.wav",
+    "step-concrete-2.wav",
+    "step-concrete-3.wav",
+    "step-concrete-4.wav"
+   ],
+   "gain": 0.7699779227451313,
+   "seconds": 0.144,
+   "baked_seconds": 0.12
+  },
+  "creak-soft": {
+   "files": [
+    "creak-soft-1.wav",
+    "creak-soft-2.wav",
+    "creak-soft-3.wav"
+   ],
+   "gain": 0.019391023419071115,
+   "seconds": 0.24,
+   "baked_seconds": 0.2
+  },
+  "creak-mid": {
+   "files": [
+    "creak-mid-1.wav",
+    "creak-mid-2.wav",
+    "creak-mid-3.wav"
+   ],
+   "gain": 0.03771142731398732,
+   "seconds": 0.42,
+   "baked_seconds": 0.35
+  },
+  "creak-hard": {
+   "files": [
+    "creak-hard-1.wav",
+    "creak-hard-2.wav",
+    "creak-hard-3.wav"
+   ],
+   "gain": 0.055507585721432634,
+   "seconds": 0.564,
+   "baked_seconds": 0.47
+  },
+  "chain": {
+   "files": [
+    "chain-1.wav",
+    "chain-2.wav",
+    "chain-3.wav"
+   ],
+   "gain": 0.0355025925379557,
+   "seconds": 0.4934,
+   "baked_seconds": 0.41113378684807256
+  },
+  "steps-above": {
+   "files": [
+    "steps-above-1.wav",
+    "steps-above-2.wav",
+    "steps-above-3.wav"
+   ],
+   "gain": 0.05310272940849837,
+   "seconds": 0.2912,
+   "baked_seconds": 0.27705215419501134
+  },
+  "knock": {
+   "files": [
+    "knock.wav"
+   ],
+   "gain": 0.13606544093433262,
+   "seconds": 0.18,
+   "baked_seconds": 0.15
+  },
+  "door-open": {
+   "files": [
+    "door-open.wav"
+   ],
+   "gain": 0.015757460717637745,
+   "seconds": 0.924,
+   "baked_seconds": 0.77
+  },
+  "door-close": {
+   "files": [
+    "door-close.wav"
+   ],
+   "gain": 0.015766818550480427,
+   "seconds": 0.924,
+   "baked_seconds": 0.77
+  },
+  "stinger": {
+   "files": [
+    "stinger.wav"
+   ],
+   "gain": 0.3675091149072544,
+   "seconds": 1.8072,
+   "baked_seconds": 1.55
+  }
+ },
+ "extra": {
+  "item-take": {
+   "files": [
+    "item-take.wav"
+   ],
+   "gain": 0.07,
+   "seconds": 1.48
+  },
+  "trunk-open": {
+   "files": [
+    "trunk-open.wav"
+   ],
+   "gain": 0.055,
+   "seconds": 2.0
+  },
+  "tin-open": {
+   "files": [
+    "tin-open.wav"
+   ],
+   "gain": 0.085,
+   "seconds": 2.0
+  },
+  "mattress": {
+   "files": [
+    "mattress.wav"
+   ],
+   "gain": 0.05,
+   "seconds": 2.0
+  },
+  "ladder-take": {
+   "files": [
+    "ladder-take.wav"
+   ],
+   "gain": 0.075,
+   "seconds": 2.48
+  },
+  "fridge-stock": {
+   "files": [
+    "fridge-stock.wav"
+   ],
+   "gain": 0.055,
+   "seconds": 3.0
+  },
+  "paper-open": {
+   "files": [
+    "paper-open.wav"
+   ],
+   "gain": 0.06,
+   "seconds": 1.48
+  },
+  "paper-page": {
+   "files": [
+    "paper-page.wav"
+   ],
+   "gain": 0.05,
+   "seconds": 1.48
+  },
+  "car-start": {
+   "files": [
+    "car-start.wav"
+   ],
+   "gain": 0.11,
+   "seconds": 4.0
+  },
+  "car-drive-v2": {
+   "files": [
+    "car-drive-v2.wav"
+   ],
+   "gain": 0.085,
+   "seconds": 7.7
+  },
+  "dial": {
+   "files": [
+    "dial.wav"
+   ],
+   "gain": 0.08,
+   "seconds": 3.0
+  },
+  "ring-tone": {
+   "files": [
+    "ring-tone.wav"
+   ],
+   "gain": 0.06,
+   "seconds": 4.0
+  },
+  "line-connect": {
+   "files": [
+    "line-connect.wav"
+   ],
+   "gain": 0.07,
+   "seconds": 1.48
+  },
+  "breath-line": {
+   "files": [
+    "breath-line.wav"
+   ],
+   "gain": 0.075,
+   "seconds": 6.0
+  },
+  "lamp-on": {
+   "files": [
+    "lamp-on.wav"
+   ],
+   "gain": 0.055,
+   "seconds": 1.48
+  },
+  "breaker": {
+   "files": [
+    "breaker.wav"
+   ],
+   "gain": 0.13,
+   "seconds": 1.48
+  },
+  "tape-dog": {
+   "files": [
+    "tape-dog.wav"
+   ],
+   "gain": 0.05,
+   "seconds": 4.0
+  },
+  "tape-door-slam": {
+   "files": [
+    "tape-door-slam.wav"
+   ],
+   "gain": 0.1,
+   "seconds": 1.48
+  },
+  "tape-stairs": {
+   "files": [
+    "tape-stairs.wav"
+   ],
+   "gain": 0.07,
+   "seconds": 3.0
+  },
+  "tape-hum": {
+   "files": [
+    "tape-hum.wav"
+   ],
+   "gain": 0.045,
+   "seconds": 6.0
+  },
+  "tape-breath": {
+   "files": [
+    "tape-breath.wav"
+   ],
+   "gain": 0.055,
+   "seconds": 5.0
+  },
+  "hide-leave": {
+   "files": [
+    "hide-leave.wav"
+   ],
+   "gain": 0.06,
+   "seconds": 1.48
+  },
+  "ladder-step": {
+   "files": [
+    "ladder-step.wav"
+   ],
+   "gain": 0.08,
+   "seconds": 2.0
+  },
+  "switch-dead": {
+   "files": [
+    "switch-dead.wav"
+   ],
+   "gain": 0.09,
+   "seconds": 1.0
+  },
+  "crouch-down": {
+   "files": [
+    "crouch-down.wav"
+   ],
+   "gain": 0.055,
+   "seconds": 1.0
+  },
+  "crouch-up": {
+   "files": [
+    "crouch-up.wav"
+   ],
+   "gain": 0.055,
+   "seconds": 1.0
+  },
+  "cloth-run": {
+   "files": [
+    "cloth-run.wav"
+   ],
+   "gain": 0.045,
+   "seconds": 2.0
+  },
+  "breath-tired": {
+   "files": [
+    "breath-tired.wav"
+   ],
+   "gain": 0.07,
+   "seconds": 5.0
+  },
+  "land": {
+   "files": [
+    "land.wav"
+   ],
+   "gain": 0.12,
+   "seconds": 1.48
+  },
+  "breath-hide": {
+   "files": [
+    "breath-hide.wav"
+   ],
+   "gain": 0.06,
+   "seconds": 6.0
+  },
+  "house-dark": {
+   "files": [
+    "house-dark.wav"
+   ],
+   "gain": 0.05,
+   "seconds": 13.8,
+   "loop": true
+  },
+  "yard-bucket": {
+   "files": [
+    "yard-bucket.wav"
+   ],
+   "gain": 0.14,
+   "seconds": 3.0
+  },
+  "yard-gate-far": {
+   "files": [
+    "yard-gate-far.wav"
+   ],
+   "gain": 0.03,
+   "seconds": 2.48
+  },
+  "yard-dog-howl": {
+   "files": [
+    "yard-dog-howl.wav"
+   ],
+   "gain": 0.045,
+   "seconds": 4.0
+  },
+  "yard-crow": {
+   "files": [
+    "yard-crow.wav"
+   ],
+   "gain": 0.07,
+   "seconds": 2.0
+  },
+  "yard-metal-drag": {
+   "files": [
+    "yard-metal-drag.wav"
+   ],
+   "gain": 0.09,
+   "seconds": 3.0
+  },
+  "house-groan": {
+   "files": [
+    "house-groan.wav"
+   ],
+   "gain": 0.05,
+   "seconds": 5.0
+  },
+  "floor-creak-far": {
+   "files": [
+    "floor-creak-far.wav"
+   ],
+   "gain": 0.028,
+   "seconds": 2.0
+  },
+  "door-far": {
+   "files": [
+    "door-far.wav"
+   ],
+   "gain": 0.02,
+   "seconds": 2.48
+  },
+  "bed-creak": {
+   "files": [
+    "bed-creak.wav"
+   ],
+   "gain": 0.04,
+   "seconds": 2.0
+  },
+  "glass-tap": {
+   "files": [
+    "glass-tap.wav"
+   ],
+   "gain": 0.075,
+   "seconds": 2.0
+  },
+  "whisper-close": {
+   "files": [
+    "whisper-close.wav"
+   ],
+   "gain": 0.065,
+   "seconds": 2.0
+  },
+  "breath-behind": {
+   "files": [
+    "breath-behind.wav"
+   ],
+   "gain": 0.06,
+   "seconds": 2.0
+  },
+  "radio-veranda": {
+   "files": [
+    "radio-veranda.wav"
+   ],
+   "gain": 0.055,
+   "seconds": 4.0
+  },
+  "tv-attic": {
+   "files": [
+    "tv-attic.wav"
+   ],
+   "gain": 0.05,
+   "seconds": 4.0
+  },
+  "hum-rise": {
+   "files": [
+    "hum-rise.wav"
+   ],
+   "gain": 0.07,
+   "seconds": 3.0
+  },
+  "sting-soft": {
+   "files": [
+    "sting-soft.wav"
+   ],
+   "gain": 0.18,
+   "seconds": 1.48
+  },
+  "stinger-2": {
+   "files": [
+    "stinger-2.wav"
+   ],
+   "gain": 0.3675091149072544,
+   "seconds": 2.0
+  },
+  "stinger-3": {
+   "files": [
+    "stinger-3.wav"
+   ],
+   "gain": 0.3675091149072544,
+   "seconds": 2.0
+  },
+  "door-knock": {
+   "files": [
+    "door-knock.wav"
+   ],
+   "gain": 0.095,
+   "seconds": 3.0
+  },
+  "basket-drop": {
+   "files": [
+    "basket-drop.wav"
+   ],
+   "gain": 0.08,
+   "seconds": 2.0
+  },
+  "car-fail": {
+   "files": [
+    "car-fail.wav"
+   ],
+   "gain": 0.105,
+   "seconds": 3.48
+  },
+  "canister-pour": {
+   "files": [
+    "canister-pour.wav"
+   ],
+   "gain": 0.07,
+   "seconds": 3.48
+  },
+  "scream-far": {
+   "files": [
+    "scream-far.wav"
+   ],
+   "gain": 0.09,
+   "seconds": 2.48
+  },
+  "rain": {
+   "files": [
+    "rain.wav"
+   ],
+   "gain": 0.055,
+   "seconds": 8.0,
+   "loop": true
+  },
+  "thunder": {
+   "files": [
+    "thunder-1.wav",
+    "thunder-2.wav",
+    "thunder-3.wav"
+   ],
+   "gain": 0.155,
+   "seconds": 5.0
+  },
+  "horror-run-wood": {
+   "files": [
+    "horror-run-wood.wav"
+   ],
+   "gain": 0.12,
+   "seconds": 3.9668
+  },
+  "horror-run-gravel": {
+   "files": [
+    "horror-run-gravel.wav"
+   ],
+   "gain": 0.12,
+   "seconds": 3.9577
+  },
+  "horror-wet-steps": {
+   "files": [
+    "horror-wet-steps.wav"
+   ],
+   "gain": 0.09,
+   "seconds": 3.9389
+  },
+  "horror-cloth": {
+   "files": [
+    "horror-cloth.wav"
+   ],
+   "gain": 0.06,
+   "seconds": 3.5685
+  },
+  "horror-shovel-windup": {
+   "files": [
+    "horror-shovel-windup.wav"
+   ],
+   "gain": 0.1,
+   "seconds": 3.99
+  },
+  "horror-shovel-impact": {
+   "files": [
+    "horror-shovel-impact.wav"
+   ],
+   "gain": 0.16,
+   "seconds": 3.7661
+  },
+  "horror-latch": {
+   "files": [
+    "horror-latch.wav"
+   ],
+   "gain": 0.07,
+   "seconds": 3.4239
+  },
+  "horror-window-hit": {
+   "files": [
+    "horror-window-hit.wav"
+   ],
+   "gain": 0.1,
+   "seconds": 3.726
+  },
+  "horror-tin": {
+   "files": [
+    "horror-tin.wav"
+   ],
+   "gain": 0.08,
+   "seconds": 3.99
+  },
+  "horror-door": {
+   "files": [
+    "horror-door.wav"
+   ],
+   "gain": 0.07,
+   "seconds": 3.99
+  },
+  "horror-attic-creak": {
+   "files": [
+    "horror-attic-creak.wav"
+   ],
+   "gain": 0.07,
+   "seconds": 3.6943
+  },
+  "horror-ring-echo": {
+   "files": [
+    "horror-ring-echo.wav"
+   ],
+   "gain": 0.1,
+   "seconds": 3.99
+  },
+  "horror-amb-house": {
+   "files": [
+    "horror-amb-house.wav"
+   ],
+   "gain": 0.025,
+   "seconds": 18.8,
+   "loop": true
+  },
+  "horror-amb-forest": {
+   "files": [
+    "horror-amb-forest.wav"
+   ],
+   "gain": 0.02,
+   "seconds": 18.8,
+   "loop": true
+  },
+  "horror-amb-shore": {
+   "files": [
+    "horror-amb-shore.wav"
+   ],
+   "gain": 0.022,
+   "seconds": 18.8,
+   "loop": true
+  },
+  "horror-amb-cellar": {
+   "files": [
+    "horror-amb-cellar.wav"
+   ],
+   "gain": 0.025,
+   "seconds": 18.8,
+   "loop": true
+  },
+  "snt-pump-knock": {
+   "files": [
+    "snt-pump-knock.wav"
+   ],
+   "gain": 0.1,
+   "seconds": 2.0
+  },
+  "snt-pump-stop": {
+   "files": [
+    "snt-pump-stop.wav"
+   ],
+   "gain": 0.07,
+   "seconds": 3.0
+  },
+  "snt-filter": {
+   "files": [
+    "snt-filter.wav"
+   ],
+   "gain": 0.07,
+   "seconds": 3.0
+  },
+  "snt-drip": {
+   "files": [
+    "snt-drip.wav"
+   ],
+   "gain": 0.04,
+   "seconds": 4.0
+  },
+  "snt-bucket": {
+   "files": [
+    "snt-bucket.wav"
+   ],
+   "gain": 0.08,
+   "seconds": 3.0
+  },
+  "snt-shutter": {
+   "files": [
+    "snt-shutter.wav"
+   ],
+   "gain": 0.09,
+   "seconds": 3.0
+  },
+  "snt-radio-tune": {
+   "files": [
+    "snt-radio-tune.wav"
+   ],
+   "gain": 0.05,
+   "seconds": 5.0
+  },
+  "snt-radio-silence": {
+   "files": [
+    "snt-radio-silence.wav"
+   ],
+   "gain": 0.04,
+   "seconds": 3.0
+  },
+  "snt-forest-steps": {
+   "files": [
+    "snt-forest-steps.wav"
+   ],
+   "gain": 0.08,
+   "seconds": 5.0
+  },
+  "snt-branch": {
+   "files": [
+    "snt-branch.wav"
+   ],
+   "gain": 0.06,
+   "seconds": 3.0
+  },
+  "snt-gate": {
+   "files": [
+    "snt-gate.wav"
+   ],
+   "gain": 0.05,
+   "seconds": 4.0
+  },
+  "snt-window-breath": {
+   "files": [
+    "snt-window-breath.wav"
+   ],
+   "gain": 0.035,
+   "seconds": 5.0
+  },
+  "snt-panel": {
+   "files": [
+    "snt-panel.wav"
+   ],
+   "gain": 0.08,
+   "seconds": 3.0
+  },
+  "snt-cellar-latch": {
+   "files": [
+    "snt-cellar-latch.wav"
+   ],
+   "gain": 0.07,
+   "seconds": 3.0
+  },
+  "snt-beam": {
+   "files": [
+    "snt-beam.wav"
+   ],
+   "gain": 0.06,
+   "seconds": 4.0
+  },
+  "snt-mill-touch": {
+   "files": [
+    "snt-mill-touch.wav"
+   ],
+   "gain": 0.045,
+   "seconds": 4.0
+  },
+  "snt-wet-porch": {
+   "files": [
+    "snt-wet-porch.wav"
+   ],
+   "gain": 0.08,
+   "seconds": 5.0
+  },
+  "snt-yard-pass": {
+   "files": [
+    "snt-yard-pass.wav"
+   ],
+   "gain": 0.055,
+   "seconds": 4.0
+  },
+  "snt-far-call": {
+   "files": [
+    "snt-far-call.wav"
+   ],
+   "gain": 0.03,
+   "seconds": 7.0
+  },
+  "snt-quiet-return": {
+   "files": [
+    "snt-quiet-return.wav"
+   ],
+   "gain": 0.025,
+   "seconds": 8.0
+  }
+ }
+}

@@ -1,0 +1,9 @@
+Retro CRT TV - 1980s Television (Game-Ready)
+Author: Ricardo Reis dos Santos (KingRichard3d)
+URL: https://sketchfab.com/3d-models/none-bc6ec66e1a624613be3236984a9fc37d
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:42:16.313097
+SHA256: 5c6fd354cc3e43e48ae69ff16ec875721b14b87b12117e6ef69dedf0db4a7e1f
+Source archive unchanged.

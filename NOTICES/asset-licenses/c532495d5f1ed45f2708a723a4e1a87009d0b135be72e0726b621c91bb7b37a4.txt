@@ -1,0 +1,9 @@
+Wooden Ladle
+Author: Dr_Kryzel (Dr_Kryzel)
+URL: https://sketchfab.com/3d-models/none-a234707b21b340e0a544276e215e2bae
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:19:02.253963
+SHA256: 600a67a23e7b66f05cee8d171d2f1d6a3ea29bde3e575ec34dd476254b3dcf64
+Source archive unchanged.

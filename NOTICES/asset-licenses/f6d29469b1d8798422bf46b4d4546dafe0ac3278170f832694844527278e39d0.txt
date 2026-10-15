@@ -1,0 +1,9 @@
+1920's Hotel Leather Ledger
+Author: Nicholas Record (nrecord)
+URL: https://sketchfab.com/3d-models/none-fdeed37ffb9e4cdfa40e44a5f2ca5c53
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:50:44.208871
+SHA256: 3ca931f58e0ebef034590b9ce6208892d54f0ab2d8cec5e7c7267ea295bf7304
+Source archive unchanged.

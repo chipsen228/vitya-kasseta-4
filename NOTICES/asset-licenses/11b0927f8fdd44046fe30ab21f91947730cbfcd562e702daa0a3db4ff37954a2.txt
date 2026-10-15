@@ -1,0 +1,9 @@
+Soviet Bed
+Author: ToKyOjE (ToKyOjE)
+URL: https://sketchfab.com/3d-models/none-098ec57b5c8748a78c6bedb9d4b414de
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T17:00:01.278220
+SHA256: ca9814ddae1ae007710519fed4c81c1fbe5fb067312b448862842a9209e091df
+Source archive unchanged.

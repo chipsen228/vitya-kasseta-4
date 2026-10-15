@@ -1,0 +1,9 @@
+cinema camera with simple tripod
+Author: SILVER KEY (silver_key_nerd)
+URL: https://sketchfab.com/3d-models/none-1268b1dafe1c4aafb25e0d6be044da0b
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:44:09.888753
+SHA256: 7d29891b578372e878223eca905566c4c79aff13994cd07ef9d76c12fe215ff2
+Source archive unchanged.

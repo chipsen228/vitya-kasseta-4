@@ -1,0 +1,270 @@
+{
+ "SHOTS": {
+  "kitchen-1": {
+   "src": "assets/tape/kitchen-1.webp",
+   "scene": "kitchen",
+   "move": "hold",
+   "dur": 4.5,
+   "mono": false
+  },
+  "kitchen-2": {
+   "src": "assets/tape/kitchen-2.webp",
+   "scene": "kitchen",
+   "move": "push-in",
+   "dur": 5,
+   "mono": false
+  },
+  "kitchen-3": {
+   "src": "assets/tape/kitchen-3.webp",
+   "scene": "kitchen",
+   "move": "pan-right",
+   "dur": 4,
+   "mono": false
+  },
+  "yard-1": {
+   "src": "assets/tape/yard-1.webp",
+   "scene": "yard",
+   "move": "hold",
+   "dur": 4,
+   "mono": false
+  },
+  "yard-2": {
+   "src": "assets/tape/yard-2.webp",
+   "scene": "yard",
+   "move": "pan-left",
+   "dur": 4.5,
+   "mono": false
+  },
+  "yard-3": {
+   "src": "assets/tape/yard-3.webp",
+   "scene": "yard",
+   "move": "push-in",
+   "dur": 4,
+   "mono": false
+  },
+  "behind-shed-1": {
+   "src": "assets/tape/behind-shed-1.webp",
+   "scene": "behind-shed",
+   "move": "pan-right",
+   "dur": 4.5,
+   "mono": false
+  },
+  "behind-shed-2": {
+   "src": "assets/tape/behind-shed-2.webp",
+   "scene": "behind-shed",
+   "move": "tilt-down",
+   "dur": 4,
+   "mono": false
+  },
+  "behind-shed-3": {
+   "src": "assets/tape/behind-shed-3.webp",
+   "scene": "behind-shed",
+   "move": "push-in",
+   "dur": 4.5,
+   "mono": false
+  },
+  "doorway-1": {
+   "src": "assets/tape/doorway-1.webp",
+   "scene": "doorway",
+   "move": "hold",
+   "dur": 6,
+   "mono": false
+  },
+  "doorway-2": {
+   "src": "assets/tape/doorway-2.webp",
+   "scene": "doorway",
+   "move": "hold",
+   "dur": 5.5,
+   "mono": false
+  },
+  "doorway-3": {
+   "src": "assets/tape/doorway-3.webp",
+   "scene": "doorway",
+   "move": "push-in",
+   "dur": 5,
+   "mono": false
+  },
+  "fridge-open-1": {
+   "src": "assets/tape/fridge-open-1.webp",
+   "scene": "fridge-open",
+   "move": "hold",
+   "dur": 5,
+   "mono": false
+  },
+  "fridge-open-2": {
+   "src": "assets/tape/fridge-open-2.webp",
+   "scene": "fridge-open",
+   "move": "push-in",
+   "dur": 4.5,
+   "mono": false
+  },
+  "fridge-open-3": {
+   "src": "assets/tape/fridge-open-3.webp",
+   "scene": "fridge-open",
+   "move": "hold",
+   "dur": 5,
+   "mono": false
+  },
+  "loft-1": {
+   "src": "assets/tape/loft-1.webp",
+   "scene": "loft",
+   "move": "pan-right",
+   "dur": 4.5,
+   "mono": false
+  },
+  "loft-2": {
+   "src": "assets/tape/loft-2.webp",
+   "scene": "loft",
+   "move": "tilt-down",
+   "dur": 4,
+   "mono": false
+  },
+  "loft-3": {
+   "src": "assets/tape/loft-3.webp",
+   "scene": "loft",
+   "move": "hold",
+   "dur": 4,
+   "mono": false
+  },
+  "loft-tv-1": {
+   "src": "assets/tape/loft-tv-1.webp",
+   "scene": "loft-tv",
+   "move": "push-in",
+   "dur": 4.5,
+   "mono": false
+  },
+  "loft-tv-2": {
+   "src": "assets/tape/loft-tv-2.webp",
+   "scene": "loft-tv",
+   "move": "hold",
+   "dur": 4,
+   "mono": false
+  },
+  "rafters-1": {
+   "src": "assets/tape/rafters-1.webp",
+   "scene": "rafters",
+   "move": "hold",
+   "dur": 3,
+   "mono": false
+  },
+  "rafters-2": {
+   "src": "assets/tape/rafters-2.webp",
+   "scene": "rafters",
+   "move": "tilt-down",
+   "dur": 3.5,
+   "mono": false
+  },
+  "bedroom-1": {
+   "src": "assets/tape/bedroom-1.webp",
+   "scene": "bedroom",
+   "move": "hold",
+   "dur": 5,
+   "mono": false
+  },
+  "bedroom-2": {
+   "src": "assets/tape/bedroom-2.webp",
+   "scene": "bedroom",
+   "move": "pan-left",
+   "dur": 4.5,
+   "mono": false
+  },
+  "bedroom-3": {
+   "src": "assets/tape/bedroom-3.webp",
+   "scene": "bedroom",
+   "move": "push-in",
+   "dur": 4.5,
+   "mono": false
+  },
+  "corridor-1": {
+   "src": "assets/tape/corridor-1.webp",
+   "scene": "corridor",
+   "move": "push-in",
+   "dur": 4,
+   "mono": false
+  },
+  "corridor-2": {
+   "src": "assets/tape/corridor-2.webp",
+   "scene": "corridor",
+   "move": "hold",
+   "dur": 3.5,
+   "mono": false
+  },
+  "corridor-3": {
+   "src": "assets/tape/corridor-3.webp",
+   "scene": "corridor",
+   "move": "pan-right",
+   "dur": 4,
+   "mono": false
+  },
+  "vitya-sleeping-1": {
+   "src": "assets/tape/vitya-sleeping-1.webp",
+   "scene": "vitya-sleeping",
+   "move": "hold",
+   "dur": 5.5,
+   "mono": false
+  },
+  "vitya-sleeping-2": {
+   "src": "assets/tape/vitya-sleeping-2.webp",
+   "scene": "vitya-sleeping",
+   "move": "push-in",
+   "dur": 5,
+   "mono": false
+  }
+ },
+ "SCENE_SHOTS": {
+  "kitchen": [
+   "kitchen-1",
+   "kitchen-2",
+   "kitchen-3"
+  ],
+  "yard": [
+   "yard-1",
+   "yard-2",
+   "yard-3"
+  ],
+  "behind-shed": [
+   "behind-shed-1",
+   "behind-shed-2",
+   "behind-shed-3"
+  ],
+  "doorway": [
+   "doorway-1",
+   "doorway-2",
+   "doorway-3"
+  ],
+  "fridge-open": [
+   "fridge-open-1",
+   "fridge-open-2",
+   "fridge-open-3"
+  ],
+  "loft": [
+   "loft-1",
+   "loft-2",
+   "loft-3"
+  ],
+  "loft-tv": [
+   "loft-tv-1",
+   "loft-tv-2"
+  ],
+  "rafters": [
+   "rafters-1",
+   "rafters-2"
+  ],
+  "bedroom": [
+   "bedroom-1",
+   "bedroom-2",
+   "bedroom-3"
+  ],
+  "corridor": [
+   "corridor-1",
+   "corridor-2",
+   "corridor-3"
+  ],
+  "vitya-sleeping": [
+   "vitya-sleeping-1",
+   "vitya-sleeping-2"
+  ],
+  "dark": [],
+  "face-photo": []
+ }
+}

@@ -1,0 +1,9 @@
+Corrugated Metal Sheet - Type 1
+Author: Mareon (mareoncz)
+URL: https://sketchfab.com/3d-models/none-990d00952f024be2abdfd8597cd577ea
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:42:22.460500
+SHA256: 5e2f6b70f1628b8251057e609d1280efd02bcc1381cfcb4c4c623c72d7df9027
+Source archive unchanged.

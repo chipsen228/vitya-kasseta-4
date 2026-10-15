@@ -1,0 +1,9 @@
+Curtain
+Author: miranda.j.rice (miranda.j.rice)
+URL: https://sketchfab.com/3d-models/none-7187bae2a1944e2ab5b9c91b400558f1
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:23:30.322930
+SHA256: 77c4ae5c50772161981329880bf273f22f97b201a19dca2c8daeddc71b6a3d63
+Source archive unchanged.

@@ -1,0 +1,9 @@
+Realistic Trees Collection
+Author: Jungle Jim (jungle_jim)
+URL: https://sketchfab.com/3d-models/none-fe67c886eebf4bcb988d7c45e69995ad
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:59:32.750393
+SHA256: 773324d3894dbc10468b062c1519e701b8e3415773af2d7f666224eddc128f72
+Source archive unchanged.

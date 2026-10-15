@@ -1,0 +1,8 @@
+VHS Tape
+Author: BJ Hemmingway (bjhemmingway)
+URL: https://sketchfab.com/3d-models/none-36d4025e5e6741a181e7ac63083cb637
+License: Creative Commons Attribution
+http://creativecommons.org/licenses/by/4.0/
+Downloaded: 2026-09-15T16:14:29.623884
+SHA256: 975327983513f22972f86fa74dc41d64083a5c98f7a35613d66a530636ae005c
+No changes to source archive.

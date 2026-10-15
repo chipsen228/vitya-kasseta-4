@@ -1,0 +1,9 @@
+Wallet
+Author: apleesee (apleesee)
+URL: https://sketchfab.com/3d-models/none-ccfcc4ae6efa44a2ba34c4c479be7daf
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T17:05:20.164278
+SHA256: aca23ad45cdea5889eab495b730d07050b74b0363a77895cd9d67a049d0db5c8
+Source archive unchanged.

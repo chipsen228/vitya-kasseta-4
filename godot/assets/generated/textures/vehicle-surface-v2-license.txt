@@ -1,0 +1,4 @@
+vehicle-surface-v2-micro.res and vehicle-surface-v2-normal.res
+Original deterministic procedural maps; CC0-1.0.
+Source: src/vehicle_visuals.gd, bake_surface_cache(), seed 19881003.
+No photographs, third-party image pixels or model geometry were used.

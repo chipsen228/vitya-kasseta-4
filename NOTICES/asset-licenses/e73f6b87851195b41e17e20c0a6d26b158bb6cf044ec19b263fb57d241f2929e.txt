@@ -1,0 +1,9 @@
+Enameled basin
+Author: nesterova (nesterova.1001.29.09)
+URL: https://sketchfab.com/3d-models/none-7e84f200e92c4deaa33f3e3637735986
+License: by
+https://creativecommons.org/licenses/by/4.0/
+License evidence: Sketchfab public API metadata/search cache from 2026-09-15; authenticated download endpoint checked now
+Downloaded: 2026-09-15T16:22:16.701027
+SHA256: db091d3a03d416e4b42baff74997806fe24ed4345d6ed0b2b21a3e7873fc3458
+Source archive unchanged.
